@@ -1,0 +1,2512 @@
+,pdb_name,has_Fc,has_antibody,has_immunoglobulin,description
+0,1A3L,False,False,True,IMMUNOGLOBULIN FAB 13G5 (LIGHT CHAIN)
+1,1A3L,False,False,True,IMMUNOGLOBULIN FAB 13G5 (HEAVY CHAIN)
+2,1A4J,False,True,True,"IMMUNOGLOBULIN, DIELS ALDER CATALYTIC ANTIBODY (LIGHT CHAIN)"
+3,1A4J,False,True,True,"IMMUNOGLOBULIN, DIELS ALDER CATALYTIC ANTIBODY (HEAVY CHAIN)"
+4,1A4K,False,True,False,ANTIBODY FAB
+5,1A4K,False,True,False,ANTIBODY FAB
+6,1A5F,False,True,False,MONOCLONAL ANTI-E-SELECTIN 7A9 ANTIBODY (LIGHT CHAIN)
+7,1A5F,False,True,False,MONOCLONAL ANTI-E-SELECTIN 7A9 ANTIBODY (HEAVY CHAIN)
+8,1A8J,False,False,True,IMMUNOGLOBULIN LAMBDA LIGHT CHAIN DIMER (MCG)
+9,1AD0,False,True,False,ANTIBODY A5B7 (LIGHT CHAIN)
+10,1AD0,False,True,False,ANTIBODY A5B7 (HEAVY CHAIN)
+11,1ADQ,True,False,False,IGG4 REA FC
+12,1AFV,False,True,False,ANTIBODY FAB25.3 FRAGMENT (LIGHT CHAIN)
+13,1AFV,False,True,False,ANTIBODY FAB25.3 FRAGMENT (HEAVY CHAIN)
+14,1AHW,False,False,True,IMMUNOGLOBULIN FAB 5G9 (LIGHT CHAIN)
+15,1AHW,False,False,True,IMMUNOGLOBULIN FAB 5G9 (HEAVY CHAIN)
+16,1AJ7,False,False,True,IMMUNOGLOBULIN 48G7 FAB (LIGHT CHAIN)
+17,1AJ7,False,False,True,IMMUNOGLOBULIN 48G7 FAB (HEAVY CHAIN)
+18,1AP2,False,True,False,MONOCLONAL ANTIBODY C219
+19,1AP2,False,True,False,MONOCLONAL ANTIBODY C219
+20,1AR1,False,True,False,ANTIBODY FV FRAGMENT
+21,1AR1,False,True,False,ANTIBODY FV FRAGMENT
+22,1AXS,False,True,False,OXY-COPE CATALYTIC ANTIBODY
+23,1AXS,False,True,False,OXY-COPE CATALYTIC ANTIBODY
+24,1AXT,False,False,True,IMMUNOGLOBULIN IGG2A
+25,1AXT,False,False,True,IMMUNOGLOBULIN IGG2A
+26,1B2W,False,True,False,PROTEIN (ANTIBODY (LIGHT CHAIN))
+27,1B2W,False,True,False,PROTEIN (ANTIBODY (HEAVY CHAIN))
+28,1B4J,False,True,False,ANTIBODY
+29,1B4J,False,True,False,ANTIBODY
+30,1B6D,False,False,True,IMMUNOGLOBULIN
+31,1BEY,False,True,False,CAMPATH-1H ANTIBODY
+32,1BEY,False,True,False,CAMPATH-1H ANTIBODY
+33,1BFO,False,True,False,CAMPATH-1G ANTIBODY
+34,1BFO,False,True,False,CAMPATH-1G ANTIBODY
+35,1BLN,False,True,False,PROTEIN (MONOCLONAL ANTIBODY MRK-16 (LIGHT CHAIN))
+36,1BLN,False,True,False,PROTEIN (MONOCLONAL ANTIBODY MRK-16 (HEAVY CHAIN))
+37,1BM3,False,False,True,"IMMUNOGLOBULIN OPG2 FAB, CONSTANT DOMAIN"
+38,1BM3,False,False,True,"IMMUNOGLOBULIN OPG2 FAB, VARIABLE DOMAIN"
+39,1BOG,False,True,False,ANTIBODY (CB 4-1)
+40,1BOG,False,True,False,ANTIBODY (CB 4-1)
+41,1BZ7,False,True,False,PROTEIN (ANTIBODY R24 (LIGHT CHAIN))
+42,1BZ7,False,True,False,PROTEIN (ANTIBODY R24 (HEAVY CHAIN))
+43,1BZQ,False,True,False,PROTEIN (ANTIBODY CAB-RN05)
+44,1C08,False,True,False,ANTI-HEN EGG WHITE LYSOZYME ANTIBODY (HYHEL-10)
+45,1C08,False,True,False,ANTI-HEN EGG WHITE LYSOZYME ANTIBODY (HYHEL-10)
+46,1C12,False,True,False,PROTEIN (ANTIBODY FRAGMENT FAB)
+47,1C12,False,True,False,PROTEIN (ANTIBODY FRAGMENT FAB)
+48,1C1E,False,True,False,CATALYTIC ANTIBODY 1E9 (LIGHT CHAIN)
+49,1C1E,False,True,False,CATALYTIC ANTIBODY 1E9 (HEAVY CHAIN)
+50,1C5B,False,True,False,CHIMERIC DECARBOXYLASE ANTIBODY 21D8
+51,1C5B,False,True,False,CHIMERIC DECARBOXYLASE ANTIBODY 21D8
+52,1C5C,False,True,False,CHIMERIC DECARBOXYLASE ANTIBODY 21D8
+53,1C5C,False,True,False,CHIMERIC DECARBOXYLASE ANTIBODY 21D8
+54,1C5D,False,True,False,MONOCLONAL ANTIBODY AGAINST THE MAIN IMMUNOGENIC REGION OF THE HUMAN MUSCLE ACETYLCHOLINE RECEPTOR
+55,1C5D,False,True,False,MONOCLONAL ANTIBODY AGAINST THE MAIN IMMUNOGENIC REGION OF THE HUMAN MUSCLE ACETYLCHOLINE RECEPTOR
+56,1CBV,False,True,False,PROTEIN (FAB (BV04-01) AUTOANTIBODY-LIGHT CHAIN)
+57,1CBV,False,True,False,PROTEIN (FAB (BV04-01) AUTOANTIBODY-HEAVY CHAIN)
+58,1CD0,False,False,True,"PROTEIN (JTO, A VARIABLE DOMAIN FROM LAMBDA-6 TYPE IMMUNOGLOBULIN LIGHT CHAIN)"
+59,1CF8,False,True,False,PROTEIN (CATALYTIC ANTIBODY 19A4 (LIGHT CHAIN))
+60,1CF8,False,True,False,PROTEIN (CATALYTIC ANTIBODY 19A4 (HEAVY CHAIN))
+61,1CFN,False,True,False,PROTEIN (IGG2A KAPPA ANTIBODY CB41 (LIGHT CHAIN))
+62,1CFN,False,True,False,PROTEIN (IGG2A-KAPPA ANTIBODY CB41 (HEAVY CHAIN))
+63,1CFQ,False,True,False,PROTEIN (IGG2A KAPPA ANTIBODY CB41 (LIGHT CHAIN))
+64,1CFQ,False,True,False,PROTEIN (IGG2A KAPPA ANTIBODY CB41 (HEAVY CHAIN))
+65,1CFS,False,True,False,PROTEIN (IGG2A KAPPA ANTIBODY CB41 (LIGHT CHAIN))
+66,1CFS,False,True,False,PROTEIN (IGG2A KAPPA ANTIBODY CB41 (HEAVY CHAIN))
+67,1CFT,False,True,False,PROTEIN (IGG2A KAPPA ANTIBODY CB41 (LIGHT CHAIN))
+68,1CFT,False,True,False,PROTEIN (IGG2A KAPPA ANTIBODY CB41 (HEAVY CHAIN))
+69,1CFV,False,True,False,MONOCLONAL ANTIBODY FV4155
+70,1CFV,False,True,False,MONOCLONAL ANTIBODY FV4155
+71,1CK0,False,True,False,PROTEIN (IGG1-KAPPA ANTIBODY 131 (LIGHT CHAIN))
+72,1CK0,False,True,False,PROTEIN (IGG1-KAPPA ANTIBODY 131 (HEAVY CHAIN))
+73,1CL7,False,True,False,PROTEIN (IGG1 ANTIBODY 1696 (light chain))
+74,1CL7,False,True,False,PROTEIN (IGG1 ANTIBODY 1696 (variable heavy chain))
+75,1CL7,False,True,False,PROTEIN (IGG1 ANTIBODY 1696 (constant heavy chain))
+76,1CLO,False,True,False,A5B7 MONOCLONAL ANTIBODY
+77,1CLO,False,True,False,A5B7 MONOCLONAL ANTIBODY
+78,1CQK,False,True,False,CH3 DOMAIN OF MAK33 ANTIBODY
+79,1CR9,False,True,False,FAB ANTIBODY LIGHT CHAIN
+80,1CR9,False,True,False,FAB ANTIBODY HEAVY CHAIN
+81,1CZ8,False,True,False,LIGHT CHAIN OF NEUTRALIZING ANTIBODY
+82,1CZ8,False,True,False,HEAVY CHAIN OF NEUTRALIZING ANTIBODY
+83,1D5B,False,True,False,chimeric OXY-COPE catalytic ANTIBODY AZ-28 (light chain)
+84,1D5B,False,True,False,chimeric OXY-COPE catalytic ANTIBODY AZ-28 (HEAVY chain)
+85,1D5I,False,True,False,CHIMERIC GERMLINE PRECURSOR OF OXY-COPE CATALYTIC ANTIBODY AZ-28 (LIGHT CHAIN)
+86,1D5I,False,True,False,CHIMERIC GERMLINE PRECURSOR OF OXY-COPE CATALYTIC ANTIBODY AZ-28 (HEAVY CHAIN)
+87,1D6V,False,True,False,CHIMERIC GERMLINE PRECURSOR OF OXY-COPE CATALYTIC ANTIBODY AZ-28 (LIGHT CHAIN)
+88,1D6V,False,True,False,CHIMERIC GERMLINE PRECURSOR OF OXY-COPE CATALYTIC ANTIBODY AZ-28 (HEAVY CHAIN)
+89,1DEE,False,False,True,IMMUNOGLOBULIN G BINDING PROTEIN A
+90,1DL7,False,True,False,PROTEIN (ANTIBODY M3C65 (LIGHT CHAIN))
+91,1DL7,False,True,False,PROTEIN (ANTIBODY M3C65 (HEAVY CHAIN))
+92,1DLF,False,False,True,ANTI-DANSYL IMMUNOGLOBULIN IGG2A(S)
+93,1DLF,False,False,True,ANTI-DANSYL IMMUNOGLOBULIN IGG2A(S)
+94,1DN2,False,False,True,IMMUNOGLOBULIN LAMBDA HEAVY CHAIN
+95,1DQJ,False,True,False,ANTI-LYSOZYME ANTIBODY HYHEL-63 (LIGHT CHAIN)
+96,1DQJ,False,True,False,ANTI-LYSOZYME ANTIBODY HYHEL-63 (HEAVY CHAIN)
+97,1DQL,False,False,True,IGM MEZ IMMUNOGLOBULIN
+98,1DQL,False,False,True,IGM MEZ IMMUNOGLOBULIN
+99,1DQM,False,True,False,ANTI-LYSOZYME ANTIBODY HYHEL-63 (LIGHT CHAIN)
+100,1DQM,False,True,False,ANTI-LYSOZYME ANTIBODY HYHEL-63 (HEAVY CHAIN)
+101,1DQQ,False,True,False,ANTI-LYSOZYME ANTIBODY HYHEL-63 (LIGHT CHAIN)
+102,1DQQ,False,True,False,ANTI-LYSOZYME ANTIBODY HYHEL-63 (HEAVY CHAIN)
+103,1DSF,False,True,False,ANTICANCER ANTIBODY B1
+104,1DSF,False,True,False,ANTICANCER ANTIBODY B1
+105,1E4J,True,False,True,LOW AFFINITY IMMUNOGLOBULIN GAMMA FC RECEPTOR III
+106,1E4K,True,False,False,FC FRAGMENT OF HUMAN IGG1
+107,1E4K,True,False,True,LOW AFFINITY IMMUNOGLOBULIN GAMMA FC RECEPTOR III
+108,1E6J,False,False,True,IMMUNOGLOBULIN
+109,1E6J,False,False,True,IMMUNOGLOBULIN
+110,1E6O,False,False,True,IMMUNOGLOBULIN HEAVY CHAIN
+111,1E6O,False,False,True,IMMUNOGLOBULIN LIGHT CHAIN
+112,1EEQ,False,False,True,KAPPA-4 IMMUNOGLOBULIN (LIGHT CHAIN)
+113,1EEU,False,False,True,KAPPA-4 IMMUNOGLOBULIN (LIGHT CHAIN)
+114,1EFQ,False,False,True,KAPPA-4 IMMUNOGLOBULIN (LIGHT CHAIN)
+115,1EGJ,False,True,False,ANTIBODY (LIGHT CHAIN)
+116,1EGJ,False,True,False,ANTIBODY (HEAVY CHAIN)
+117,1EHL,False,True,False,ANTI-(6-4) PHOTOPRODUCT ANTIBODY 64M-2 FAB (LIGHT CHAIN)
+118,1EHL,False,True,False,ANTI-(6-4) PHOTOPRODUCT ANTIBODY 64M-2 FAB (HEAVY CHAIN)
+119,1EJO,False,True,False,IGG2A MONOCLONAL ANTIBODY (LIGHT CHAIN)
+120,1EJO,False,True,False,IGG2A MONOCLONAL ANTIBODY (HEAVY CHAIN)
+121,1EK3,False,False,True,KAPPA-4 IMMUNOGLOBULIN LIGHT CHAIN VL
+122,1EMT,False,True,False,IGG ANTIBODY (LIGHT CHAIN)
+123,1EMT,False,True,False,IGG ANTIBODY (HEAVY CHAIN)
+124,1EO8,False,True,False,ANTIBODY (LIGHT CHAIN)
+125,1EO8,False,True,False,ANTIBODY (HEAVY CHAIN)
+126,1EXU,True,False,False,IGG RECEPTOR FCRN LARGE SUBUNIT P51
+127,1F11,False,False,True,F124 IMMUNOGLOBULIN (KAPPA LIGHT CHAIN)
+128,1F11,False,False,True,F124 IMMUNOGLOBULIN (IGG1 HEAVY CHAIN)
+129,1F2Q,False,False,True,HIGH AFFINITY IMMUNOGLOBULIN EPSILON RECEPTOR ALPHA-SUBUNIT
+130,1F2X,False,True,False,ANTIBODY HEAVY CHAIN
+131,1F3D,False,True,False,CATALYTIC ANTIBODY 4B2
+132,1F3D,False,True,False,CATALYTIC ANTIBODY 4B2
+133,1F3R,False,True,False,FV ANTIBODY FRAGMENT
+134,1F4W,False,True,False,"ANTIBODY S-20-4, FAB FRAGMENT, LIGHT CHAIN"
+135,1F4W,False,True,False,"ANTIBODY S-20-4, FAB FRAGMENT, HEAVY CHAIN"
+136,1F4X,False,True,False,"ANTIBODY S-20-4, FAB FRAGMENT, LIGHT CHAIN"
+137,1F4X,False,True,False,"ANTIBODY S-20-4, FAB FRAGMENT, HEAVY CHAIN"
+138,1F4Y,False,True,False,"ANTIBODY S-20-4, FAB FRAGMENT, LIGHT CHAIN"
+139,1F4Y,False,True,False,"ANTIBODY S-20-4, FAB FRAGMENT, HEAVY CHAIN"
+140,1F58,False,True,False,PROTEIN (IGG1 ANTIBODY 58.2 (LIGHT CHAIN))
+141,1F58,False,True,False,PROTEIN (IGG1 ANTIBODY 58.2 (HEAVY CHAIN))
+142,1F6A,False,False,True,HIGH AFFINITY IMMUNOGLOBULIN EPSILON RECEPTOR ALPHA-SUBUNIT
+143,1F6L,False,False,True,ANTI-FERRITIN IMMUNOGLOBULIN LIGHT CHAIN
+144,1F8T,False,True,False,ANTIBODY FAB FRAGMENT (LIGHT CHAIN)
+145,1F8T,False,True,False,ANTIBODY FAB FRAGMENT (HEAVY CHAIN)
+146,1F90,False,True,False,FAB FRAGMENT OF MONOCLONAL ANTIBODY
+147,1F90,False,True,False,FAB FRAGMENT OF MONOCLONAL ANTIBODY
+148,1FC1,True,False,False,FC FRAGMENT
+149,1FC2,True,False,True,IMMUNOGLOBULIN FC
+150,1FCC,True,False,False,IGG1 MO61 FC
+151,1FCG,True,False,False,PROTEIN (FC RECEPTOR FC(GAMMA)RIIA)
+152,1FCL,False,False,True,IMMUNOGLOBULIN G BINDING PROTEIN G
+153,1FD6,False,False,True,IMMUNOGLOBULIN G BINDING PROTEIN G
+154,1FE8,False,False,True,IMMUNOGLOBULIN IGG RU5
+155,1FE8,False,False,True,IMMUNOGLOBULIN IGG RU5
+156,1FGN,False,False,True,IMMUNOGLOBULIN FAB 5G9
+157,1FGN,False,False,True,IMMUNOGLOBULIN FAB 5G9
+158,1FH5,False,True,False,MONOCLONAL ANTIBODY MAK33
+159,1FH5,False,True,False,MONOCLONAL ANTIBODY MAK33
+160,1FJ1,False,True,False,HYBRIDOMA ANTIBODY LA2 (LIGHT CHAIN)
+161,1FJ1,False,True,False,HYBRIDOMA ANTIBODY LA2 (HEAVY CHAIN)
+162,1FL3,False,True,False,BLUE FLUORESCENT ANTIBODY (19G2)-HEAVY CHAIN
+163,1FL3,False,True,False,BLUE FLUORESCENT ANTIBODY (19G2)-LIGHT CHAIN
+164,1FL5,False,True,False,ANTIBODY GERMLINE PRECURSOR TO ANTIBODY 28B4
+165,1FL5,False,True,False,ANTIBODY GERMLINE PRECURSOR TO ANTIBODY 28B4
+166,1FL6,False,True,False,ANTIBODY GERMLINE PRECURSOR TO 28B4
+167,1FL6,False,True,False,ANTIBODY GERMLINE PRECURSOR TO 28B4
+168,1FN4,False,True,False,MONOCLONAL ANTIBODY AGAINST ACETYLCHOLINE RECEPTOR
+169,1FN4,False,True,False,MONOCLONAL ANTIBODY AGAINST ACETYLCHOLINE RECEPTOR
+170,1FNL,True,False,True,LOW AFFINITY IMMUNOGLOBULIN GAMMA FC REGION RECEPTOR III-B
+171,1FNS,False,False,True,IMMUNOGLOBULIN NMC-4 IGG1
+172,1FNS,False,False,True,IMMUNOGLOBULIN NMC-4 IGG1
+173,1FPT,False,True,False,FAB FRAGMENT OF AN NEUTRALIZING ANTIBODY FOR TYPE 1 POLIOVIRUS
+174,1FRT,True,False,False,NEONATAL FC RECEPTOR
+175,1FRT,True,False,False,IGG FC
+176,1FSK,False,False,True,IMMUNOGLOBULIN KAPPA LIGHT CHAIN
+177,1FSK,False,True,False,ANTIBODY HEAVY CHAIN FAB
+178,1G0X,False,False,True,LEUCOCYTE IMMUNOGLOBULIN-LIKE RECEPTOR-1
+179,1G1C,False,False,True,IMMUNOGLOBULIN-LIKE DOMAIN I1 FROM TITIN
+180,1G6V,False,True,False,ANTIBODY HEAVY CHAIN
+181,1G7H,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+182,1G7H,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+183,1G7I,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+184,1G7I,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+185,1G7J,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+186,1G7J,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+187,1G7L,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+188,1G7L,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+189,1G7M,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+190,1G7M,False,True,False,ANTI-HEN EGG WHITE LYSOZYME MONOCLONAL ANTIBODY D1.3
+191,1G84,False,False,True,IMMUNOGLOBULIN E
+192,1G9M,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+193,1G9M,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+194,1G9N,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+195,1G9N,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+196,1GC1,False,True,False,ANTIBODY 17B
+197,1GC1,False,True,False,ANTIBODY 17B
+198,1GJS,False,False,True,IMMUNOGLOBULIN G BINDING PROTEIN G
+199,1GJT,False,False,True,IMMUNOGLOBULIN G BINDING PROTEIN G
+200,1GPO,False,True,False,ANTIBODY M41
+201,1GPO,False,True,False,ANTIBODY M41
+202,1H0D,False,True,False,"ANTIBODY FAB FRAGMENT, LIGHT CHAIN"
+203,1H0D,False,True,False,"ANTIBODY FAB FRAGMENT, HEAVY CHAIN"
+204,1H0T,False,False,True,IMMUNOGLOBULIN G BINDING PROTEIN A
+205,1H3P,False,True,False,ANTIBODY FAB FRAGMENT
+206,1H3P,False,True,False,ANTIBODY FAB FRAGMENT
+207,1H9V,True,False,True,LOW AFFINITY IMMUNOGLOBULIN GAMMA FC RECEPTOR II-A
+208,1HCV,False,False,True,IMMUNOGLOBULIN G
+209,1HH6,False,True,False,IGG2A KAPPA ANTIBODY CB41 (LIGHT CHAIN)
+210,1HH6,False,True,False,IGG2A KAPPA ANTIBODY CB41 (HEAVY CHAIN)
+211,1HH9,False,True,False,IGG2A KAPPA ANTIBODY CB41 (LIGHT CHAIN)
+212,1HH9,False,True,False,IGG2A KAPPA ANTIBODY CB41 (HEAVY CHAIN)
+213,1HI6,False,True,False,IGG2A KAPPA ANTIBODY CB41 (LIGHT CHAIN)
+214,1HI6,False,True,False,IGG2A KAPPA ANTIBODY CB41 (HEAVY CHAIN)
+215,1HQ4,False,True,False,ANTIBODY HA5-19A4 FAB LIGHT CHAIN
+216,1HQ4,False,True,False,ANTIBODY HA5-19A4 FAB HEAVY CHAIN
+217,1HYS,False,True,False,FAB-28 MONOCLONAL ANTIBODY FRAGMENT LIGHT CHAIN
+218,1HYS,False,True,False,FAB-28 MONOCLONAL ANTIBODY FRAGMENT HEAVY CHAIN
+219,1HZH,False,False,True,IMMUNOGLOBULIN HEAVY CHAIN
+220,1HZH,False,False,True,"IMMUNOGLOBULIN LIGHT CHAIN,Uncharacterized protein"
+221,1I1A,True,False,False,NEONATAL FC RECEPTOR A
+222,1I3G,False,True,False,ANTIBODY FV FRAGMENT
+223,1I3G,False,True,False,ANTIBODY FV FRAGMENT
+224,1I3U,False,True,False,ANTIBODY VHH LAMA DOMAIN
+225,1I3V,False,True,False,ANTIBODY VHH LAMA DOMAIN
+226,1I8I,False,True,False,EPIDERMAL GROWTH FACTOR RECEPTOR ANTIBODY MR1SCFV LIGHT CHAIN
+227,1I8I,False,True,False,EPIDERMAL GROWTH FACTOR RECEPTOR ANTIBODY MR1SCFV HEAVY CHAIN
+228,1I8K,False,True,False,EPIDERMAL GROWTH FACTOR RECEPTOR ANTIBODY MR1SCFV LIGHT CHAIN
+229,1I8K,False,True,False,EPIDERMAL GROWTH FACTOR RECEPTOR ANTIBODY MR1SCFV HEAVY CHAIN
+230,1I8M,False,True,False,ANTIBODY LIGHT CHAIN FAB
+231,1I8M,False,True,False,ANTIBODY HEAVY CHAIN FAB
+232,1I9R,False,False,True,IMMUNOGLOBULIN H
+233,1I9R,False,False,True,IMMUNOGLOBULIN L
+234,1IAI,False,True,False,IDIOTYPIC FAB 730.1.4 (IGG1) OF VIRUS NEUTRALIZING ANTIBODY
+235,1IAI,False,True,False,IDIOTYPIC FAB 730.1.4 (IGG1) OF VIRUS NEUTRALIZING ANTIBODY
+236,1IGT,False,True,False,IGG2A INTACT ANTIBODY - MAB231
+237,1IGT,False,True,False,IGG2A INTACT ANTIBODY - MAB231
+238,1IGY,False,True,False,IGG1 INTACT ANTIBODY MAB61.1.3
+239,1IGY,False,True,False,IGG1 INTACT ANTIBODY MAB61.1.3
+240,1IL1,False,True,False,monoclonal antibody G3-519 (heavy chain)
+241,1IL1,False,True,False,monoclonal antibody G3-519 (light chain)
+242,1IM9,False,False,True,KILLER CELL IMMUNOGLOBULIN-LIKE RECEPTOR 2DL1
+243,1IQP,True,False,False,RFCS
+244,1IQW,False,True,False,"ANTIBODY M-HFE7A, LIGHT CHAIN"
+245,1IQW,False,True,False,"ANTIBODY M-HFE7A, HEAVY CHAIN"
+246,1IT9,False,True,False,"HUMANIZED ANTIBODY HFE7A, LIGHT CHAIN"
+247,1IT9,False,True,False,"HUMANIZED ANTIBODY HFE7A, HEAVY CHAIN"
+248,1J5O,False,True,False,ANTIBODY (LIGHT CHAIN)
+249,1J5O,False,True,False,ANTIBODY (HEAVY CHAIN)
+250,1J86,False,False,True,HIGH AFFINITY IMMUNOGLOBULIN EPSILON RECEPTOR ALPHA-SUBUNIT
+251,1J87,False,False,True,HIGH AFFINITY IMMUNOGLOBULIN EPSILON RECEPTOR ALPHA-SUBUNIT
+252,1J88,False,False,True,HIGH AFFINITY IMMUNOGLOBULIN EPSILON RECEPTOR ALPHA-SUBUNIT
+253,1J89,False,False,True,HIGH AFFINITY IMMUNOGLOBULIN EPSILON RECEPTOR ALPHA-SUBUNIT
+254,1JD1,True,False,False,HYPOTHETICAL 13.9 KDA PROTEIN IN FCY2-PET117 INTERGENIC REGION
+255,1JFQ,False,True,False,ANTIGEN-BINDING FRAGMENT OF ANTI-PHENYLARSONATE ANTIBODY
+256,1JFQ,False,True,False,ANTIGEN-BINDING FRAGMENT OF ANTI-PHENYLARSONATE ANTIBODY
+257,1JGU,False,True,False,Antibody Light Chain
+258,1JGU,False,True,False,Antibody Heavy Chain
+259,1JGV,False,True,False,Antibody Light Chain
+260,1JGV,False,True,False,Antibody Heavy Chain
+261,1JNL,False,False,True,monoclonal anti-estradiol 17E12E5 immunoglobulin kappa chain
+262,1JNL,False,False,True,monoclonal anti-estradiol 17E12E5 immunoglobulin gamma-1 chain
+263,1JNN,False,False,True,MONOCLONAL ANTI-ESTRADIOL 17E12E5 IMMUNOGLOBULIN KAPPA CHAIN
+264,1JNN,False,False,True,MONOCLONAL ANTI-ESTRADIOL 17E12E5 IMMUNOGLOBULIN GAMMA-1 CHAIN
+265,1JPS,False,False,True,"immunoglobulin Fab D3H44, light chain"
+266,1JPS,False,False,True,"immunoglobulin Fab D3H44, heavy chain"
+267,1JPT,False,False,True,"immunoglobulin Fab D3h44, light chain"
+268,1JPT,False,False,True,"immunoglobulin Fab D3H44, heavy chain"
+269,1JRH,False,True,False,ANTIBODY A6
+270,1JRH,False,True,False,ANTIBODY A6
+271,1JTO,False,True,False,Vh Single-Domain Antibody
+272,1JTP,False,True,False,Single-Domain Antibody
+273,1JTT,False,True,False,Vh Single-Domain Antibody
+274,1JVK,False,False,True,IMMUNOGLOBULIN LAMBDA LIGHT CHAIN
+275,1K4C,False,True,False,antibody Fab fragment heavy chain
+276,1K4C,False,True,False,antibody Fab fragment light chain
+277,1K4D,False,True,False,antibody Fab fragment heavy chain
+278,1K4D,False,True,False,antibody Fab fragment light chain
+279,1K6Q,False,False,True,"immunoglobulin Fab D3, light chain"
+280,1K6Q,False,False,True,"immunoglobulin Fab D3, heavy chain"
+281,1KB5,False,True,False,ANTIBODY DESIRE-1
+282,1KB5,False,True,False,ANTIBODY DESIRE-1
+283,1KC5,False,False,True,PC287 Immunoglobulin
+284,1KC5,False,False,True,PC287 Immunoglobulin
+285,1KCR,False,False,True,PC283 IMMUNOGLOBULIN
+286,1KCR,False,False,True,PC283 IMMUNOGLOBULIN
+287,1KCS,False,False,True,PC282 IMMUNOGLOBULIN
+288,1KCS,False,False,True,PC282 IMMUNOGLOBULIN
+289,1KCU,False,False,True,PC287 IMMUNOGLOBULIN
+290,1KCU,False,False,True,PC287 IMMUNOGLOBULIN
+291,1KCV,False,False,True,PC282 IMMUNOGLOBULIN
+292,1KCV,False,False,True,PC282 IMMUNOGLOBULIN
+293,1KEG,False,True,False,Anti-(6-4) photoproduct antibody 64M-2 Fab (light chain)
+294,1KEG,False,True,False,Anti-(6-4) photoproduct antibody 64M-2 Fab (heavy chain)
+295,1KEN,False,True,False,influenza virus infectivity neutralizing antibody (light chain)
+296,1KEN,False,True,False,influenza virus infectivity neutralizing antibody (heavy chain)
+297,1KFA,False,True,False,monoclonal antibody light chain
+298,1KFA,False,True,False,monoclonal antibody heavy chain
+299,1KIP,False,True,False,MONOCLONAL ANTIBODY D1.3
+300,1KIP,False,True,False,MONOCLONAL ANTIBODY D1.3
+301,1KIQ,False,True,False,MONOCLONAL ANTIBODY D1.3
+302,1KIQ,False,True,False,MONOCLONAL ANTIBODY D1.3
+303,1KIR,False,True,False,MONOCLONAL ANTIBODY D1.3
+304,1KIR,False,True,False,MONOCLONAL ANTIBODY D1.3
+305,1KN2,False,True,False,IG ANTIBODY D2.3 (LIGHT CHAIN)
+306,1KN2,False,True,False,IG ANTIBODY D2.3 (HEAVY CHAIN)
+307,1KN4,False,True,False,IG ANTIBODY D2.3 (LIGHT CHAIN)
+308,1KN4,False,True,False,IG ANTIBODY D2.3 (HEAVY CHAIN)
+309,1KTR,False,True,False,Anti-his tag antibody 3d5 variable light chain
+310,1KTR,False,True,False,Anti-his tag antibody 3d5 variable heavy chain
+311,1KXQ,False,True,False,antibody VHH fragment CABAMD9
+312,1KXT,False,False,True,IMMUNOGLOBULIN VHH FRAGMENT
+313,1L6X,False,False,True,IMMUNOGLOBULIN GAMMA-1 HEAVY CHAIN CONSTANT REGION
+314,1L7I,False,True,False,"chimera of Fab2C4: ""humanized"" murine monoclonal antibody"
+315,1L7I,False,True,False,"chimera of Fab2C4: ""humanized"" murine monoclonal antibody"
+316,1LGV,False,False,True,IMMUNOGLOBULIN LAMBDA LIGHT CHAIN
+317,1LHZ,False,False,True,IMMUNOGLOBULIN LAMBDA LIGHT CHAIN
+318,1LP1,False,False,True,Immunoglobulin G binding protein A
+319,1M4K,False,False,True,KILLER CELL IMMUNOGLOBULIN-LIKE RECEPTOR 2DS2
+320,1M71,False,True,False,light chain of the monoclonal antibody Fab SYA/J6
+321,1M71,False,True,False,heavy chain of the monoclonal antibody Fab SYA/J6
+322,1M7D,False,True,False,light chain of the monoclonal antibody Fab SYA/J6
+323,1M7D,False,True,False,heavy chain of the monoclonal antibody Fab SYA/J6
+324,1M7I,False,True,False,light chain of the monoclonal antibody Fab SYA/J6
+325,1M7I,False,True,False,heavy chain of the monoclonal antibody Fab SYA/J6
+326,1MCB,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+327,1MCC,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+328,1MCD,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+329,1MCE,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+330,1MCF,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+331,1MCH,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+332,1MCI,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+333,1MCJ,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+334,1MCK,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+335,1MCL,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+336,1MCN,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+337,1MCO,False,True,False,IGG1 MCG INTACT ANTIBODY (LIGHT CHAIN)
+338,1MCO,False,True,False,IGG1 MCG INTACT ANTIBODY (HEAVY CHAIN)
+339,1MCQ,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+340,1MCR,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+341,1MCS,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+342,1MCW,False,False,True,IMMUNOGLOBULIN WEIR (LIGHT CHAIN)
+343,1MCW,False,False,True,IMMUNOGLOBULIN MCG (LIGHT CHAIN)
+344,1MEL,False,True,False,VH SINGLE-DOMAIN ANTIBODY
+345,1MF2,False,True,False,MONOCLONAL ANTIBODY F11.2.32
+346,1MF2,False,True,False,MONOCLONAL ANTIBODY F11.2.32
+347,1MH5,False,False,True,IMMUNOGLOBULIN MS6-164
+348,1MH5,False,False,True,IMMUNOGLOBULIN MS6-164
+349,1MHX,False,False,True,immunoglobulin-binding protein G
+350,1MI0,False,False,True,immunoglobulin-binding protein G
+351,1MIE,False,False,True,IMMUNOGLOBULIN MS5-393
+352,1MIE,False,False,True,IMMUNOGLOBULIN MS5-393
+353,1MJ7,False,False,True,IMMUNOGLOBULIN MS5-393
+354,1MJ7,False,False,True,IMMUNOGLOBULIN MS5-393
+355,1MJ8,False,False,True,IMMUNOGLOBULIN MS6-126
+356,1MJ8,False,False,True,IMMUNOGLOBULIN MS6-126
+357,1MJJ,False,False,True,IMMUNOGLOBULIN MS6-12
+358,1MJJ,False,False,True,IMMUNOGLOBULIN MS6-12
+359,1MJU,False,False,True,IMMUNOGLOBULIN MS6-12
+360,1MJU,False,False,True,IMMUNOGLOBULIN MS6-12
+361,1MNU,False,True,False,PROTEIN (IGG2A-KAPPA ANTIBODY MN12H2 (LIGHT CHAIN))
+362,1MNU,False,True,False,PROTEIN (IGG2A-KAPPA ANTIBODY MN12H2 (HEAVY CHAIN))
+363,1MPE,False,False,True,Immunoglobulin G binding protein G
+364,1MQK,False,True,False,"antibody 7E2 FV fragment, light chain"
+365,1MQK,False,True,False,"antibody 7E2 FV fragment, heavy chain"
+366,1MVF,False,False,True,immunoglobulin heavy chain variable region
+367,1MVK,False,False,True,Immunoglobulin G binding protein G
+368,1N0X,False,False,True,IMMUNOGLOBULIN LIGHT CHAIN
+369,1N0X,False,False,True,IMMUNOGLOBULIN HEAVY CHAIN
+370,1N4X,False,False,True,immunoglobulin kappa chain variable region
+371,1N4X,False,False,True,immunoglobulin heavy chain variable region
+372,1N5Y,False,True,False,monoclonal antibody (light chain)
+373,1N5Y,False,True,False,monoclonal antibody (heavy chain)
+374,1N6Q,False,True,False,Monoclonal Antibody (Light Chain)
+375,1N6Q,False,True,False,Monoclonal Antibody (Heavy Chain)
+376,1N7M,False,True,False,"Germline Metal Chelatase Catalytic Antibody, chain H"
+377,1N7M,False,True,False,"Germline Metal Chelatase Catalytic Antibody, chain L"
+378,1N8Z,False,True,False,Herceptin Fab (antibody) - light chain
+379,1N8Z,False,True,False,Herceptin Fab (antibody) - heavy chain
+380,1NBY,False,True,False,antibody kappa light chain
+381,1NBY,False,False,True,immunoglobulin gamma 1 chain
+382,1NBZ,False,True,False,antibody kappa light chain
+383,1NBZ,False,False,True,immunoglobulin gamma 1 chain
+384,1NC2,False,True,False,"MONOCLONAL ANTIBODY 2D12.5, LAMBDA LIGHT CHAIN"
+385,1NC2,False,True,False,"MONOCLONAL ANTIBODY 2D12.5, IGG1 GAMMA HEAVY CHAIN"
+386,1NC2,False,True,False,"MONOCLONAL ANTIBODY 2D12.5, IGG1 GAMMA HEAVY CHAIN"
+387,1NC4,False,True,False,"MONOCLONAL ANTIBODY 2D12.5, LAMBDA LIGHT CHAIN"
+388,1NC4,False,True,False,"MONOCLONAL ANTIBODY 2D12.5, IGG1 GAMMA HEAVY CHAIN"
+389,1NC4,False,True,False,"MONOCLONAL ANTIBODY 2D12.5, IGG1 GAMMA HEAVY CHAIN"
+390,1NCW,False,False,True,IMMUNOGLOBULIN IGG2A
+391,1NCW,False,False,True,IMMUNOGLOBULIN IGG2A
+392,1ND0,False,False,True,IMMUNOGLOBULIN IGG2A
+393,1ND0,False,False,True,IMMUNOGLOBULIN IGG2A
+394,1NDG,False,True,False,antibody kappa light chain
+395,1NDG,False,False,True,immunoglobulin gamma 1 chain
+396,1NDM,False,True,False,antibody kappa light chain
+397,1NDM,False,False,True,immunoglobulin gamma 1 chain
+398,1NGW,False,True,False,"Mature Metal Chelatase Catalytic Antibody, Light chain"
+399,1NGW,False,True,False,"Mature Metal Chelatase Catalytic Antibody, Heavy chain"
+400,1NGX,False,True,False,"Germline Metal Chelatase Catalytic Antibody, Light chain"
+401,1NGX,False,True,False,"Germline Metal Chelatase Catalytic Antibody, Heavy chain"
+402,1NGY,False,True,False,"Mature Metal Chelatase Catalytic Antibody, Light chain"
+403,1NGY,False,True,False,"Mature Metal Chelatase Catalytic Antibody, Heavy chain"
+404,1NGZ,False,True,False,"Germline Metal Chelatase Catalytic Antibody, Light chain"
+405,1NGZ,False,True,False,"Germline Metal Chelatase Catalytic Antibody, Heavy chain"
+406,1NJ9,False,False,True,immunoglobulin variable chain
+407,1NJ9,False,False,True,immunoglobulin heavy chain
+408,1NL0,False,True,False,"anti-factor IX antibody, 10C12, chain L"
+409,1NL0,False,True,False,"anti-factor IX antibody, 10C12, chain H"
+410,1NLB,False,True,False,antibody 19D9D6 light chain
+411,1NLB,False,True,False,antibody 19D9D6 heavy chain
+412,1NMC,False,True,False,SINGLE CHAIN ANTIBODY
+413,1NMC,False,True,False,SINGLE CHAIN ANTIBODY
+414,1NQB,False,True,False,SINGLE-CHAIN ANTIBODY FRAGMENT
+415,1O0V,False,False,True,Immunoglobulin heavy chain epsilon-1
+416,1OAR,False,False,True,IMMUNOGLOBULIN E
+417,1OAR,False,False,True,IMMUNOGLOBULING E
+418,1OAU,False,False,True,IMMUNOGLOBULIN E
+419,1OAU,False,False,True,IMMUNOGLOBULIN E
+420,1OAX,False,False,True,IMMUNOGLOBULIN E
+421,1OAX,False,False,True,IMMUNOGLOBULIN E
+422,1OAY,False,False,True,IMMUNOGLOBULIN E
+423,1OAY,False,False,True,IMMUNOGLOBULIN E
+424,1OAZ,False,False,True,IMMUNOGLOBULIN E
+425,1OAZ,False,False,True,IMMUNOGLOBULIN E
+426,1OB1,False,True,False,"ANTIBODY, HEAVY CHAIN"
+427,1OB1,False,True,False,"ANTIBODY, LIGHT CHAIN"
+428,1OCW,False,False,True,IMMUNOGLOBULIN E
+429,1OCW,False,False,True,IMMUNOGLOBULIN E
+430,1OHQ,False,False,True,IMMUNOGLOBULIN
+431,1OKW,True,False,False,ACE-ARG-ARG-LEU-ASN-FCL-NH2
+432,1OL0,False,False,True,IMMUNOGLOBULIN G
+433,1ONV,True,False,False,serine phosphatase FCP1a
+434,1OQO,False,False,True,immunoglobulin gamma-1 heavy chain constant region
+435,1OQX,False,False,True,immunoglobulin gamma-1 heavy chain constant region
+436,1OVZ,True,False,True,Immunoglobulin alpha Fc receptor
+437,1OW0,True,False,True,Immunoglobulin alpha Fc receptor
+438,1P2C,False,True,False,light chain anti-lysozyme antibody F10.6.6
+439,1P2C,False,True,False,heavy chain VH+CH1 anti-lysozyme antibody F10.6.6
+440,1P4B,False,True,False,Antibody Variable light chain
+441,1P4B,False,True,False,Antibody Variable heavy chain
+442,1P4I,False,True,False,ANTIBODY VARIABLE LIGHT CHAIN
+443,1P4I,False,True,False,antibody variable heavy chain
+444,1P7E,False,False,True,Immunoglobulin G binding protein G
+445,1P7F,False,False,True,Immunoglobulin G binding protein G
+446,1P7K,False,True,False,antibody light chain FAB
+447,1P7K,False,True,False,antibody heavy chain FAB
+448,1P7Q,False,False,True,leukocyte immunoglobulin-like receptor 1
+449,1PEW,False,False,True,"Jto2, a LAMBDA-6 TYPE IMMUNOGLOBULIN LIGHT CHAIN, VARIABLE DOMAIN"
+450,1PFC,True,False,False,IGG1 PFC' FC
+451,1PG7,False,True,False,humanized antibody D3H44
+452,1PG7,False,True,False,humanized antibody D3H44
+453,1PG7,False,True,False,murine antibody 6A6 Fab fragment
+454,1PG7,False,True,False,murine antibody 6A6 Fab fragment
+455,1PSK,False,True,False,ANTIBODY
+456,1PSK,False,True,False,ANTIBODY
+457,1PW3,False,False,True,immunoglobulin lambda chain variable region
+458,1Q10,False,False,True,Immunoglobulin G binding protein G
+459,1Q2N,False,False,True,IMMUNOGLOBULIN G BINDING PROTEIN A
+460,1QAC,False,False,True,IMMUNOGLOBULIN LIGHT CHAIN VARIABLE DOMAIN
+461,1QBM,False,True,False,E8B ANTIBODY
+462,1QBM,False,True,False,E8B ANTIBODY
+463,1QD0,False,True,False,VHH-R2 ANTI-RR6 ANTIBODY
+464,1QFU,False,True,True,PROTEIN (IMMUNOGLOBULIN IGG1-KAPPA ANTIBODY (LIGHT CHAIN))
+465,1QFU,False,True,True,PROTEIN (IMMUNOGLOBULIN IGG1-KAPPA ANTIBODY (HEAVY CHAIN))
+466,1QFW,False,True,False,ANTIBODY (ANTI ALPHA SUBUNIT) (LIGHT CHAIN)
+467,1QFW,False,True,False,ANTIBODY (ANTI ALPHA SUBUNIT) (HEAVY CHAIN)
+468,1QFW,False,True,False,ANTIBODY (ANTI BETA SUBUNIT) (LIGHT CHAIN)
+469,1QFW,False,True,False,ANTIBODY (ANTI BETA SUBUNIT) (HEAVY CHAIN)
+470,1QGC,False,False,True,PROTEIN (IMMUNOGLOBULIN LIGHT CHAIN)
+471,1QGC,False,False,True,PROTEIN (IMMUNOGLOBULIN HEAVY CHAIN)
+472,1QKZ,False,True,False,ANTIBODY
+473,1QKZ,False,True,False,ANTIBODY
+474,1QLE,False,True,False,HEAVY CHAIN ANTIBODY FV FRAGMENT
+475,1QLE,False,True,False,LIGHT CHAIN ANTIBODY FV FRAGMENT
+476,1QNZ,False,True,False,0.5B ANTIBODY (HEAVY CHAIN)
+477,1QNZ,False,True,False,0.5B ANTIBODY (LIGHT CHAIN)
+478,1QOK,False,True,False,MFE-23 RECOMBINANT ANTIBODY FRAGMENT
+479,1QP1,False,True,False,BENCE-JONES KAPPA I ANTIBODY BRE (LIGHT CHAIN)
+480,1QZ4,True,False,False,Hypothetical protein ycfC
+481,1R0A,False,True,False,monoclonal antibody (light chain)
+482,1R0A,False,True,False,monoclonal antibody (heavy chain)
+483,1R24,False,True,False,PROTEIN (IGG3-KAPPA ANTIBODY (LIGHT CHAIN))
+484,1R24,False,True,False,PROTEIN (IGG3-KAPPA ANTIBODY (HEAVY CHAIN))
+485,1R3I,False,True,False,Antibody Fab fragment light chain
+486,1R3I,False,True,False,Antibody Fab fragment heavy chain
+487,1R3J,False,True,False,Antibody Fab fragment light chain
+488,1R3J,False,True,False,Antibody Fab fragment heavy chain
+489,1R3K,False,True,False,Antibody Fab fragment light chain
+490,1R3K,False,True,False,Antibody Fab fragment heavy chain
+491,1R3L,False,True,False,Antibody Fab fragment light chain
+492,1R3L,False,True,False,Antibody Fab fragment heavy chain
+493,1RI8,False,True,False,camelid ANTIBODY HEAVY CHAIN
+494,1RIH,False,True,False,light chain of antibody 14F7
+495,1RIH,False,True,False,heavy chain of antibody 14F7
+496,1RJC,False,True,False,camelid heavy chain antibody
+497,1RPQ,False,False,True,High affinity immunoglobulin epsilon receptor alpha-subunit precursor
+498,1RU9,False,False,True,"immunoglobulin igg2a, light chain"
+499,1RU9,False,False,True,"immunoglobulin igg2a, heavy chain"
+500,1RUA,False,False,True,"immunoglobulin igg2a, light chain"
+501,1RUA,False,False,True,"immunoglobulin igg2a, heavy chain"
+502,1RUK,False,False,True,"immunoglobulin igg2a, light chain"
+503,1RUK,False,False,True,"immunoglobulin igg2a, heavy chain"
+504,1RUL,False,False,True,"immunoglobulin igg2a, light chain"
+505,1RUL,False,False,True,"immunoglobulin igg2a, heavy chain"
+506,1RUM,False,False,True,"immunoglobulin igg2a, light chain"
+507,1RUM,False,False,True,"immunoglobulin igg2a, heavy chain"
+508,1RUP,False,False,True,"immunoglobulin igg2a, heavy chain"
+509,1RUP,False,False,True,"immunoglobulin igg2a, light chain"
+510,1RUQ,False,False,True,immunoglobulin 13G5 light chain
+511,1RUQ,False,False,True,immunoglobulin 13G5 heavy chain
+512,1RUR,False,False,True,"immunoglobulin 13G5, light chain"
+513,1RUR,False,False,True,"immunoglobulin 13G5, heavy chain"
+514,1RZJ,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+515,1RZJ,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+516,1RZK,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+517,1RZK,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+518,1S5H,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+519,1S5H,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+520,1S5I,False,True,False,Fab-fragment of monoclonal antibody
+521,1S5I,False,True,False,Fab-fragment of monoclonal antibody
+522,1SBS,False,True,False,MONOCLONAL ANTIBODY 3A2
+523,1SBS,False,True,False,MONOCLONAL ANTIBODY 3A2
+524,1SDI,True,False,False,Hypothetical protein ycfC
+525,1SEQ,False,True,False,Monoclonal Antibody MNAC13
+526,1SEQ,False,True,False,Monoclonal Antibody MNAC13
+527,1SHM,False,True,False,ANTIBODY RIG
+528,1SJX,False,False,True,immunoglobulin VH domain
+529,1SLD,True,False,False,CYCLO-AC-CHPQFC-NH2
+530,1SLG,True,False,False,FCHPQNT
+531,1SM3,False,True,False,SM3 ANTIBODY
+532,1SM3,False,True,False,SM3 ANTIBODY
+533,1SS1,False,False,True,Immunoglobulin G binding protein A
+534,1STS,True,False,False,FCHPQNT-NH2
+535,1SU1,True,False,False,Hypothetical protein yfcE
+536,1T03,False,True,False,monoclonal antibody light chain
+537,1T03,False,True,False,monoclonal antibody heavy chain
+538,1T04,False,True,False,Huzaf Antibody Light Chain
+539,1T04,False,True,False,Huzaf Antibody Heavy Chain
+540,1T3F,False,True,False,Huzaf antibody light chain
+541,1T3F,False,True,False,Huzaf antibody heavy chain
+542,1T4K,False,False,True,"IMMUNOGLOBULIN IGG1, KAPPA LIGHT CHAIN"
+543,1T4K,False,False,True,"IMMUNOGLOBULIN IGG1, HEAVY CHAIN"
+544,1T66,False,False,True,immunoglobulin light chain
+545,1T66,False,False,True,immunoglobulin heavy chain
+546,1T83,True,False,True,Low affinity immunoglobulin gamma Fc region receptor III-B
+547,1T89,True,False,True,Low affinity immunoglobulin gamma Fc region receptor III-B
+548,1T8C,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+549,1T8D,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+550,1TJH,False,True,False,anti-HIV-1 antibody 2F5 Light Chain
+551,1TJH,False,True,False,anti-HIV-1 antibody 2F5 Heavy Chain
+552,1TJI,False,True,False,anti-HIV-1 antibody 2F5 Light Chain
+553,1TJI,False,True,False,anti-HIV-1 antibody 2F5 Heavy Chain
+554,1U0Q,False,False,True,immunoglobulin heavy chain variable domain
+555,1U8H,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+556,1U8H,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+557,1U8I,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+558,1U8I,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+559,1U8J,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+560,1U8J,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+561,1U8K,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+562,1U8K,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+563,1U8L,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+564,1U8L,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+565,1U8M,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+566,1U8M,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+567,1U8N,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+568,1U8N,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+569,1U8O,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+570,1U8O,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+571,1U8P,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+572,1U8P,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+573,1U8Q,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+574,1U8Q,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+575,1U91,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+576,1U91,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+577,1U92,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+578,1U92,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+579,1U93,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+580,1U93,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+581,1U95,False,True,False,ANTIBODY 2F5 (LIGHT CHAIN)
+582,1U95,False,True,False,ANTIBODY 2F5 (HEAVY CHAIN)
+583,1UB5,False,True,False,"antibody 19G2, alpha chain"
+584,1UB5,False,True,False,"antibody 19G2, beta chain"
+585,1UB6,False,True,False,"antibody 19G2, alpha chain"
+586,1UB6,False,True,False,"antibody 19G2, beta chain"
+587,1UCT,True,False,True,Immunoglobulin alpha Fc receptor
+588,1UFU,False,False,True,Immunoglobulin-like transcript 2
+589,1UGN,False,False,True,Leukocyte immunoglobulin-like receptor 1
+590,1UM4,False,True,False,Antibody 21H3 L chain
+591,1UM4,False,True,False,Antibody 21H3 H chain
+592,1UM5,False,True,False,Antibody 21H3 L chain
+593,1UM5,False,True,False,Antibody 21H3 H chain
+594,1UM6,False,True,False,"antibody 21h3, L chain"
+595,1UM6,False,True,False,"antibody 21h3, H chain"
+596,1UWE,False,True,False,ANTIBODY 14D9
+597,1UWE,False,True,False,ANTIBODY 14D9
+598,1UWG,False,True,False,ANTIBODY 14D9
+599,1UWG,False,True,False,ANTIBODY 14D9
+600,1UWX,False,True,False,ANTIBODY
+601,1UWX,False,True,False,ANTIBODY
+602,1UYW,False,True,False,FAB ANTIBODY HEAVY CHAIN
+603,1UYW,False,True,False,FAB ANTIBODY LIGHT CHAIN
+604,1VDG,False,False,True,Leukocyte immunoglobulin-like receptor subfamily B member 1
+605,1VE8,True,False,False,5'-D(*CP*GP*CP*GP*AP*AP*TP*TP*(5FC)P*GP*CP*G)-3'
+606,1WC7,False,True,False,"FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, LIGHT CHAIN"
+607,1WC7,False,True,False,"FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, HEAVY CHAIN"
+608,1WCB,False,True,False,"FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, LIGHT CHAIN"
+609,1WCB,False,True,False,"FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, HEAVY CHAIN"
+610,1WEJ,False,True,False,E8 ANTIBODY
+611,1WEJ,False,True,False,E8 ANTIBODY
+612,1WT5,False,True,False,ANTI EGFR ANTIBODY FV REGION
+613,1WT5,False,True,False,ANTI EGFR ANTIBODY FV REGION
+614,1X9Q,False,True,False,4m5.3 anti-fluorescein single chain antibody fragment
+615,1XCQ,False,True,False,Monoclonal antibody 19D9D6 Light chain
+616,1XCQ,False,True,False,Monoclonal antibody 19D9D6 Heavy chain
+617,1XCT,False,True,False,Monoclonal antibody 19D9D6 Light chain
+618,1XCT,False,True,False,Monoclonal antibody 19D9D6 Heavy chain
+619,1XED,False,False,True,Polymeric-immunoglobulin receptor
+620,1XF2,False,True,False,antibody light chain Fab
+621,1XF2,False,True,False,antibody heavy chain Fab
+622,1XF5,False,True,False,Monoclonal antibody 19D9D6 Light chain
+623,1XF5,False,True,False,Monoclonal antibody 19D9D6 Heavy chain
+624,1XFP,False,True,False,heavy chain antibody
+625,1XGP,False,True,False,antibody kappa light chain
+626,1XGP,False,True,False,antibody kappa heavy chain
+627,1XGQ,False,True,False,antibody kappa light chain
+628,1XGQ,False,True,False,antibody kappa heavy chain
+629,1XGR,False,True,False,antibody kappa light chain
+630,1XGR,False,True,False,antibody kappa heavy chain
+631,1XGT,False,True,False,antibody kappa light chain
+632,1XGT,False,True,False,antibody kappa heavy chain
+633,1XGU,False,True,False,antibody kappa light chain
+634,1XGU,False,True,False,antibody kappa heavy chain
+635,1XIW,False,False,True,immunoglobulin light chain variable region
+636,1XIW,False,False,True,immunoglobulin heavy chain variable region
+637,1Y0L,False,True,False,Catalytic Antibody Fab 34E4 Light chain
+638,1Y0L,False,True,False,Catalytic Antibody Fab 34E4 Heavy chain
+639,1Y18,False,True,False,Catalytic antibody 34E4 light chain
+640,1Y18,False,True,False,Catalytic antibody 34E4 heavy chain
+641,1YC7,False,False,True,anti-VSG immunoglobulin heavy chain variable domain cAbAn33
+642,1YC8,False,False,True,anti-VSG immunoglobulin heavy chain variable domain cAbAn33
+643,1YEI,False,True,False,PROTEIN (IG ANTIBODY D2.3 (LIGHT CHAIN))
+644,1YEI,False,True,False,PROTEIN (IG ANTIBODY D2.3 (HEAVY CHAIN))
+645,1YEJ,False,True,False,PROTEIN (IG ANTIBODY D2.3 (LIGHT CHAIN))
+646,1YEJ,False,True,False,PROTEIN (IG ANTIBODY D2.3 (HEAVY CHAIN))
+647,1YEK,False,True,False,PROTEIN (IG ANTIBODY D2.3 (LIGHT CHAIN))
+648,1YEK,False,True,False,PROTEIN (IG ANTIBODY D2.3 (HEAVY CHAIN))
+649,1YJD,False,True,False,Fab fragment of 5.11A1 antibody light chain
+650,1YJD,False,True,False,Fab fragment of 5.11A1 antibody heavy chain
+651,1YNK,False,False,True,immunoglobulin kappa light chain
+652,1YQV,False,True,False,HyHEL-5 Antibody Light Chain
+653,1YQV,False,True,False,HyHEL-5 Antibody Heavy Chain
+654,1YYL,False,True,False,antibody 17b light chain
+655,1YYL,False,True,False,antibody 17b heavy chain
+656,1YYM,False,True,False,antibody 17b light chain
+657,1YYM,False,True,False,antibody 17b heavy chain
+658,1YZZ,False,False,True,anti-VSG immunoglobulin heavy chain variable domain cAbAn33
+659,1ZEA,False,True,False,"monoclonal anti-cholera toxin IGG1 KAPPA antibody, L chain"
+660,1ZEA,False,True,False,"monoclonal anti-cholera toxin IGG1 KAPPA antibody, H chain"
+661,1ZMY,False,True,False,Antibody cabbcII-10:lys3
+662,1ZTX,False,True,False,Heavy Chain of E16 Antibody
+663,1ZTX,False,True,False,Light Chain of E16 Antibody
+664,1ZV5,False,True,True,immunoglobulin heavy chain antibody variable domain
+665,1ZVH,False,True,True,Immunoglobulin heavy chain antibody variable domain
+666,1ZVO,False,False,True,myeloma immunoglobulin D lambda
+667,1ZVO,False,False,True,Immunoglobulin delta heavy chain
+668,1ZVY,False,True,True,Immunoglobulin heavy chain antibody variable domain
+669,1ZWI,False,True,False,"monoclonal antibody, heavy chain"
+670,1ZWI,False,True,False,monoclonal antibody light chain
+671,1ZXG,False,False,True,Immunoglobulin G binding protein A
+672,1ZXH,False,False,True,Immunoglobulin G binding protein G
+673,2A1W,False,False,True,immunoglobulin light chain kappa
+674,2A1W,False,False,True,immunoglobulin heavy chain
+675,2A6D,False,True,False,Germline antibody 36-65 Fab light chain
+676,2A6D,False,True,False,Germline antibody 36-65 Fab Heavy chain
+677,2A6I,False,True,False,Germline antibody 36-65 Fab light chain
+678,2A6I,False,True,False,Germline antibody 36-65 Fab heavy chain
+679,2A6J,False,True,False,Germline antibody 36-65 Fab light chain
+680,2A6J,False,True,False,Germline antibody 36-65 Fab heavy chain
+681,2A6K,False,True,False,Germline antibody 36-65 Fab light chain
+682,2A6K,False,True,False,Germline antibody 36-65 Fab heavy chain
+683,2A77,False,False,True,Immunoglobulin Light Chain
+684,2A77,False,False,True,Immunoglobulin Heavy Chain
+685,2AAB,False,True,False,anti-idiotypic monoclonal antibody (light chain)
+686,2AAB,False,True,False,anti-idiotypic monoclonal antibody (heavy chain)
+687,2AI0,False,False,True,Immunoglobulin Light Chain kappa
+688,2AI0,False,False,True,Immunoglobulin Heavy Chain
+689,2AJS,False,True,False,Antibody 7A1 FAB'
+690,2AJS,False,True,False,Antibody 7A1 FAB'
+691,2AJU,False,True,False,ANTIBODY 7A1 FAB'
+692,2AJU,False,True,False,ANTIBODY 7A1 FAB'
+693,2AJV,False,True,False,Antibody 7A1 Fab'
+694,2AJV,False,True,False,Antibody 7A1 Fab'
+695,2AJX,False,True,False,Antibody 7A1 Fab'
+696,2AJX,False,True,False,Antibody 7A1 Fab'
+697,2AJY,False,True,False,Antibody 7A1 Fab'
+698,2AJY,False,True,False,Antibody 7A1 Fab'
+699,2AJZ,False,True,False,Antibody 7A1 Fab'
+700,2AJZ,False,True,False,Antibody 7A1 Fab'
+701,2AK1,False,True,False,Antibody 7A1 Fab'
+702,2AK1,False,True,False,Antibody 7A1 Fab'
+703,2AP2,False,True,False,PROTEIN (ANTIBODY (LIGHT CHAIN))
+704,2AP2,False,True,False,PROTEIN (ANTIBODY (HEAVY CHAIN))
+705,2ATK,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+706,2ATK,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+707,2B2X,False,True,False,Antibody AQC2 Fab
+708,2B2X,False,True,False,Antibody AQC2 Fab
+709,2B4C,False,False,True,anti-HIV-1 gp120 immunoglobulin X5 light chain
+710,2B4C,False,False,True,anti-HIV-1 gp120 immunoglobulin X5 heavy chain
+711,2BDN,False,True,False,Antibody light chain 11K2
+712,2BDN,False,True,False,Antibody heavy chain 11K2
+713,2BMK,False,True,False,"FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, LIGHT CHAIN"
+714,2BMK,False,True,False,"FAB FRAGMENT OF CATALYTIC ANTIBODY 15A9, HEAVY CHAIN"
+715,2BOB,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+716,2BOB,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+717,2BOC,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+718,2BOC,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+719,2BRR,False,True,False,"MN20B9.34 ANTI-P1.4 ANTIBODY, FAB HEAVY CHAIN"
+720,2BRR,False,True,False,"MN20B9.34 ANTI-P1.4 ANTIBODY, FAB LIGHT CHAIN"
+721,2BSE,False,False,True,LLAMA IMMUNOGLOBULIN
+722,2CD0,False,False,True,"PROTEIN (BENCE-JONES PROTEIN WIL, A VARIABLE DOMAIN FROM LAMBDA-6 TYPE IMMUNOGLOBULIN LIGHT CHAIN)"
+723,2CJU,False,True,False,NQ16-113.8 ANTI-PHOX ANTIBODY
+724,2CJU,False,True,False,NQ16-113.8 ANTI-PHOX ANTIBODY
+725,2CK0,False,False,True,PROTEIN (IMMUNOGLOBULIN; LIGHT CHAIN)
+726,2CK0,False,False,True,PROTEIN (IMMUNOGLOBULIN; HEAVY CHAIN)
+727,2CWB,False,False,True,chimera of Immunoglobulin G binding protein G and Ubiquitin-like protein SB132
+728,2D03,False,False,True,anti-glycophorin A type N immunoglobulin light chain
+729,2D03,False,False,True,anti-glycophorin A type N immunoglobulin heavy chain
+730,2D2E,True,False,False,SufC protein
+731,2D2F,True,False,False,SufC protein
+732,2D3V,False,False,True,leukocyte immunoglobulin-like receptor subfamily A member 5 isoform 1
+733,2D3W,True,False,False,Probable ATP-dependent transporter sufC
+734,2D7T,False,True,False,"anti polyhydroxybutyrate antibody Fv, heavy chain"
+735,2D7T,False,True,False,"anti polyhydroxybutyrate antibody Fv, light chain"
+736,2DDI,False,False,True,"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 1"
+737,2DDJ,False,False,True,"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 1"
+738,2DDQ,False,True,False,R310 antibody heavy chain
+739,2DDQ,False,True,False,R310 antibody light chain
+740,2DEN,False,False,True,chimera of Immunoglobulin G binding protein G and Ubiquitin-like protein 7
+741,2DLF,False,False,True,PROTEIN (ANTI-DANSYL IMMUNOGLOBULIN IGG2A(S)-KAPPA (LIGHT CHAIN))
+742,2DLF,False,False,True,PROTEIN (ANTI-DANSYL IMMUNOGLOBULIN IGG2A(S) (HEAVY CHAIN))
+743,2DQT,False,False,True,IMMUNOGLOBULIN 6D9
+744,2DQT,False,False,True,IMMUNOGLOBULIN 6D9
+745,2DQU,False,False,True,IMMUNOGLOBULIN 6D9
+746,2DQU,False,False,True,IMMUNOGLOBULIN 6D9
+747,2DTM,False,False,True,IMMUNOGLOBULIN 6D9
+748,2DTM,False,False,True,IMMUNOGLOBULIN 6D9
+749,2DWD,False,True,False,ANTIBODY FAB HEAVY CHAIN
+750,2DWD,False,True,False,ANTIBODY FAB LIGHT CHAIN
+751,2DWE,False,True,False,ANTIBODY FAB HEAVY CHAIN
+752,2DWE,False,True,False,ANTIBODY FAB LIGHT CHAIN
+753,2DYP,False,False,True,Leukocyte immunoglobulin-like receptor subfamily B member 2
+754,2E27,False,True,False,"anti-ciguatoxin antibody, light chain"
+755,2E27,False,True,False,"anti-ciguatoxin antibody, heavy chain"
+756,2EIZ,False,True,False,ANTI-LYSOZYME ANTIBODY FV REGION
+757,2EIZ,False,True,False,ANTI-LYSOZYME ANTIBODY FV REGION
+758,2EKS,False,True,False,ANTI-LYSOZYME ANTIBODY FV REGION
+759,2EKS,False,True,False,ANTI-LYSOZYME ANTIBODY FV REGION
+760,2ESG,False,False,True,Immunoglobulin A1 light chain
+761,2ESG,False,False,True,Immunoglobulin A1 heavy chain
+762,2F58,False,True,False,PROTEIN (IGG1 FAB 58.2 ANTIBODY (LIGHT CHAIN))
+763,2F58,False,True,False,PROTEIN (IGG1 FAB 58.2 ANTIBODY (HEAVY CHAIN))
+764,2F5A,False,True,False,PROTEIN (ANTIBODY 2F5 (LIGHT CHAIN))
+765,2F5A,False,True,False,PROTEIN (ANTIBODY 2F5 (HEAVY CHAIN))
+766,2F5B,False,True,False,PROTEIN (ANTIBODY 2F5 (LIGHT CHAIN))
+767,2F5B,False,True,False,PROTEIN (ANTIBODY 2F5 (HEAVY CHAIN))
+768,2FCB,True,False,False,PROTEIN (FC GAMMA RIIB)
+769,2FD6,False,True,False,L chain of Fab of ATN-615 anti-uPAR antibody
+770,2FD6,False,True,False,H chain of Fab of ATN-615 anti-uPAR antibody
+771,2FJF,False,True,False,Light Chain of a VEGF binding Antibody
+772,2FJF,False,True,False,Heavy Chain of a VEGF binding Antibody
+773,2FKB,True,False,False,Putative Nudix hydrolase yfcD
+774,2FL5,False,False,True,Immunoglobulin Igg1 Lambda Light Chain
+775,2FL5,False,False,True,Immunoglobulin Igg1 Heavy chain
+776,2FR4,False,True,False,antibody light chain FAB
+777,2FR4,False,True,False,antibody heavy chain FAB
+778,2G2R,False,True,False,Green-fluorescent antibody (11G10)-light chain
+779,2G2R,False,True,False,Green-fluorescent antibody (11G10)-heavy chain
+780,2GHW,False,True,False,"anti-sars scFv antibody, 80R"
+781,2GI9,False,False,True,Immunoglobulin B1 binding domain of protein G
+782,2GJJ,False,True,False,A21 single-chain antibody fragment against erbB2
+783,2GJZ,False,True,False,Catalytic elimination antibody 13G5 light chain
+784,2GJZ,False,True,False,Catalytic elimination antibody 13G5 heavy chain
+785,2GK0,False,True,False,Catalytic elimination antibody 13G5 light chain
+786,2GK0,False,True,False,Catalytic elimination antibody 13G5 heavy chain
+787,2GSG,False,True,False,monoclonal antibody light chain
+788,2GSG,False,True,False,monoclonal antibody heavy chain
+789,2GSI,False,False,True,Immunoglobulin (kappa) light chain
+790,2GSI,False,False,True,Immunoglobulin (gamma) heavy chain (VH + CH1 fragment)
+791,2GW5,False,False,True,Leukocyte immunoglobulin-like receptor subfamily B member 2 precursor
+792,2H2R,True,False,True,Low affinity immunoglobulin epsilon Fc receptor (Lymphocyte IgE receptor) (Fc-epsilon-RII)(Immunoglobulin E-binding factor) (CD23 antigen)
+793,2H2T,True,False,True,Low affinity immunoglobulin epsilon Fc receptor (Lymphocyte IgE receptor) (Fc-epsilon-RII) (Immunoglobulin E-binding factor) (CD23 antigen)
+794,2H32,False,False,True,Immunoglobulin iota chain
+795,2H32,False,False,True,Immunoglobulin omega chain
+796,2H32,False,False,True,Immunoglobulin heavy chain
+797,2H58,True,False,False,Kinesin-like protein KIFC3 variant
+798,2HJF,False,True,False,Antibody fragment Heavy chain
+799,2HJF,False,True,False,Antibody fragment Light chain
+800,2HKF,False,False,True,Immunoglobulin Light chain Fab fragment
+801,2HKF,False,False,True,Immunoglobulin Heavy chain Fab fragment
+802,2HKH,False,False,True,Immunoglobulin Light chain Fab fragment
+803,2HKH,False,False,True,Immunoglobulin Heavy chain Fab fragment
+804,2HMI,False,True,False,FAB FRAGMENT OF MONOCLONAL ANTIBODY 28
+805,2HMI,False,True,False,FAB FRAGMENT OF MONOCLONAL ANTIBODY 28
+806,2HRP,False,True,False,MONOCLONAL ANTIBODY F11.2.32
+807,2HRP,False,True,False,MONOCLONAL ANTIBODY F11.2.32
+808,2HVJ,False,True,False,antibody Fab heavy chain
+809,2HVJ,False,True,False,antibody Fab light chain
+810,2HVK,False,True,False,Antibody Fab heavy chain
+811,2HVK,False,True,False,Antibody Fab light chain
+812,2HWZ,False,False,True,Immunoglobulin Fab light chain
+813,2HWZ,False,False,True,Immunoglobulin Fab heavy chain
+814,2I2Y,False,False,True,"Fusion protein consists of immunoglobulin G-Binding Protein G and Splicing factor, arginine/serine-rich 3"
+815,2I38,False,False,True,"Fusion protein consists of immunoglobulin G-Binding Protein G and Splicing factor, arginine/serine-rich 3"
+816,2I5Y,False,True,False,Antibody 17B Light chain
+817,2I5Y,False,True,False,Antibody 17B Heavy chain
+818,2I60,False,True,False,ANTIBODY 17B LIGHT CHAIN
+819,2I60,False,True,False,ANTIBODY 17B HEAVY CHAIN
+820,2I9L,False,True,False,Antibody 7D11 light chain
+821,2I9L,False,True,False,Antibody 7D11 heavy chain
+822,2IBZ,False,True,False,Variable Heavy chain of antibody fragment
+823,2IBZ,False,True,False,Variable Light chain of antibody fragment
+824,2ICC,False,False,True,V-set and immunoglobulin domain-containing protein 4
+825,2ICE,False,False,True,V-set and immunoglobulin domain-containing protein 4
+826,2ICF,False,False,True,V-set and immunoglobulin domain-containing protein 4
+827,2ITC,False,True,False,Antibody Fab fragment heavy chain
+828,2ITC,False,True,False,Antibody Fab fragment light chain
+829,2ITD,False,True,False,antibody Fab fragment heavy chain
+830,2ITD,False,True,False,antibody Fab fragment light chain
+831,2J4W,False,True,False,FAB FRAGMENT OF MONOCLONAL ANTIBODY F8.12.19
+832,2J4W,False,True,False,FAB FRAGMENT OF MONOCLONAL ANTIBODY F8.12.19
+833,2J52,False,False,True,IMMUNOGLOBULIN G-BINDING PROTEIN G
+834,2J53,False,False,True,IMMUNOGLOBULIN G-BINDING PROTEIN G
+835,2J5L,False,True,False,FAB FRAGMENT OF MONOCLONAL ANTIBODY F8.12.19
+836,2J5L,False,True,False,FAB FRAGMENT OF MONOCLONAL ANTIBODY F8.12.19
+837,2JK5,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+838,2JK5,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+839,2JSV,False,False,True,Immunoglobulin G-binding protein G
+840,2JU6,False,False,True,Immunoglobulin G-binding protein G
+841,2JWD,False,False,True,Immunoglobulin G-binding protein A
+842,2K0P,False,False,True,Immunoglobulin G-binding protein G
+843,2K7L,True,False,False,centFCP1-T584PO4 peptide
+844,2KBT,False,False,True,"chimera of Proto-oncogene vav, linker, Immunoglobulin G-binding protein G"
+845,2KHU,False,False,True,"Immunoglobulin G-binding protein G, DNA polymerase iota"
+846,2KHW,False,False,True,"Immunoglobulin G-binding protein G, DNA polymerase iota"
+847,2KLK,False,False,True,IMMUNOGLOBULIN G-BINDING PROTEIN G
+848,2KN4,False,False,True,"Immunoglobulin G-binding protein G, Splicing factor; arginine/serine-rich 2"
+849,2KQ4,False,False,True,Immunoglobulin G-binding protein G
+850,2KWD,False,False,True,Immunoglobulin G-binding protein G
+851,2LGI,False,False,True,Immunoglobulin G-binding protein G
+852,2LKQ,False,False,True,Immunoglobulin lambda-like polypeptide 1
+853,2LR2,False,False,True,Immunoglobulin G-binding protein A
+854,2LUM,False,False,True,Immunoglobulin G-binding protein G
+855,2M5A,False,False,True,Immunoglobulin G-binding protein A
+856,2MBB,False,False,True,Immunoglobulin G-binding protein G/DNA polymerase iota fusion protein
+857,2MCG,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+858,2N5Z,True,False,False,Resuscitation-promoting factor RpfC
+859,2N7J,False,False,True,Immunoglobulin G-binding protein G
+860,2N9K,False,False,True,Immunoglobulin G-binding protein G
+861,2N9L,False,False,True,Immunoglobulin G-binding protein G
+862,2NLJ,False,True,False,antibody Fab fragment light chain
+863,2NLJ,False,True,False,antibody Fab fragment heavy chain
+864,2NMQ,False,False,True,Immunoglobulin G-binding protein G precursor
+865,2NR6,False,True,False,Antibody light chain
+866,2NR6,False,True,False,Antibody heavy chain
+867,2NTF,False,True,False,Murine Antibody Fab RS2-1G9 Lambda Light Chain
+868,2NTF,False,True,False,Murine Antibody Fab RS2-1G9 IGG1 Heavy Chain
+869,2NXY,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+870,2NXY,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+871,2NXZ,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+872,2NXZ,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+873,2NY0,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+874,2NY0,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+875,2NY1,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+876,2NY1,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+877,2NY2,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+878,2NY2,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+879,2NY3,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+880,2NY3,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+881,2NY4,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+882,2NY4,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+883,2NY5,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+884,2NY5,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+885,2NY6,False,True,False,"ANTIBODY 17B, LIGHT CHAIN"
+886,2NY6,False,True,False,"ANTIBODY 17B, HEAVY CHAIN"
+887,2NY7,False,True,False,"ANTIBODY b12, HEAVY CHAIN"
+888,2NY7,False,True,False,"ANTIBODY b12, LIGHT CHAIN"
+889,2NYY,False,True,False,CR1 monoclonal antibody
+890,2NYY,False,True,False,CR1 monoclonal antibody
+891,2NZ9,False,True,False,AR2 monoclonal antibody
+892,2NZ9,False,True,False,AR2 monoclonal antibody
+893,2O5X,False,True,False,chimeric antibody Fab 1E9-DB3
+894,2O5X,False,True,False,chimeric antibody Fab 1E9-DB3
+895,2O5Y,False,True,False,chimeric antibody Fab 1E9-DB3
+896,2O5Y,False,True,False,chimeric antibody Fab 1E9-DB3
+897,2O5Z,False,True,False,chimeric antibody Fab 1E9-DB3
+898,2O5Z,False,True,False,chimeric antibody Fab 1E9-DB3
+899,2OCW,False,False,True,Polymeric-immunoglobulin receptor
+900,2OED,False,False,True,Immunoglobulin G-binding protein G
+901,2OLD,False,False,True,Bence Jones KWR Protein - Immunoglobulin Light Chain
+902,2OMB,False,False,True,Bence Jones KWR Protein - Immunoglobulin Light Chain
+903,2OMN,False,False,True,Bence Jones KWR Protein - Immunoglobulin Light Chain
+904,2ON8,False,False,True,Immunoglobulin G-binding protein G
+905,2ONQ,False,False,True,Immunoglobulin G-binding protein G
+906,2OP4,False,True,False,Murine Antibody Fab RS2-1G9 Lambda Light Chain
+907,2OP4,False,True,False,Murine Antibody Fab RS2-1G9 IGG1 Heavy Chain
+908,2OR7,False,False,True,T-cell immunoglobulin and mucin domain-containing protein 2
+909,2OR9,False,True,False,Monoclonal anti-c-myc antibody 9E10
+910,2OR9,False,True,False,Monoclonal anti-c-myc antibody 9E10
+911,2ORB,False,True,False,Monoclonal anti-c-myc antibody 9E10
+912,2ORB,False,True,False,Monoclonal anti-c-myc antibody 9E10
+913,2OTP,False,False,True,Leukocyte immunoglobulin-like receptor subfamily A member 2
+914,2P42,False,True,False,ANTIBODY CAB-RN05
+915,2P43,False,True,False,ANTIBODY CAB-RN05
+916,2P44,False,True,False,ANTIBODY CAB-RN05
+917,2P45,False,True,False,ANTIBODY CAB-RN05
+918,2P46,False,True,False,ANTIBODY CAB-RN05
+919,2P47,False,True,False,ANTIBODY CAB-RN05
+920,2P48,False,True,False,ANTIBODY CAB-RN05
+921,2P49,False,True,False,ANTIBODY CAB-RN05
+922,2P4A,False,True,False,ANTIBODY CAB-RN05
+923,2PCP,False,False,True,IMMUNOGLOBULIN
+924,2PCP,False,False,True,IMMUNOGLOBULIN
+925,2PLP,False,False,True,Immunoglobulin G-binding protein G
+926,2PND,False,False,True,V-set and immunoglobulin domain containing 4
+927,2Q1E,False,False,True,Amyloidogenic immunoglobulin light chain protein AL-09
+928,2QAD,False,True,False,anti-HIV-1 antibody 412d light chain
+929,2QAD,False,True,False,anti-HIV-1 antibody 412d heavy chain
+930,2QMT,False,False,True,Immunoglobulin G-binding protein G
+931,2QQK,False,True,False,Antibody Heavy Chain
+932,2QQK,False,True,False,Antibody Light Chain
+933,2QQL,False,True,False,Antibody Heavy Chain
+934,2QQL,False,True,False,Antibody Light Chain
+935,2QQN,False,True,False,Antibody heavy chain
+936,2QQN,False,True,False,Antibody light chain
+937,2QY6,True,False,False,UPF0209 protein yfcK
+938,2R0K,False,True,False,antibody light chain of Fab58
+939,2R0K,False,True,False,"antibody heavy chain of Fab58, Fab portion only"
+940,2R0L,False,True,False,antibody light chain
+941,2R0L,False,True,False,"antibody heavy chain, Fab portion only"
+942,2R1W,False,True,False,"Fab, antibody fragment (IgG1k), light chain"
+943,2R1W,False,True,False,"Fab, antibody fragment (IgG1k), heavy chain"
+944,2R1X,False,True,False,"Fab, antibody fragment (IgG1k), light chain"
+945,2R1X,False,True,False,"Fab, antibody fragment (IgG1k), heavy chain"
+946,2R1Y,False,True,False,"Fab, antibody fragment (IgG1k), light chain"
+947,2R1Y,False,True,False,"Fab, antibody fragment (IgG1k), heavy chain"
+948,2R23,False,True,False,"Fab, antibody fragment (IgG1k), light chain"
+949,2R23,False,True,False,"Fab, antibody fragment (IgG1k), heavy chain"
+950,2R2B,False,True,False,"Fab, antibody fragment (IgG1k), light chain"
+951,2R2B,False,True,False,"Fab, antibody fragment (IgG1k), heavy chain"
+952,2R2E,False,True,False,"Fab, antibody fragment (IgG1k), light chain"
+953,2R2E,False,True,False,"Fab, antibody fragment (IgG1k), heavy chain"
+954,2R2H,False,True,False,"Fab, antibody fragment (IgG1k), light chain"
+955,2R2H,False,True,False,"Fab, antibody fragment (IgG1k), heavy chain"
+956,2R4R,False,True,False,"antibody for beta2 adrenoceptor, light chain"
+957,2R4R,False,True,False,"antibody for beta2 adrenoceptor, heavy chain"
+958,2R4S,False,True,False,"antibody for beta2 adrenoceptor, light chain"
+959,2R4S,False,True,False,"antibody for beta2 adrenoceptor, heavy chain"
+960,2RCJ,False,False,True,Immunoglobulin M heavy chain
+961,2RCS,False,False,True,IMMUNOGLOBULIN 48G7 GERMLINE FAB
+962,2RCS,False,False,True,IMMUNOGLOBULIN 48G7 GERMLINE FAB
+963,2REP,True,False,False,Kinesin-like protein KIFC1
+964,2RMM,False,False,True,Immunoglobulin G-binding protein G
+965,2RPV,False,False,True,Immunoglobulin G-binding protein G
+966,2SPZ,False,False,True,IMMUNOGLOBULIN G BINDING PROTEIN A
+967,2UUD,False,True,False,NQ10-1.12 ANTI-PHOX ANTIBODY
+968,2UUD,False,True,False,NQ10-1.12 ANTI-PHOX ANTIBODY
+969,2UUD,False,True,False,NQ10-1.12 ANTI-PHOX ANTIBODY
+970,2UYL,False,True,False,MONOCLONAL ANTIBODY F-22-30
+971,2UYL,False,True,False,MONOCLONAL ANTIBODY F-22-30
+972,2V0O,True,False,False,FCH DOMAIN ONLY PROTEIN 2
+973,2V17,False,True,False,MONOCLONAL ANTIBODY FAB FRAGMENT MN423
+974,2V17,False,True,False,MONOCLONAL ANTIBODY FAB FRAGMENT MN423
+975,2V7H,False,True,False,MONOCLONAL ANTIBODY
+976,2V7H,False,True,False,MONOCLONAL ANTIBODY
+977,2V7N,False,False,True,IMMUNOGLOBULIN LIGHT CHAIN
+978,2V7N,False,False,True,IMMUNOGLOBULIN HEAVY CHAIN
+979,2VC2,False,True,False,MONOCLONAL ANTIBODY 10E5 HEAVY CHAIN
+980,2VC2,False,True,False,MONOCLONAL ANTIBODY 10E5 LIGHT CHAIN
+981,2VDK,False,True,False,MONOCLONAL ANTIBODY 10E5 HEAVY CHAIN
+982,2VDK,False,True,False,MONOCLONAL ANTIBODY 10E5 LIGHT CHAIN
+983,2VDL,False,True,False,MONOCLONAL ANTIBODY 10E5 HEAVY CHAIN
+984,2VDL,False,True,False,MONOCLONAL ANTIBODY 10E5 LIGHT CHAIN
+985,2VDM,False,True,False,MONOCLONAL ANTIBODY 10E5 HEAVY CHAIN
+986,2VDM,False,True,False,MONOCLONAL ANTIBODY 10E5 LIGHT CHAIN
+987,2VDN,False,True,False,MONOCLONAL ANTIBODY 10E5 HEAVY CHAIN
+988,2VDN,False,True,False,MONOCLONAL ANTIBODY 10E5 LIGHT CHAIN
+989,2VDO,False,True,False,MONOCLONAL ANTIBODY 10E5 HEAVY CHAIN
+990,2VDO,False,True,False,MONOCLONAL ANTIBODY 10E5 LIGHT CHAIN
+991,2VDP,False,True,False,MONOCLONAL ANTIBODY 10E5 HEAVY CHAIN
+992,2VDP,False,True,False,MONOCLONAL ANTIBODY 10E5 LIGHT CHAIN
+993,2VDQ,False,True,False,MONOCLONAL ANTIBODY 10E5 HEAVY CHAIN
+994,2VDQ,False,True,False,MONOCLONAL ANTIBODY 10E5 LIGHT CHAIN
+995,2VDR,False,True,False,MONOCLONAL ANTIBODY 10E5 HEAVY CHAIN
+996,2VDR,False,True,False,MONOCLONAL ANTIBODY 10E5 LIGHT CHAIN
+997,2VIR,False,False,True,"IMMUNOGLOBULIN (IGG1, LAMBDA)"
+998,2VIR,False,False,True,"IMMUNOGLOBULIN (IGG1, LAMBDA)"
+999,2VIS,False,False,True,"IMMUNOGLOBULIN (IGG1, LAMBDA)"
+1000,2VIS,False,False,True,"IMMUNOGLOBULIN (IGG1, LAMBDA)"
+1001,2VIT,False,False,True,"IMMUNOGLOBULIN (IGG1, LAMBDA)"
+1002,2VIT,False,False,True,"IMMUNOGLOBULIN (IGG1, LAMBDA)"
+1003,2VPW,True,False,False,NRFC PROTEIN
+1004,2VPX,True,False,False,NRFC PROTEIN
+1005,2VPY,True,False,False,NRFC PROTEIN
+1006,2VPZ,True,False,False,NRFC PROTEIN
+1007,2VQ1,True,False,False,ANTI-HUMAN FC GAMMA RECEPTOR III 3G8 GAMMA HEAVY CHAIN VARIABLE REGION
+1008,2VWE,False,True,False,ANTI-VEGF-B MONOCLONAL ANTIBODY
+1009,2VWE,False,True,False,ANTI-VEGF-B MONOCLONAL ANTIBODY
+1010,2VYR,False,True,False,HUMAN SINGLE DOMAIN ANTIBODY
+1011,2W0F,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+1012,2W0F,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+1013,2W59,True,False,False,IGY FCU3-4
+1014,2X89,False,True,False,ANTIBODY
+1015,2XA3,False,True,False,LLAMA HEAVY CHAIN ANTIBODY D7
+1016,2XKN,False,True,False,ANTI-EGFR ANTIBODY 7A7
+1017,2XKN,False,True,False,ANTI-EGFR ANTIBODY 7A7
+1018,2XQB,False,True,False,ANTI-IL-15 ANTIBODY
+1019,2XQB,False,True,False,ANTI-IL-15 ANTIBODY
+1020,2XQH,False,False,True,IMMUNOGLOBULIN-BINDING PROTEIN EIBD
+1021,2XQY,False,True,False,A13-D6.3 MONOCLONAL ANTIBODY
+1022,2XQY,False,True,False,A13-D6.3 MONOCLONAL ANTIBODY
+1023,2XRA,False,True,False,"HK20, HUMAN MONOCLONAL ANTIBODY HEAVY CHAIN"
+1024,2XRA,False,True,False,"HK20, HUMAN MONOCLONAL ANTIBODY LIGHT CHAIN"
+1025,2XTJ,False,True,False,"FAB FROM A HUMAN MONOCLONAL ANTIBODY, 1D05"
+1026,2XTJ,False,True,False,"FAB FROM A HUMAN MONOCLONAL ANTIBODY, 1D05"
+1027,2XTJ,False,True,False,"FAB FROM A HUMAN MONOCLONAL ANTIBODY, 1D05"
+1028,2XTJ,False,True,False,"FAB FROM A HUMAN MONOCLONAL ANTIBODY, 1D05"
+1029,2XWT,False,True,False,THYROID BLOCKING HUMAN AUTOANTIBODY K1-70 HEAVY CHAIN
+1030,2XWT,False,True,False,THYROID BLOCKING HUMAN AUTOANTIBODY K1-70 LIGHT CHAIN
+1031,2XZQ,False,True,False,"ANTI-NP MURINE GERMLINE MONOCLONAL ANTIBODY BBE6.12H3, HEAVY CHAIN"
+1032,2XZQ,False,True,False,"ANTI-NP MURINE GERMLINE MONOCLONAL ANTIBODY BBE6.12H3, LIGHT CHAIN"
+1033,2XZR,False,False,True,IMMUNOGLOBULIN-BINDING PROTEIN EIBD
+1034,2Y06,False,True,False,"ANTI-NP MURINE GERMLINE MONOCLONAL ANTIBODY BBE6.12H3, HEAVY CHAIN"
+1035,2Y06,False,True,False,"ANTI-NP MURINE GERMLINE MONOCLONAL ANTIBODY BBE6.12H3, LIGHT CHAIN"
+1036,2Y07,False,True,False,"ANTI-NP MURINE GERMLINE MONOCLONAL ANTIBODY BBE6.12H3, HEAVY CHAIN"
+1037,2Y07,False,True,False,"ANTI-NP MURINE GERMLINE MONOCLONAL ANTIBODY BBE6.12H3, LIGHT CHAIN"
+1038,2Y36,False,True,False,ANTI-NP MURINE GERMLINE MONOCLONAL ANTIBODY BBE6.12H3
+1039,2Y36,False,True,False,ANTI-NP MURINE GERMLINE MONOCLONAL ANTIBODY BBE6.12H3
+1040,2Y7Q,False,False,True,HIGH AFFINITY IMMUNOGLOBULIN EPSILON RECEPTOR SUBUNIT ALPHA
+1041,2YBR,False,True,False,SINGLE CHAIN ANTIBODY FRAGMENT 9004G
+1042,2YBR,False,True,False,SINGLE CHAIN ANTIBODY FRAGMENT 9004G
+1043,2YC1,False,True,False,SINGLE CHAIN ANTIBODY FRAGMENT 9004G
+1044,2YC1,False,True,False,SINGLE CHAIN ANTIBODY FRAGMENT 9004G
+1045,2YMX,False,True,False,FAB ANTIBODY HEAVY CHAIN
+1046,2YMX,False,True,False,FAB ANTIBODY LIGHT CHAIN
+1047,2YPM,True,False,False,LAFCA THIOREDOXIN
+1048,2YSS,False,True,False,ANTI-LYSOZYME ANTIBODY FV REGION
+1049,2YSS,False,True,False,ANTI-LYSOZYME ANTIBODY FV REGION
+1050,2Z4Q,False,True,False,"anti egfr antibody fab, light chain"
+1051,2Z4Q,False,True,False,"anti egfr antibody fab, heavy chain"
+1052,2Z91,False,True,False,Anti-ciguatoxin antibody 10C9 FAB heavy chain
+1053,2Z91,False,True,False,Anti-ciguatoxin antibody 10C9 FAB light chain
+1054,2Z92,False,True,False,Anti-ciguatoxin antibody 10C9 Fab heavy chain
+1055,2Z92,False,True,False,Anti-ciguatoxin antibody 10C9 Fab light chain
+1056,2Z93,False,True,False,Anti-ciguatoxin antibody 10C9 Fab heavy chain
+1057,2Z93,False,True,False,Anti-ciguatoxin antibody 10C9 Fab light chain
+1058,2ZCH,False,True,False,monoclonal antibody 8G8F5 Fab
+1059,2ZCH,False,True,False,monoclonal antibody 8G8F5 Fab
+1060,2ZCK,False,True,False,monoclonal antibody 8G8F5 Fab
+1061,2ZCK,False,True,False,monoclonal antibody 8G8F5 Fab
+1062,2ZCL,False,True,False,monoclonal antibody 8G8F5 Fab
+1063,2ZCL,False,True,False,monoclonal antibody 8G8F5 Fab
+1064,2ZU0,True,False,False,Probable ATP-dependent transporter sufC
+1065,32C2,False,True,False,IGG1 ANTIBODY 32C2
+1066,32C2,False,True,False,IGG1 ANTIBODY 32C2
+1067,3AAZ,False,True,False,Humanized recombinant Fab fragment of a murine; antibody
+1068,3AAZ,False,True,False,Humanized recombinant Fab fragment of a murine; antibody
+1069,3AB0,False,True,False,"antibody ScFv fragment, heavy chain"
+1070,3AB0,False,True,False,"antibody ScFv fragment, light chain"
+1071,3AY4,True,False,True,Low affinity immunoglobulin gamma Fc region receptor III-A
+1072,3BBY,True,False,False,Uncharacterized GST-like protein yfcF
+1073,3BD3,False,True,False,catalytic antibody
+1074,3BD4,False,True,False,catalytic antibody
+1075,3BD5,False,True,False,catalytic antibody
+1076,3BI9,False,False,True,T-cell immunoglobulin and mucin domain-containing protein 4
+1077,3BIA,False,False,True,T-cell immunoglobulin and mucin domain-containing protein 4
+1078,3BIB,False,False,True,T-cell immunoglobulin and mucin domain-containing protein 4
+1079,3BJ9,False,False,True,"Immunoglobulin iota chain, Immunoglobulin lambda-like polypeptide 1"
+1080,3BPC,False,True,False,"Fab, antibody fragment (IgG1k), light chain"
+1081,3BPC,False,True,False,"Fab, antibody fragment (IgG1k), heavy chain"
+1082,3BT2,False,True,False,"anti-uPAR antibody, light chain"
+1083,3BT2,False,True,False,"anti-uPAR antibody, heavy chain"
+1084,3CDF,False,False,True,IMMUNOGLOBULIN LIGHT CHAIN
+1085,3CDY,False,False,True,IMMUNOGLOBULIN LIGHT CHAIN
+1086,3CFB,False,True,False,BLUE FLUORESCENT ANTIBODY EP2-19G2-KAPPA LIGHT CHAIN
+1087,3CFB,False,True,False,BLUE FLUORESCENT ANTIBODY EP2-19G2-IGG2B HEAVY CHAIN
+1088,3CFC,False,True,False,BLUE FLUORESCENT ANTIBODY EP2-19G2-IGG2B HEAVY CHAIN
+1089,3CFC,False,True,False,BLUE FLUORESCENT ANTIBODY EP2-19G2-KAPPA LIGHT CHAIN
+1090,3CFD,False,True,False,PURPLE-FLUORESCENT ANTIBODY EP2-25C10-KAPPA LIGHT CHAIN
+1091,3CFD,False,True,False,PURPLE-FLUORESCENT ANTIBODY EP2-25C10-IGG2B HEAVY CHAIN
+1092,3CFE,False,True,False,PURPLE-FLUORESCENT ANTIBODY EP2-25C10-KAPPA LIGHT CHAIN
+1093,3CFE,False,True,False,PURPLE-FLUORESCENT ANTIBODY EP2-25C10-IGG2B HEAVY CHAIN
+1094,3CFJ,False,True,False,CATALYTIC ANTIBODY FAB 34E4 LIGHT CHAIN fusion
+1095,3CFJ,False,True,False,CATALYTIC ANTIBODY FAB 34E4 HEAVY CHAIN fusion
+1096,3CFK,False,True,False,"CATALYTIC ANTIBODY FAB 34E4 LIGHT CHAIN,Uncharacterized protein"
+1097,3CFK,False,True,False,"CATALYTIC ANTIBODY FAB 34E4 HEAVY CHAIN,Uncharacterized protein"
+1098,3CHN,False,False,True,Immunoglobulin kappa light chain
+1099,3CK0,False,False,True,PROTEIN (IMMUNOGLOBULIN; LIGHT CHAIN)
+1100,3CK0,False,False,True,PROTEIN (IMMUNOGLOBULIN; HEAVY CHAIN)
+1101,3CM9,False,False,True,Immunoglobulin kappa light chain
+1102,3CXD,False,True,False,"Fab fragment of anti-osteopontin antibody 23C3, Light chain"
+1103,3CXD,False,True,False,"Fab fragment of anti-osteopontin antibody 23C3, Heavy chain"
+1104,3D2U,False,False,True,Leukocyte immunoglobulin-like receptor subfamily B member 1
+1105,3D33,False,False,True,Domain of Unknown Function with an Immunoglobulin-like Beta-sandwich Fold
+1106,3D5O,True,False,True,Low affinity immunoglobulin gamma Fc region receptor II-a
+1107,3D69,False,True,False,"anti-factor IX antibody, 10C12"
+1108,3D69,False,True,False,"anti-factor IX antibody, 10C12"
+1109,3D85,False,True,False,"FAB of antibody 7G10, light chain"
+1110,3D85,False,True,False,"FAB of antibody 7G10, heavy chain"
+1111,3D9A,False,True,False,Light Chain of HyHel10 Antibody Fragment (Fab)
+1112,3D9A,False,True,False,Heavy Chain of HyHel10 Antibody Fragment (Fab)
+1113,3DSF,False,True,False,"Fab fragment of anti-osteopontin antibody 23C3, Light chain"
+1114,3DSF,False,True,False,"Fab fragment of anti-osteopontin antibody 23C3, Heavy chain"
+1115,3DUR,False,True,False,antibody Fv fragment SAG173-04
+1116,3DUS,False,True,False,antibody Fv fragment SAG506-01
+1117,3DUU,False,True,False,antibody Fv fragment SAG506-01
+1118,3DV4,False,True,False,antibody Fv fragment SAG506-01
+1119,3DV6,False,True,False,antibody Fv fragment SAG506-01
+1120,3DVF,False,False,True,Amyloidogenic immunoglobulin light chain protein AL-12
+1121,3ESU,False,True,False,Antibody 14b7* light chain and antibody 14b7* heavy chain linked with a synthetic (GGGGS)4 linker
+1122,3ESV,False,True,False,Antibody M18 light chain and antibody M18 heavy chain linked with a synthetic (GGGGS)4 linker
+1123,3ET9,False,True,False,Antibody 1H light chain and antibody 1H heavy chain linked with a synthetic (GGGGS)4 linker
+1124,3ETB,False,True,False,Antibody M18 light chain and antibody M18 heavy chain linked with a synthetic (GGGGS)4 linker
+1125,3EYW,True,False,False,C-terminal domain of Glutathione-regulated potassium-efflux system protein kefC fused to full length Glutathione-regulated potassium-efflux system ancillary protein kefF
+1126,3F58,False,False,True,PROTEIN (IMMUNOGLOBULIN GAMMA I (58.2))
+1127,3F58,False,False,True,PROTEIN (IMMUNOGLOBULIN GAMMA I (58.2))
+1128,3F5W,False,True,False,Antibody heavy chain
+1129,3F5W,False,True,False,Antibody light chain
+1130,3F7V,False,True,False,antibody fab fragment Heavy chain
+1131,3F7V,False,True,False,antibody fab fragment light chain
+1132,3F7Y,False,True,False,antibody fab fragment heavy chain
+1133,3F7Y,False,True,False,antibody fab fragment light chain
+1134,3FB5,False,True,False,antibody Fab fragment heavy chain
+1135,3FB5,False,True,False,antibody Fab fragment light chain
+1136,3FB6,False,True,False,antibody fab fragment heavy chain
+1137,3FB6,False,True,False,antibody fab fragment light chain
+1138,3FB7,False,True,False,antibody fab fragment heavy chain
+1139,3FB7,False,True,False,antibody fab fragment light chain
+1140,3FB8,False,True,False,antibody fab fragment heavy chain
+1141,3FB8,False,True,False,antibody fab fragment light chain
+1142,3FCT,False,True,False,PROTEIN (METAL CHELATASE CATALYTIC ANTIBODY)
+1143,3FCT,False,True,False,PROTEIN (METAL CHELATASE CATALYTIC ANTIBODY)
+1144,3FFD,False,True,False,"Monoclonal antibody, heavy chain, Fab fragment"
+1145,3FFD,False,True,False,"Monoclonal antibody, light chain, Fab fragment"
+1146,3FIL,False,False,True,Immunoglobulin G-binding protein G
+1147,3FIL,False,False,True,Immunoglobulin G-binding protein G
+1148,3FKU,False,True,False,Neutralizing antibody F10
+1149,3FMG,False,True,False,"Fab of neutralizing antibody 4F8, light chain"
+1150,3FMG,False,True,False,"Fab of neutralizing antibody 4F8, heavy chain"
+1151,3FO0,False,True,False,Catalytic antibody Fab 13G5 kappa light chain chimera
+1152,3FO0,False,True,False,Catalytic antibody Fab 13G5 IgG2b heavy chain chimera
+1153,3FO1,False,True,False,Catalytic antibody Fab 13G5 kappa light chain chimera
+1154,3FO1,False,True,False,Catalytic antibody Fab 13G5 IgG2b heavy chain chimera
+1155,3FO2,False,True,False,Catalytic antibody Fab 13G5 kappa light chain chimera
+1156,3FO2,False,True,False,Catalytic antibody Fab 13G5 IgG2b heavy chain chimera
+1157,3FO9,False,False,True,Immunoglobulin IGG2A - light chain
+1158,3FO9,False,False,True,Immunoglobulin IGG2A - heavy chain
+1159,3FRU,True,False,False,NEONATAL FC RECEPTOR
+1160,3FZU,False,False,True,"immunoglobulin IgG1 Fab, light chain"
+1161,3FZU,False,False,True,"immunoglobulin IgG1 Fab, heavy chain"
+1162,3G04,False,True,False,HUMAN THYROID STIMULATING AUTOANTIBODY M22 LIGHT CHAIN
+1163,3G04,False,True,False,HUMAN THYROID STIMULATING AUTOANTIBODY M22 HEAVY CHAIN
+1164,3GB7,False,True,False,antibody Fab fragment heavy chain
+1165,3GB7,False,True,False,antibody Fab fragment light chain
+1166,3GBM,False,True,False,antibody (Fab)
+1167,3GBM,False,True,False,antibody (Fab)
+1168,3GIZ,False,True,False,"Fab fragment of anti-CD20 antibody Ofatumumab, light chain"
+1169,3GIZ,False,True,False,"Fab fragment of anti-CD20 antibody Ofatumumab, heavy chain"
+1170,3GJF,False,True,False,Antibody light chain
+1171,3GJF,False,True,False,Antibody heavy chain
+1172,3GKW,False,True,False,Heavy chain of the antibody Nimotuzumab
+1173,3GKW,False,True,False,Light chain of the antibody Nimotuzumab
+1174,3GNM,False,True,False,"JAA-F11 Fab Antibody Fragment, Light Chain"
+1175,3GNM,False,True,False,"JAA-F11 Fab Antibody Fragment, Heavy Chain"
+1176,3GX0,True,False,False,GST-like protein yfcG
+1177,3H09,False,False,True,Immunoglobulin A1 protease
+1178,3H3B,False,True,False,anti-ErbB2 antibody chA21
+1179,3H42,False,True,False,Fab from LDLR competitive antibody: Light chain
+1180,3H42,False,True,False,Fab from LDLR competitive antibody: Heavy chain
+1181,3H8N,False,False,True,Killer cell immunoglobulin-like receptor 2DS4
+1182,3HAE,False,True,False,Antibody light chain
+1183,3HAE,False,True,False,Antibody heavy chain
+1184,3HB3,False,True,False,ANTIBODY FV FRAGMENT
+1185,3HB3,False,True,False,ANTIBODY FV FRAGMENT
+1186,3HC0,False,False,True,"IMMUNOGLOBULIN IGG1 FAB, LIGHT CHAIN"
+1187,3HC0,False,False,True,"IMMUNOGLOBULIN IGG1 FAB, HEAVY CHAIN"
+1188,3HC3,False,False,True,"IMMUNOGLOBULIN IGG1 FAB, LIGHT CHAIN"
+1189,3HC3,False,False,True,"IMMUNOGLOBULIN IGG1 FAB, HEAVY CHAIN"
+1190,3HC4,False,False,True,"IMMUNOGLOBULIN IGG1 FAB, HEAVY CHAIN"
+1191,3HC4,False,False,True,"IMMUNOGLOBULIN IGG1 FAB, LIGHT CHAIN"
+1192,3HPL,False,True,False,Antibody Fab heavy chain
+1193,3HPL,False,True,False,Antibody fab light chain
+1194,3I02,False,False,True,Immunoglobulin light chain
+1195,3I02,False,False,True,Immunoglobulin heavy chain
+1196,3I50,False,True,False,murine kappa light chain of E53 monoclonal antibody Fab
+1197,3I50,False,True,False,murine heavy chain (IgG3) of E53 monoclonal antibody Fab
+1198,3I75,False,True,False,Antibody heavy chain
+1199,3I75,False,True,False,Antibody light chain
+1200,3I9G,False,True,False,"Sonepcizumab antibody Fab fragment, heavy chain"
+1201,3I9G,False,True,False,"Sonepcizumab antibody Fab fragment, light chain"
+1202,3IET,False,False,True,Immunoglobulin light chain (IgG2a)
+1203,3IET,False,False,True,Immunoglobulin heavy chain (IgG2a)
+1204,3IF1,False,False,True,Immunoglobulin light chain (IgG2a)
+1205,3IF1,False,False,True,Immunoglobulin heavy chain (IgG2a)
+1206,3IFL,False,True,False,12A11 FAB antibody light chain
+1207,3IFL,False,True,False,12A11 FAB antibody heavy chain
+1208,3IFN,False,True,False,12A11 FAB antibody heavy chain
+1209,3IFN,False,True,False,12A11 FAB antibody light chain
+1210,3IFO,False,True,False,10D5 FAB antibody heavy chain
+1211,3IFO,False,True,False,10D5 FAB antibody light chain
+1212,3IFP,False,True,False,12B4 FAB antibody heavy chain
+1213,3IFP,False,True,False,12B4 FAB antibody light chain
+1214,3IGA,False,True,False,Antibody Fab Fragment heavy chain
+1215,3IGA,False,True,False,Antibody Fab fragment light chain
+1216,3IJH,False,False,True,Immunoglobulin light chain (IGG3)
+1217,3IJH,False,False,True,Immunoglobulin heavy chain (IGG3)
+1218,3IJS,False,False,True,Immunoglobulin light chain (IGG3)
+1219,3IJS,False,False,True,Immunoglobulin heavy chain (IGG3)
+1220,3IJY,False,False,True,Immunoglobulin light chain (IGG3)
+1221,3IJY,False,False,True,Immunoglobulin heavy chain (IGG3)
+1222,3IKC,False,False,True,Immunoglobulin light chain (IGG3)
+1223,3IKC,False,False,True,Immunoglobulin heavy chain (IGG3)
+1224,3INU,False,True,False,KZ52 antibody fragment heavy chain
+1225,3INU,False,True,False,KZ52 antibody fragment light chain
+1226,3IY2,False,True,False,"Antibody 6, light chain"
+1227,3IY2,False,True,False,"Antibody 6, heavy chain"
+1228,3IY3,False,True,False,antibody fragment from neutralizing antibody 8 (light chain)
+1229,3IY3,False,True,False,antibody fragment from neutralizing antibody 8 (heavy chain)
+1230,3IY4,False,True,False,fragment of neutralizing antibody 15 (light chain)
+1231,3IY4,False,True,False,fragment of neutralizing antibody 15 (heavy chain)
+1232,3IY5,False,True,False,antibody fragment IGG2A (light chain)
+1233,3IY5,False,True,False,antibody fragment IGG2A (heavy chain)
+1234,3IY6,False,True,False,fragment from neutralizing antibody E (light chain)
+1235,3IY6,False,True,False,fragment from neutralizing antibody E (heavy chain)
+1236,3IY7,False,True,False,fragment from neutralizing antibody F (light chain)
+1237,3IY7,False,True,False,fragment from neutralizing antibody F (heavy chain)
+1238,3J3O,False,True,False,"C3 antibody, light chain"
+1239,3J3O,False,True,False,"C3 antibody, heavy chain"
+1240,3J3P,False,True,False,"C3 antibody, light chain"
+1241,3J3P,False,True,False,"C3 antibody, heavy chain"
+1242,3J3Z,False,True,False,MA28-7 neutralizing antibody light chain
+1243,3J3Z,False,True,False,MA28-7 neutralizing antibody heavy chain
+1244,3J70,False,True,False,monoclonal antibody 17b light chain
+1245,3J70,False,True,False,monoclonal antibody 17b heavy chain
+1246,3J8D,False,True,False,antibody E111 Fab fragment
+1247,3J93,False,True,False,"neutralizing antibody 22A12, light chain"
+1248,3J93,False,True,False,"neutralizing antibody 22A12, heavy chain"
+1249,3JAU,False,True,False,Heavy chain of Fab fragment variable region of antibody D5
+1250,3JAU,False,True,False,Light chain of Fab fragment variable region of antibody D5
+1251,3JBA,False,True,False,H16.U4 antibody light chain
+1252,3JBA,False,True,False,H16.U4 antibody heavy chain
+1253,3JCB,False,True,False,Antibody 36D5 light chain
+1254,3JCB,False,True,False,Antibody 36D5 heavy chain
+1255,3JCC,False,True,False,Antibody 36D5 light chain
+1256,3JCC,False,True,False,Antibody 36D5 heavy chain
+1257,3JUY,False,True,False,3B3 single chain variant HIV-1 antibody
+1258,3K2U,False,True,False,"Antibody, Fab fragment, Heavy Chain"
+1259,3K2U,False,True,False,"Antibody, Fab fragment, Light Chain"
+1260,3K7U,False,True,False,Antibody
+1261,3K80,False,True,False,Antibody
+1262,3K81,False,True,False,Single strand antibody VHH domain
+1263,3KDM,False,False,True,Immunoglobulin light chain
+1264,3KDM,False,False,True,Immunoglobulin heavy chain
+1265,3KGR,False,False,True,Leukocyte-associated immunoglobulin-like receptor 1
+1266,3KLH,False,True,False,"monoclonal antibody, heavy chain"
+1267,3KLH,False,True,False,"monoclonal antibody, light chain"
+1268,3KR3,False,True,False,antibody-Fab (heavy chain)
+1269,3KR3,False,True,False,antibody-Fab (light chain)
+1270,3L1O,False,True,False,MONOCLONAL ANTIBODY FAB FRAGMENT MN423 H CHAIN
+1271,3L1O,False,True,False,MONOCLONAL ANTIBODY FAB FRAGMENT MN423 L CHAIN
+1272,3L9W,True,False,False,"Glutathione-regulated potassium-efflux system protein kefC, linker, ancillary protein kefF"
+1273,3L9X,True,False,False,"Glutathione-regulated potassium-efflux system protein kefC, linker, ancillary protein kefF"
+1274,3LD8,False,True,False,antibody Fab fragment light chain
+1275,3LD8,False,True,False,antibody Fab fragment heavy chain
+1276,3LDB,False,True,False,antibody Fab fragment light chain
+1277,3LDB,False,True,False,antibody Fab fragment heavy chain
+1278,3LEV,False,True,False,2F5 ANTIBODY LIGHT CHAIN
+1279,3LEV,False,True,False,2F5 ANTIBODY HEAVY CHAIN
+1280,3LEX,False,True,False,11f10 Antibody Heavy Chain
+1281,3LEX,False,True,False,11f10 Antibody Light Chain
+1282,3LEY,False,True,False,6a7 Antibody Heavy Chain
+1283,3LEY,False,True,False,6a7 Antibody Light Chain
+1284,3LIZ,False,True,False,4C3 monoclonal antibody Light Chain
+1285,3LIZ,False,True,False,4C3 monoclonal antibody Heavy Chain
+1286,3LMJ,False,True,False,Heavy chain of anti HIV Fab from human 21c antibody
+1287,3LMJ,False,True,False,Light chain of anti HIV Fab from human 21c antibody
+1288,3LN9,False,True,True,Immunoglobulin heavy chain antibody variable domain B10
+1289,3LQA,False,True,False,Heavy chain of anti HIV Fab from human 21c antibody
+1290,3LQA,False,True,False,Light chain of anti HIV Fab from human 21c antibody
+1291,3LS4,False,True,False,Light chain of antibody Fab fragment
+1292,3LS4,False,True,False,Heavy chain of antibody Fab fragment
+1293,3LS5,False,True,False,Light chain of antibody Fab fragment
+1294,3LS5,False,True,False,Heavy chain of antibody Fab fragment
+1295,3M17,True,False,False,IgG receptor FcRn large subunit p51
+1296,3M1B,True,False,False,IgG receptor FcRn large subunit p51
+1297,3M6M,True,False,False,Sensory/regulatory protein rpfC
+1298,3M8O,False,False,True,IMMUNOGLOBULIN A1 LIGHT CHAIN
+1299,3M8O,False,False,True,IMMUNOGLOBULIN A1 HEAVY CHAIN
+1300,3MA9,False,True,False,"Fab8066 FAB ANTIBODY FRAGMENT, Heavy Chain"
+1301,3MA9,False,True,False,"Fab8066 FAB ANTIBODY FRAGMENT, Light Chain"
+1302,3MCG,False,False,True,IMMUNOGLOBULIN LAMBDA DIMER MCG (LIGHT CHAIN)
+1303,3MJ8,False,True,False,STIMULATORY HAMSTER ANTIBODY HL4E10 FAB LIGHT CHAIN
+1304,3MJ8,False,True,False,STIMULATORY HAMSTER ANTIBODY HL4E10 FAB HEAVY CHAIN
+1305,3MJ9,False,True,False,STIMULATORY HAMSTER ANTIBODY HL4E10 FAB LIGHT CHAIN
+1306,3MJ9,False,True,False,STIMULATORY HAMSTER ANTIBODY HL4E10 FAB HEAVY CHAIN
+1307,3MLR,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab light chain
+1308,3MLR,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab heavy chain
+1309,3MLS,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab light chain
+1310,3MLS,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab heavy chain
+1311,3MLT,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab light chain
+1312,3MLT,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab heavy chain
+1313,3MLU,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab light chain
+1314,3MLU,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab heavy chain
+1315,3MLV,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab light chain
+1316,3MLV,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 2557 Fab heavy chain
+1317,3MLW,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 1006-15D Fab light chain
+1318,3MLW,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 1006-15D Fab heavy chain
+1319,3MLX,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 3074 Fab light chain
+1320,3MLX,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 3074 Fab heavy chain
+1321,3MLY,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 3074 Fab light chain
+1322,3MLY,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 3074 Fab heavy chain
+1323,3MLZ,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 3074 Fab light chain
+1324,3MLZ,False,True,False,Human monoclonal anti-HIV-1 gp120 V3 antibody 3074 Fab heavy chain
+1325,3MNV,False,True,False,ANTI-HIV-1 ANTIBODY 13H11 LIGHT CHAIN
+1326,3MNV,False,True,False,ANTI-HIV-1 ANTIBODY 13H11 HEAVY CHAIN
+1327,3MNW,False,True,False,ANTI-HIV-1 ANTIBODY 13H11 LIGHT CHAIN
+1328,3MNW,False,True,False,ANTI-HIV-1 ANTIBODY 13H11 HEAVY CHAIN
+1329,3MNZ,False,True,False,ANTI-HIV-1 ANTIBODY 13H11 LIGHT CHAIN
+1330,3MNZ,False,True,False,ANTI-HIV-1 ANTIBODY 13H11 HEAVY CHAIN
+1331,3MO1,False,True,False,ANTI-HIV-1 ANTIBODY 13H11 LIGHT CHAIN
+1332,3MO1,False,True,False,ANTI-HIV-1 ANTIBODY 13H11 HEAVY CHAIN
+1333,3MOA,False,True,False,ANTI-HIV-1 ANTIBODY 2F5 LIGHT CHAIN
+1334,3MOA,False,True,False,ANTI-HIV-1 ANTIBODY 2F5 HEAVY CHAIN
+1335,3MOB,False,True,False,ANTI-HIV-1 ANTIBODY 2F5 LIGHT CHAIN
+1336,3MOB,False,True,False,ANTI-HIV-1 ANTIBODY 2F5 HEAVY CHAIN
+1337,3MOD,False,True,False,ANTI-HIV-1 ANTIBODY 2F5 LIGHT CHAIN
+1338,3MOD,False,True,False,ANTI-HIV-1 ANTIBODY 2F5 HEAVY CHAIN
+1339,3MP9,False,False,True,Immunoglobulin G-binding protein G
+1340,3MUG,False,True,False,Antibody PG16 Light Chain
+1341,3MUG,False,True,False,Antibody PG16 Heavy Chain
+1342,3MUH,False,True,False,Antibody PG9 light chain
+1343,3MZW,False,False,True,Immunoglobulin G-binding protein A
+1344,3N6Y,False,False,True,immunoglobulin-like protein
+1345,3N6Z,False,False,True,putative immunoglobulin A1 protease
+1346,3NGB,False,True,False,Antigen binding fragment of heavy chain: Antibody VRC01
+1347,3NGB,False,True,False,Antigen binding fragment of light chain: Antibody VRC01
+1348,3NH7,False,True,False,"Antibody fragment Fab AbD1556, heavy chain"
+1349,3NH7,False,True,False,"Antibody fragment Fab AbD1556, light chain"
+1350,3NI8,True,False,False,PFC0360w protein
+1351,3NID,False,True,False,Monoclonal antibody 10E5 heavy chain
+1352,3NID,False,True,False,Monoclonal antibody 10E5 light chain
+1353,3NIF,False,True,False,Monoclonal antibody 10E5 heavy chain
+1354,3NIF,False,True,False,Monoclonal antibody 10E5 light chain
+1355,3NIG,False,True,False,Monoclonal antibody 10E5 heavy chain
+1356,3NIG,False,True,False,Monoclonal antibody 10E5 light chain
+1357,3NZ8,False,True,False,"Mouse anti V3 antibody 7C8 Fab, heavy chain"
+1358,3NZ8,False,True,False,"Mouse anti V3 antibody 7C8 Fab, light chain"
+1359,3O0R,False,True,False,antibody fab fragment light chain
+1360,3O0R,False,True,False,antibody fab fragment heavy chain
+1361,3O2V,False,True,False,"Chimeric antibody Fab 1E9, light chain"
+1362,3O2V,False,True,False,"Chimeric antibody Fab 1E9, heavy chain"
+1363,3O2W,False,True,False,"Chimeric antibody Fab 1E9, light chain"
+1364,3O2W,False,True,False,"Chimeric antibody Fab 1E9, heavy chain"
+1365,3O41,False,True,False,Mouse monoclonal antibody 101F Fab light chain
+1366,3O41,False,True,False,Mouse monoclonal antibody 101F Fab heavy chain
+1367,3O45,False,True,False,Mouse monoclonal antibody 101F 101F Fab light chain
+1368,3O45,False,True,False,Mouse monoclonal antibody 101F 101F Fab heavy chain
+1369,3OGC,False,True,False,antibody Fab fragment heavy chain
+1370,3OGC,False,True,False,antibody Fab fragment light chain
+1371,3OPZ,False,False,True,heavy chain of the Fab fragment of immunoglobulin G
+1372,3OPZ,False,False,True,light chain of the Fab fragment of immunoglobulin G
+1373,3OR6,False,True,False,antibody fab fragment heavy chain
+1374,3OR6,False,True,False,antibody fab fragment light chain
+1375,3OR7,False,True,False,antibody fab fragment heavy chain
+1376,3OR7,False,True,False,antibody fab fragment light chain
+1377,3P0G,False,True,False,Camelid Antibody Fragment
+1378,3P2T,False,False,True,Leukocyte immunoglobulin-like receptor subfamily B member 4
+1379,3PIQ,False,True,False,Human monoclonal antibody 2909 Fab heavy chain
+1380,3PIQ,False,True,False,Human monoclonal antibody 2909 Fab light chain
+1381,3Q2C,False,False,True,Leukocyte immunoglobulin-like receptor subfamily A member 3
+1382,3Q3G,False,True,False,Antibody Light Chain
+1383,3Q3G,False,True,False,Antibody Heavy chain
+1384,3QA3,False,True,False,Antibody Light chain
+1385,3QA3,False,True,False,Antibody Heavy chain
+1386,3QC1,False,False,True,Immunoglobulin-binding protein 1
+1387,3QCT,False,True,False,"LT3015 antibody Fab fragment, heavy chain"
+1388,3QCT,False,True,False,"LT3015 antibody Fab fragment, light chain"
+1389,3QCU,False,True,False,"LT3015 antibody Fab fragment, heavy chain"
+1390,3QCU,False,True,False,"LT3015 antibody Fab fragment, light chain"
+1391,3QCV,False,True,False,"LT3015 antibody Fab fragment, heavy chain"
+1392,3QCV,False,True,False,"LT3015 antibody Fab fragment, light chain"
+1393,3QEG,False,True,False,"Fab fragment of human anti-HIV antibody N12-i2, heavy chain"
+1394,3QEG,False,True,False,"Fab fragment of human anti-HIV antibody N12-i2, light chain"
+1395,3QEH,False,True,False,"Fab fragment of human anti-HIV-1 Env antibody N12-i15, heavy chain"
+1396,3QEH,False,True,False,"Fab fragment of human anti-HIV-1 Env antibody N12-i15,light chain"
+1397,3QG7,False,True,False,AP4-24H11 Antibody Heavy Chain
+1398,3QG7,False,True,False,AP4-24H11 Antibody Light Chain
+1399,3QHF,False,True,False,"Human monoclonal antibody  del2D1, Fab Heavy Chain"
+1400,3QHF,False,True,False,"Human monoclonal antibody  del2D1, Fab Light Chain"
+1401,3QHZ,False,True,False,"Human monoclonal antibody del2D1, Fab Heavy Chain"
+1402,3QHZ,False,True,False,"Human monoclonal antibody del2D1, Fab Light Chain"
+1403,3QNX,False,False,True,Fab fragment of IMMUNOGLOBULIN A1 LIGHT CHAIN
+1404,3QNX,False,False,True,Fab fragment of IMMUNOGLOBULIN A1 HEAVY CHAIN
+1405,3QNY,False,False,True,FAB FRAGMENT OF IMMUNOGLOBULIN A1 LIGHT CHAIN
+1406,3QNY,False,False,True,FAB FRAGMENT OF IMMUNOGLOBULIN A1 HEAVY CHAIN
+1407,3QNZ,False,False,True,Fab fragment of IMMUNOGLOBULIN G1 LIGHT CHAIN
+1408,3QNZ,False,False,True,Fab fragment of IMMUNOGLOBULIN G1 HEAVY CHAIN
+1409,3QO0,False,False,True,Fab fragment of IMMUNOGLOBULIN G1 LIGHT CHAIN
+1410,3QO0,False,False,True,Fab fragment of IMMUNOGLOBULIN G1 HEAVY CHAIN
+1411,3QO1,False,False,True,Fab fragment of IMMUNOGLOBULIN G1 LIGHT CHAIN
+1412,3QO1,False,False,True,Fab fragment of IMMUNOGLOBULIN G1 HEAVY CHAIN
+1413,3QSK,False,True,False,Engineered 5 Histidine anti-RNase A Camelid VHH Antibody Domain Variant
+1414,3QW7,True,False,False,inhibitory peptide RRFC
+1415,3R06,False,True,False,anti-mouse CD3epsilon antibody 2C11 Fab light chain
+1416,3R06,False,True,False,anti-mouse CD3epsilon antibody 2C11 Fab heavy chain
+1417,3R08,False,True,False,Mouse anti-mouse CD3epsilon antibody 2C11 light chain
+1418,3R08,False,True,False,Mouse anti-mouse CD3epsilon antibody 2C11 heavy chain
+1419,3R1G,False,True,False,FAB of YW412.8.31 antibody heavy chain
+1420,3R1G,False,True,False,FAB of YW412.8.31 antibody light chain
+1421,3RAJ,False,True,False,heavy chain of the Fab fragment of antibody HB7
+1422,3RAJ,False,True,False,light chain of the Fab fragment of antibody HB7
+1423,3RJD,True,False,True,High affinity immunoglobulin gamma Fc receptor I
+1424,3RKD,False,True,False,"Monoclonal Antibody, Light Chain"
+1425,3RKD,False,True,False,"Monoclonal Antibody, Heavy Chain"
+1426,3RP1,False,False,True,Leukocyte-associated immunoglobulin-like receptor 1
+1427,3RPI,False,True,False,Light chain from highly potent anti-HIV neutralizing antibody
+1428,3RPI,False,True,False,Heavy chain from highly potent anti-HIV neutralizing antibody
+1429,3RU8,False,True,False,"Antibody b12, Heavy Chain"
+1430,3RU8,False,True,False,"Antibody b12, Light Chain"
+1431,3RVT,False,True,False,Fab fragment of 4C1 antibody - light chain
+1432,3RVT,False,True,False,Fab fragment of 4C1 antibody - heavy chain
+1433,3RY4,True,False,True,Low affinity immunoglobulin gamma Fc region receptor II-a
+1434,3RY5,True,False,True,LOW AFFINITY IMMUNOGLOBULIN GAMMA FC REGION RECEPTOR II-A
+1435,3RY6,True,False,True,Low affinity immunoglobulin gamma Fc region receptor II-a
+1436,3S62,False,True,False,"Fab fragment of antibody 2A8, Light chain"
+1437,3S62,False,True,False,"Fab fragment of antibody 2A8, Heavy chain"
+1438,3SDY,False,True,False,"Antibody CR8020, Heavy Chain"
+1439,3SDY,False,True,False,"Antibody CR8020, Light Chain"
+1440,3SE8,False,True,False,Heavy chain of antibody VRC03
+1441,3SE8,False,True,False,Light chain of antibody VRC03
+1442,3SE9,False,True,False,Heavy chain of antibody VRC-PG04
+1443,3SE9,False,True,False,Light chain of antibody VRC-PG04
+1444,3SGJ,True,False,False,human Fc fragment
+1445,3SGJ,True,False,False,human Fcg3a receptor
+1446,3SGK,True,False,False,Fc fragment
+1447,3SGK,True,False,False,human Fcg3a receptor
+1448,3SKJ,False,True,False,"Antibody, light chain"
+1449,3SKJ,False,True,False,"Antibody, heavy chain"
+1450,3SN6,False,True,False,Camelid antibody VHH fragment
+1451,3SO5,False,False,True,Leucine-rich repeats and immunoglobulin-like domains protein 3
+1452,3SOB,False,True,False,antibody light chain
+1453,3SOB,False,True,False,antibody heavy chain
+1454,3STB,False,True,False,single domain antibody VHH
+1455,3STL,False,True,False,antibody Fab fragment heavy chain
+1456,3STL,False,True,False,antibody Fab fragment light chain
+1457,3STZ,False,True,False,antibody Fab fragment heavy chain
+1458,3STZ,False,True,False,antibody Fab fragment light chain
+1459,3T0V,False,False,True,immunoglobulin variable lambda domain
+1460,3T0W,False,False,True,immunoglobulin variable lambda domain
+1461,3T0X,False,False,True,Immunoglobulin variable lambda domain M8VLA4(S55P)
+1462,3T2N,False,True,False,"Antibody, Fab fragment, Heavy Chain"
+1463,3T2N,False,True,False,"Antibody, Fab fragment, Light Chain"
+1464,3T3M,False,True,False,Monoclonal antibody 10E5 heavy chain
+1465,3T3M,False,True,False,Monoclonal antibody 10E5 light chain
+1466,3T3P,False,True,False,Monoclonal antibody 10E5 heavy chain
+1467,3T3P,False,True,False,Monoclonal antibody 10E5 light chain
+1468,3TNM,False,True,False,Fab heavy chain of human anti-HIV-1 Env antibody A32
+1469,3TNM,False,True,False,Fab light chain of human anti-HIV-1 Env antibody A32
+1470,3TNN,False,True,False,Fab heavy chain of ADCC and non-neutralizing anti-HIV-1 antibody N5-i5
+1471,3TNN,False,True,False,Fab light chain of ADCC and non-neutralizing anti-HIV-1 antibody N5-i5
+1472,3TPK,False,True,True,Immunoglobulin heavy chain antibody variable domain KW1
+1473,3U6R,False,True,False,Antibody 1:7 (Heavy chain)
+1474,3U6R,False,True,False,Antibody 1:7 (Light chain)
+1475,3U79,False,False,True,"Amyloidogenic immunoglobulin light chain protein AL-103 Y32F Y96F, variable domain"
+1476,3U7A,False,False,True,"Amyloidogenic immunoglobulin light chain protein AL-09 Y32F Y96F, variable domain"
+1477,3UAJ,False,True,False,"Heavy chain, monoclonal antibody 5H2"
+1478,3UAJ,False,True,False,"Light chain, monoclonal antibody 5H2"
+1479,3UC0,False,True,False,"Heavy chain, monoclonal antibody 5H2"
+1480,3UC0,False,True,False,"Light chain, monoclonal antibody 5H2"
+1481,3UC2,False,False,True,hypothetical protein with immunoglobulin-like fold
+1482,3UI3,False,False,True,"Immunoglobulin G-binding protein G, Virulence-associated protein D"
+1483,3UJI,False,True,False,Light chain of anti-HIV-1 V3 monoclonal antibody 2558
+1484,3UJI,False,True,False,Fab region of the heavy chain of anti-HIV-1 V3 monoclonal antibody 2558
+1485,3UJJ,False,True,False,Light chain of anti-HIV-1 V3 monoclonal antibody 4025
+1486,3UJJ,False,True,False,Fab region of the heavy chain of anti-HIV-1 V3 monoclonal antibody 4025
+1487,3UO1,False,True,False,"ANTI-MHC-I MONOCLONAL ANTIBODY, 64-3-7 H CHAIN"
+1488,3UO1,False,True,False,"ANTI-MHC-I MONOCLONAL ANTIBODY, 64-3-7 L CHAIN"
+1489,3UOB,True,False,False,5'-D(*CP*CP*AP*CP*TP*GP*CP*TP*CP*AP*(1FC)P*GP*TP*AP*CP*AP*GP*AP*GP*CP*TP*GP*T)-3'
+1490,3UX9,False,True,False,ScFv antibody
+1491,3UYR,False,True,False,antibody Fab heavy chain
+1492,3UYR,False,True,False,antibody Fab light chain
+1493,3V0A,False,True,False,Llama antibody F12
+1494,3V3X,False,False,True,Immunoglobulin G-binding protein G
+1495,3V4P,False,True,False,MONOCLONAL ANTIBODY Act-1 HEAVY CHAIN
+1496,3V4P,False,True,False,MONOCLONAL ANTIBODY Act-1 LIGHT CHAIN
+1497,3V4U,False,True,False,"ANTI-MHC-I MONOCLONAL ANTIBODY, 64-3-7 H CHAIN"
+1498,3V4U,False,True,False,"ANTI-MHC-I MONOCLONAL ANTIBODY, 64-3-7 L CHAIN"
+1499,3V4V,False,True,False,MONOCLONAL ANTIBODY Act-1 HEAVY CHAIN
+1500,3V4V,False,True,False,MONOCLONAL ANTIBODY Act-1 LIGHT CHAIN
+1501,3V52,False,True,False,"ANTI-MHC-I MONOCLONAL ANTIBODY, 64-3-7 H CHAIN"
+1502,3V52,False,True,False,"ANTI-MHC-I MONOCLONAL ANTIBODY, 64-3-7 L CHAIN"
+1503,3V6O,False,True,False,Monoclonal antibody 9F8 fab fragment Heavy chain
+1504,3V6O,False,True,False,Monoclonal antibody 9F8 fab fragment Light chain
+1505,3VE0,False,True,False,16F6 Antibody chain A
+1506,3VE0,False,True,False,16F6 Antibody chain B
+1507,3VG0,False,True,False,Monoclonal antibody 9F8 Fab fragment L chain
+1508,3VG0,False,True,False,Monoclonal antibody 9F8 Fab fragment H chain
+1509,3VG9,False,True,False,antibody fab fragment light chain
+1510,3VG9,False,True,False,antibody fab fragment heavy chain
+1511,3VGA,False,True,False,antibody fab fragment light chain
+1512,3VGA,False,True,False,antibody fab fragment heavy chain
+1513,3VH8,False,False,True,Killer cell immunoglobulin-like receptor 3DL1
+1514,3VQG,False,False,True,C-terminal peptide from Immunoglobulin superfamily member 5
+1515,3VW3,False,True,False,Anti-(6-4) photoproduct antibody 64M-5 Fab (light chain)
+1516,3VW3,False,True,False,Anti-(6-4) photoproduct antibody 64M-5 Fab (heavy chain)
+1517,3W11,False,True,False,monoclonal antibody fab 83-7 fragment - heavy chain
+1518,3W11,False,True,False,monoclonal antibody fab 83-7 fragment - light chain
+1519,3W12,False,True,False,monoclonal antibody fab 83-7 fragment - heavy chain
+1520,3W12,False,True,False,monoclonal antibody fab 83-7 fragment - light chain
+1521,3W13,False,True,False,monoclonal antibody fab 83-7 fragment - heavy chain
+1522,3W13,False,True,False,monoclonal antibody fab 83-7 fragment - light chain
+1523,3W2D,False,True,False,Monoclonal Antibody 3E2 Fab figment light chain
+1524,3W2D,False,True,False,Monoclonal Antibody 3E2 Fab figment heavy chain
+1525,3W9D,False,True,False,Antibody Fab heavy chain
+1526,3W9D,False,True,False,Antibody Fab light chain
+1527,3W9E,False,True,False,Antibody Fab heavy chain
+1528,3W9E,False,True,False,Antibody Fab light chain
+1529,3WFB,False,True,False,antibody fab fragment light chain
+1530,3WFB,False,True,False,antibody fab fragment heavy chain
+1531,3WFC,False,True,False,antibody fab fragment light chain
+1532,3WFC,False,True,False,antibody fab fragment heavy chain
+1533,3WFD,False,True,False,antibody fab fragment light chain
+1534,3WFD,False,True,False,antibody fab fragment heavy chain
+1535,3WFE,False,True,False,antibody fab fragment light chain
+1536,3WFE,False,True,False,antibody fab fragment heavy chain
+1537,3WHE,False,False,True,immunoglobulin heavy chain
+1538,3WHE,False,False,True,immunoglobulin light chain
+1539,3WIH,False,True,False,anti-human ROBO1 antibody B2212A Fab light chain
+1540,3WIH,False,True,False,anti-human ROBO1 antibody B2212A Fab heavy chain
+1541,3WII,False,True,False,anti-human ROBO1 antibody B2212A Fab light chain
+1542,3WII,False,True,False,anti-human ROBO1 antibody B2212A Fab heavy chain
+1543,3WJJ,True,False,True,Low affinity immunoglobulin gamma Fc region receptor II-b
+1544,3WJL,True,False,True,Low affinity immunoglobulin gamma Fc region receptor II-c
+1545,3WLW,False,True,False,Antibody H Chain
+1546,3WLW,False,True,False,Antibody L Chain
+1547,3WN5,True,False,True,Low affinity immunoglobulin gamma Fc region receptor III-A
+1548,3WSQ,False,True,False,Antibody Light Chain
+1549,3WSQ,False,True,False,Antibody Heavy Chain
+1550,3WUW,False,False,True,Killer cell immunoglobulin-like receptor 3DL1
+1551,3WUZ,False,False,True,Paired immunoglobulin-like type 2 receptor alpha
+1552,3WV0,False,False,True,Paired immunoglobulin-like type 2 receptor alpha
+1553,3WYR,False,False,True,Killer cell immunoglobulin-like receptor 2DL4
+1554,3ZHD,False,True,False,MG8-4 SCAFFOLD ANTIBODY
+1555,3ZHK,False,True,False,MG2X1 SCAFFOLD ANTIBODY
+1556,3ZHL,False,True,False,MG8-14 SCAFFOLD ANTIBODY
+1557,3ZL4,False,True,False,A17 ANTIBODY FAB FRAGMENT HEAVY CHAIN
+1558,3ZL4,False,True,False,A17 ANTIBODY FAB FRAGMENT LAMBDA LIGHT CHAIN
+1559,3ZTJ,False,True,False,FI6V3 ANTIBODY HEAVY CHAIN
+1560,3ZTJ,False,True,False,FI6V3 ANTIBODY LIGHT CHAIN
+1561,3ZTN,False,True,False,FI6V3 ANTIBODY LIGHT CHAIN
+1562,3ZTN,False,True,False,FI6V3 ANTIBODY LIGHT CHAIN
+1563,43C9,False,False,True,PROTEIN (IMMUNOGLOBULIN (LIGHT CHAIN))
+1564,43C9,False,False,True,PROTEIN (IMMUNOGLOBULIN (HEAVY CHAIN))
+1565,43CA,False,False,True,PROTEIN (IMMUNOGLOBULIN (LIGHT CHAIN))
+1566,43CA,False,False,True,PROTEIN (IMMUNOGLOBULIN (HEAVY CHAIN))
+1567,4A6Y,False,True,False,ANTIBODY BBE6.12H3 LIGHT CHAIN
+1568,4A6Y,False,True,False,ANTIBODY BBE6.12H3 HEAVY CHAIN
+1569,4A6Y,False,True,False,ANTIBODY BBE6.12H3 HEAVY CHAIN
+1570,4A6Y,False,True,False,ANTIBODY BBE6.12H3 LIGHT CHAIN
+1571,4AEH,False,True,False,"FAB ANTIBODY, HEAVY CHAIN"
+1572,4AEH,False,True,False,"FAB ANTIBODY, LIGHT CHAIN"
+1573,4AEI,False,True,False,FAB ANTIBODY HEAVY CHAIN
+1574,4AEI,False,True,False,FAB ANTIBODY LIGHT CHAIN
+1575,4AG4,False,True,False,MONOCLONAL ANTIBODY 3E3 HEAVY CHAIN
+1576,4AG4,False,True,False,MONOCLONAL ANTIBODY 3E3 LIGHT CHAIN
+1577,4B41,False,True,False,ANTIBODY G7
+1578,4BH7,False,True,False,ANTI-ARS MURINE GERMLINE MONOCLONAL ANTIBODY 36-65
+1579,4BH7,False,True,False,ANTI-ARS MURINE GERMLINE MONOCLONAL ANTIBODY 36-65
+1580,4BH8,False,True,False,ANTI-ARS MURINE GERMLINE MONOCLONAL ANTIBODY 36-65
+1581,4BH8,False,True,False,ANTI-ARS MURINE GERMLINE MONOCLONAL ANTIBODY 36-65
+1582,4BJI,True,False,False,TRANSCRIPTION FACTOR TAU SUBUNIT SFC1
+1583,4BJJ,True,False,False,TRANSCRIPTION FACTOR TAU SUBUNIT SFC1
+1584,4BJJ,True,False,False,TRANSCRIPTION FACTOR TAU SUBUNIT SFC7
+1585,4BSV,True,True,False,HETERODIMERIC FC ANTIBODY AZYMETRIC VARIANT 2
+1586,4BSV,True,True,False,HETERODIMERIC FC ANTIBODY AZYMETRIC VARIANT 2
+1587,4BSW,True,True,False,HETERODIMERIC FC ANTIBODY AZYMETRIC VARIANT 2
+1588,4BSW,True,True,False,HETERODIMERIC FC ANTIBODY AZYMETRIC VARIANT 2
+1589,4C2I,False,True,False,HEAVY CHAIN FAB FRAGMENT OF ANTIBODY 1F4
+1590,4C2I,False,True,False,LIGHT CHAIN FAB FRAGMENT OF ANTIBODY 1F4
+1591,4CAD,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+1592,4CAD,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+1593,4CC8,False,True,False,MONOCLONAL ANTIBODY VRC03 FAB HEAVY CHAIN
+1594,4CC8,False,True,False,MONOCLONAL ANTIBODY VRC03 FAB LIGHT CHAIN
+1595,4CKD,False,True,False,SCFV13R4 ANTIBODY FV HEAVY CHAIN
+1596,4CKD,False,True,False,SCFV13R4 ANTIBODY FV LIGHT CHAIN
+1597,4DAG,False,True,False,Neutralizing Antibody DS7 heavy chain
+1598,4DAG,False,True,False,Neutralizing Antibody DS7 light chain
+1599,4DK3,False,True,False,single domain antibody VHH
+1600,4DK6,False,True,False,single domain antibody VHH
+1601,4DKA,False,True,False,single domain antibody VHH
+1602,4DTG,False,True,False,"Humanized recombinant FAB fragment, FAB 2021, of a murine antibody, light chain"
+1603,4DTG,False,True,False,"Humanized recombinant FAB fragment, FAB 2021, of a murine antibody, heavy chain"
+1604,4DVB,False,True,False,Fab fragment of pro-uPA antibody mAb-112
+1605,4DVB,False,True,False,Fab fragment of pro-uPA antibody mAb-112
+1606,4DW2,False,True,False,Fab fragment of pro-uPA antibody mAb-112
+1607,4DW2,False,True,False,Fab fragment of pro-uPA antibody mAb-112
+1608,4EBQ,False,True,False,"anti-Vaccinia D8L antigen monoclonal IgG2a antibody LA5, heavy chain"
+1609,4EBQ,False,True,False,"anti-Vaccinia D8L antigen monoclonal IgG2a antibody LA5, light chain"
+1610,4EIG,False,True,False,CA1698 camel antibody fragment
+1611,4EIZ,False,True,False,Nb113 Camel antibody fragment
+1612,4EJ1,False,True,False,Nb113 camelid antibody fragment
+1613,4EQI,True,False,False,Carbapenem-hydrolizing beta-lactamase SFC-1
+1614,4ESK,False,False,True,Leukocyte-associated immunoglobulin-like receptor 1
+1615,4ETQ,False,True,False,"anti-vaccinia D8L antigen murine monoclonal IgG2a antibody LA5, heavy chain"
+1616,4ETQ,False,True,False,"anti-vaccinia D8L antigen murine monoclonal IgG2a antibody LA5, light chain"
+1617,4ETY,False,False,True,Leukocyte-associated immunoglobulin-like receptor 1
+1618,4EUZ,True,False,False,Carbapenem-hydrolizing beta-lactamase SFC-1
+1619,4EV4,True,False,False,Carbapenem-hydrolizing beta-lactamase SFC-1
+1620,4EZM,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1621,4F2M,False,True,False,"monoclonal antibody 1AF10, heavy chain"
+1622,4F2M,False,True,False,"monoclonal antibody 1AF10, light chain"
+1623,4F37,False,True,False,Fab WO2 anti-amyloid-beta antibody Fab fragment
+1624,4F57,False,True,False,Light chain of Fab of a neutralizing antibody L1
+1625,4F57,False,True,False,Heavy chain of Fab of a neutralizing antibody L1
+1626,4F58,False,True,False,Light chain of Fab of a neutralizing antibody L3
+1627,4F58,False,True,False,Heavy chain of Fab of a neutralizing antibody L3
+1628,4F9L,False,True,False,20.1 anti-BTN3A1 antibody fragment
+1629,4F9P,False,True,False,103.2 anti-BTN3A1 antibody fragment
+1630,4FNL,False,True,False,"Antibody C05, Heavy Chain"
+1631,4FNL,False,True,False,"Antibody C05, Light Chain"
+1632,4FP8,False,True,False,"Antibody C05, heavy chain"
+1633,4FP8,False,True,False,"Antibody C05, light chain"
+1634,4FQH,False,True,False,antibody CR9114 heavy chain
+1635,4FQH,False,True,False,antibody CR9114 light chain
+1636,4FQI,False,True,False,antibody CR9114 heavy chain
+1637,4FQI,False,True,False,antibody CR9114 light chain
+1638,4FQJ,False,True,False,antibody CR8071 light chain
+1639,4FQJ,False,True,False,antibody CR8071 heavy chain
+1640,4FQK,False,True,False,Antibody CR8059 Heavy Chain
+1641,4FQK,False,True,False,Antibody CR8059 Light Chain
+1642,4FQL,False,True,False,monoclonal antibody CR8033 heavy chain
+1643,4FQL,False,True,False,monoclonal antibody CR8033 light chain
+1644,4FQR,False,True,False,"Broadly neutralizing antibody C05, heavy chain"
+1645,4FQR,False,True,False,"Broadly neutralizing antibody C05, light chain"
+1646,4FQV,False,True,False,Antibody CR9114 heavy chain
+1647,4FQV,False,True,False,Antibody CR9114 light chain
+1648,4FQY,False,True,False,Antibody CR9114 heavy chain
+1649,4FQY,False,True,False,Antibody CR9114 light chain
+1650,4FZ8,False,True,False,FAB heavy chain of human ANTI-HIV-1 ENV ANTIBODY C11
+1651,4FZ8,False,True,False,FAB light chain of human ANTI-HIV-1 ENV ANTIBODY C11
+1652,4G5Z,False,True,False,canakinumab antibody fragment heavy chain
+1653,4G5Z,False,True,False,canakinumab antibody fragment light chain
+1654,4G6J,False,True,False,heavy chain of antibody binding fragment of canakinumab
+1655,4G6J,False,True,False,light chain of antibody binding fragment of canakinumab
+1656,4G6K,False,True,False,heavy chain of gevokizumab antibody binding fragment
+1657,4G6K,False,True,False,light chain of gevokizumab antibody binding fragment
+1658,4G6M,False,True,False,heavy chain of gevokizumab antibody binding fragment
+1659,4G6M,False,True,False,light chain of gevokizumab antibody binding fragment
+1660,4G7V,False,True,False,fragment antibody heavy chain
+1661,4G7V,False,True,False,fragment antibody light chain
+1662,4G7Y,False,True,False,Fragment antibody heavy chain
+1663,4G7Y,False,True,False,Fragment antibody light chain
+1664,4G80,False,True,False,fragment antibody heavy chain
+1665,4G80,False,True,False,fragment antibody light chain
+1666,4G96,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1667,4G9A,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1668,4GAG,False,True,False,NEUTRALIZING ANTIBODY AP33 HEAVY CHAIN
+1669,4GAG,False,True,False,NEUTRALIZING ANTIBODY AP33 LIGHT CHAIN
+1670,4GAJ,False,True,False,NEUTRALIZING ANTIBODY AP33 HEAVY CHAIN
+1671,4GAJ,False,True,False,NEUTRALIZING ANTIBODY AP33 LIGHT CHAIN
+1672,4GAY,False,True,False,NEUTRALIZING ANTIBODY AP33 HEAVY CHAIN
+1673,4GAY,False,True,False,NEUTRALIZING ANTIBODY AP33 LIGHT CHAIN
+1674,4GI0,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1675,4GJ0,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1676,4GJX,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1677,4GK1,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1678,4GKO,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1679,4GQ9,False,True,False,Chikungunya virus neutralizing antibody 9.8B Fab fragment light chain
+1680,4GQ9,False,True,False,Chikungunya virus neutralizing antibody 9.8B Fab fragment heavy chain
+1681,4GXU,False,True,False,"Antibody 1F1, heavy chain"
+1682,4GXU,False,True,False,"Antibody 1F1, light chain"
+1683,4GXV,False,True,False,"Antibody 1F1, heavy chain"
+1684,4GXV,False,True,False,"Antibody 1F1, light chain"
+1685,4H20,False,True,False,Light chain of Fab Fragment from the  anti-Ricin Monoclonal Antibody RAC18
+1686,4H20,False,True,False,Heavy chain of Fab Fragment from the  anti-Ricin Monoclonal Antibody RAC18
+1687,4H8W,False,True,False,FAB HEAVY CHAIN OF ADCC AND NON-NEUTRALIZING ANTI-HIV-1 ANTIBODY N5-I5
+1688,4H8W,False,True,False,FAB LIGHT CHAIN OF ADCC AND NON-NEUTRALIZING ANTI-HIV-1 ANTIBODY N5-I5
+1689,4HBC,False,False,True,"Antigen Binding Fragment, Immunoglobulin IgG - Heavy Chain"
+1690,4HBC,False,False,True,"Antigen Binding Fragment, Immunoglobulin IgG - Light Chain"
+1691,4HGK,False,True,False,shark V-NAR antibody
+1692,4HGW,False,True,False,"Antibody Fab fragment, light chain"
+1693,4HGW,False,True,False,"Antibody Fab fragment, heavy chain"
+1694,4HHA,False,True,False,Antibody KE5
+1695,4HIE,False,True,False,Antibody 023.102
+1696,4HIH,False,True,False,Antibody 023.102
+1697,4HJ0,False,True,False,"Gipg013 Fab, Antagonizing antibody to the GIP Receptor, Heavy chain"
+1698,4HJ0,False,True,False,"Gipg013 Fab, Antagonizing antibody to the GIP Receptor, Light chain"
+1699,4HJG,False,False,True,Immunoglobulin G-binding protein A
+1700,4HKZ,False,False,True,Immunoglobulin G-binding protein A
+1701,4HS8,False,True,False,antibody hu5B3.v2 Fab heavy chain
+1702,4HS8,False,True,False,antibody hu5B3.v2 Fab light chain
+1703,4HT1,False,True,False,chimeric antibody Fab
+1704,4HT1,False,True,False,chimeric antibody Fab
+1705,4HWN,True,False,False,Fc receptor-like A
+1706,4I0C,False,True,False,cAbHuL5 antibody
+1707,4I18,False,True,False,antibody light chain
+1708,4I18,False,True,False,antibody heavy chain
+1709,4I9W,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+1710,4I9W,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+1711,4IDL,False,True,False,Single Domain Antibody VHH A9
+1712,4IOI,False,False,True,Immunoglobulin G-binding protein A
+1713,4IYP,False,False,True,Immunoglobulin-binding protein 1
+1714,4J12,True,False,False,human Fc fragment
+1715,4J1U,False,True,False,antibody 93F3 Light chain
+1716,4J1U,False,True,False,antibody 93F3 Heavy chain
+1717,4J4P,False,False,True,Immunoglobulin G Fab Fragment Heavy Chain
+1718,4J4P,False,False,True,Immunoglobulin G Fab Fragment Light Chain
+1719,4J6J,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1720,4J6K,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1721,4J6L,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1722,4J6M,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1723,4J6N,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1724,4J6P,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1725,4J6Q,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+1726,4J6R,False,True,False,HEAVY CHAIN OF ANTIBODY VRC23
+1727,4J6R,False,True,False,LIGHT CHAIN OF ANTIBODY VRC23
+1728,4JB7,True,False,False,Accessory colonization factor AcfC
+1729,4JB9,False,True,False,antibody VRC06 heavy chain
+1730,4JB9,False,True,False,antibody VRC06 light chain
+1731,4JKP,False,True,False,Heavy chain of antibody 45-46M2
+1732,4JKP,False,True,False,Light chain of antibody 45-46M2
+1733,4JO1,False,True,False,monoclonal anti-HIV-1 gp120 V3 antibody R56 light chain
+1734,4JO1,False,True,False,monoclonal anti-HIV-1 gp120 V3 antibody R56 heavy chain
+1735,4JO2,False,True,False,monoclonal anti-HIV-1 gp120 V3 antibody R56 light chain
+1736,4JO2,False,True,False,monoclonal anti-HIV-1 gp120 V3 antibody R56 heavy chain
+1737,4JO3,False,True,False,monoclonal anti-HIV-1 gp120 V3 antibody R20 light chain
+1738,4JO3,False,True,False,monoclonal anti-HIV-1 gp120 V3 antibody R20 heavy chain
+1739,4JO4,False,True,False,monoclonal anti-HIV-1 gp120 V3 antibody R20 light chain
+1740,4JO4,False,True,False,monoclonal anti-HIV-1 gp120 V3 antibody R20 heavy chain
+1741,4JPV,False,True,False,HEAVY CHAIN OF ANTIBODY 3BNC117
+1742,4JPV,False,True,False,LIGHT CHAIN OF ANTIBODY 3BNC117
+1743,4JPW,False,True,False,HEAVY CHAIN OF ANTIBODY 12A21
+1744,4JPW,False,True,False,LIGHT CHAIN OF ANTIBODY 12A21
+1745,4JR9,False,False,True,"Immunoglobulin Gamma-2a, Heavy chain"
+1746,4JR9,False,False,True,"Immunoglobulin Kappa, Light chain"
+1747,4JRE,False,False,True,"Immunoglobulin Gamma-2a, Heavy chain"
+1748,4JRE,False,False,True,"Immunoglobulin Kappa, Light chain"
+1749,4K07,False,False,True,Amyloidogenic immunoglobulin light chain protein AL-103
+1750,4K23,False,True,False,"anti-uPAR antibody, heavy chain"
+1751,4K23,False,True,False,"anti-uPAR antibody, light chain"
+1752,4K24,False,True,False,"anti-uPAR antibody, heavy chain"
+1753,4K24,False,True,False,"anti-uPAR antibody, light chain"
+1754,4K2U,False,True,False,Antibody Heavy Chain
+1755,4K2U,False,True,False,Antibody Light Chain
+1756,4K3D,False,True,False,"BOVINE ANTIBODY WITH ULTRALONG CDR H3, HEAVY CHAIN"
+1757,4K3D,False,True,False,"BOVINE ANTIBODY WITH ULTRALONG CDR H3, LIGHT CHAIN"
+1758,4K3E,False,True,False,"BOVINE ANTIBODY WITH ULTRALONG CDR H3, HEAVY CHAIN"
+1759,4K3E,False,True,False,"BOVINE ANTIBODY WITH ULTRALONG CDR H3, LIGHT CHAIN"
+1760,4K3G,False,False,True,immunoglobulin lambda variable domain L5(L89S)
+1761,4K3H,False,False,True,Immunoglobulin lambda variable domain L5(L89S)
+1762,4K71,True,False,False,IgG receptor FcRn large subunit p51
+1763,4K7P,False,True,False,antibody rhumAb6 Fab fragment light chain
+1764,4K7P,False,True,False,antibody rhumAb6 Fab fragment heavy chain
+1765,4K7P,False,True,False,antibody 10C4 Fab fragment heavy chain
+1766,4K7P,False,True,False,antibody 10C4 Fab fragment light chain
+1767,4KF4,True,False,False,fluorescent protein sfCherry
+1768,4KF5,True,False,False,fluorescent protein sfCherry+GFP10-11
+1769,4KI1,True,False,True,LOW AFFINITY IMMUNOGLOBULIN EPSILON FC RECEPTOR
+1770,4KUZ,False,True,False,antibody 4A5 light chain
+1771,4KUZ,False,True,False,antibody 4A5 heavy chain
+1772,4KY1,False,False,True,"IMMUNOGLOBULIN IGG1 FAB, LIGHT CHAIN"
+1773,4KY1,False,False,True,"IMMUNOGLOBULIN IGG1 FAB, HEAVY CHAIN"
+1774,4KZD,False,True,False,"BL3-6 Fab antibody, heavy chain"
+1775,4KZD,False,True,False,"BL3-6 Fab antibody, light chain"
+1776,4KZE,False,True,False,"BL3-6 Fab antibody, heavy chain"
+1777,4KZE,False,True,False,"BL3-6 Fab antibody, light chain"
+1778,4L5F,False,True,False,Heavy chain of E106 antibody (VH and CH1 of IgG2c)
+1779,4L5F,False,True,False,Light chain of E106 antibody (kappa)
+1780,4LAJ,False,True,False,"Llama single domain antibody, JM4"
+1781,4LCI,False,True,False,"anti canine CD28 antibody, 1C6, light chain"
+1782,4LCI,False,True,False,"anti canine CD28 antibody, 1C6, heavy chain"
+1783,4LDE,False,True,False,Camelid Antibody Fragment
+1784,4LDL,False,True,False,Camelid Antibody Fragment
+1785,4LDO,False,True,False,Camelid Antibody Fragment
+1786,4LHJ,False,True,False,Camelid antibody
+1787,4LKC,False,True,False,Fab fragment of PCSK9 antibody
+1788,4LKC,False,True,False,Fab fragment of PCSK9 antibody
+1789,4LL9,False,False,True,Leukocyte immunoglobulin-like receptor subfamily B member 1
+1790,4LLA,False,False,True,Leukocyte immunoglobulin-like receptor subfamily B member 2
+1791,4LMQ,False,False,True,immunoglobulin G1 heavy chain
+1792,4LSP,False,True,False,HEAVY CHAIN OF ANTIBODY VRC-CH31
+1793,4LSP,False,True,False,LIGHT CHAIN OF ANTIBODY VRC-CH31
+1794,4LSQ,False,True,False,HEAVY CHAIN OF ANTIBODY VRC-CH31
+1795,4LSQ,False,True,False,LIGHT CHAIN OF ANTIBODY VRC-CH31 WITH N70D MUTATION
+1796,4LSR,False,True,False,HEAVY CHAIN OF ANTIBODY VRC-CH31
+1797,4LSR,False,True,False,LIGHT CHAIN OF ANTIBODY VRC-CH31 (N70D MUTATION)
+1798,4LSS,False,True,False,HEAVY CHAIN OF ANTIBODY VRC01
+1799,4LSS,False,True,False,LIGHT CHAIN OF ANTIBODY VRC01 with N72T mutation
+1800,4LST,False,True,False,HEAVY CHAIN OF ANTIBODY VRC01
+1801,4LST,False,True,False,LIGHT CHAIN OF ANTIBODY VRC01
+1802,4LSU,False,True,False,HEAVY CHAIN OF ANTIBODY VRC-PG20
+1803,4LSU,False,True,False,LIGHT CHAIN OF ANTIBODY VRC-PG20
+1804,4LSV,False,True,False,HEAVY CHAIN OF ANTIBODY 3BNC117
+1805,4LSV,False,True,False,LIGHT CHAIN OF ANTIBODY 3BNC117
+1806,4LVH,False,True,False,MONOCLONAL ANTIBODY H-CHAIN
+1807,4LVH,False,True,False,MONOCLONAL ANTIBODY L-CHAIN
+1808,4M3J,False,True,False,Camelid heavy-chain antibody variable fragment cAb-H7S
+1809,4M3K,False,True,False,Camelid heavy-chain antibody variable fragment cAb-H7S
+1810,4M48,False,True,False,"9D5 antibody, light chain"
+1811,4M48,False,True,False,"9D5 antibody, heavy chain"
+1812,4MHH,False,True,False,"H5M9 antibody, light chain (kappa)"
+1813,4MHH,False,True,False,"H5M9 antibody, heavy chain (IgG1)"
+1814,4MHJ,False,True,False,"H5M9 antibody, light chain (kappa)"
+1815,4MHJ,False,True,False,"H5M9 antibody, heavy chain (IgG1)"
+1816,4MSW,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+1817,4MSW,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+1818,4MXV,False,True,False,anti-Lymphotoxin alpha antibody light chain
+1819,4MXV,False,True,False,anti-Lymphotoxin alpha antibody heavy chain
+1820,4MXW,False,True,False,anti-Lymphotoxin alpha antibody heavy chain
+1821,4MXW,False,True,False,anti-Lymphotoxin alpha antibody light chain
+1822,4N0F,True,False,False,IgG receptor FcRn large subunit p51
+1823,4N0U,True,False,False,IgG receptor FcRn large subunit p51
+1824,4N1C,False,False,True,immunoglobulin variable light chain domain
+1825,4N1E,False,False,True,immunoglobulin variable light chain domain
+1826,4N1H,False,True,False,Camelid heavy-chain antibody variable fragment cAb-F11N
+1827,4N8C,False,True,False,Heavy chain of monoclonal antibody
+1828,4N8C,False,True,False,Light chain of monoclonal antibody
+1829,4N8V,False,False,True,Killer cell immunoglobulin-like receptor 2DS2
+1830,4N9G,False,True,False,"Antibody 17HD9, Heavy Chain"
+1831,4N9G,False,True,False,"Antibody 17HD9, Light Chain"
+1832,4NFB,False,False,True,Paired immunoglobulin-like type 2 receptor alpha
+1833,4NFC,False,False,True,Paired immunoglobulin-like type 2 receptor beta
+1834,4NFD,False,False,True,Paired immunoglobulin-like type 2 receptor beta
+1835,4NIK,False,True,False,Single-chain Fv fragment antibody
+1836,4NM4,False,True,False,"Antibody CR8043, Light Chain"
+1837,4NM4,False,True,False,"Antibody CR8043, Heavy Chain"
+1838,4NM8,False,True,False,"Antibody CR8043, Light Chain"
+1839,4NM8,False,True,False,"Antibody CR8043, Heavy Chain"
+1840,4NO0,False,False,True,Leukocyte immunoglobulin-like receptor subfamily B member 1
+1841,4NOB,False,False,True,Polymeric immunoglobulin receptor
+1842,4NOF,False,False,True,Polymeric immunoglobulin receptor
+1843,4NPD,False,False,True,Immunoglobulin G-binding protein A
+1844,4NPE,False,False,True,Immunoglobulin G-binding protein A
+1845,4NPF,False,False,True,Immunoglobulin G-binding protein A
+1846,4OB5,False,True,False,4E10 antibody germline precursor 7 heavy chain Fv
+1847,4OB5,False,True,False,4E10 antibody germline precursor 7 light chain Fv
+1848,4OGA,False,True,False,monoclonal antibody fab 83-7 fragment - heavy chain
+1849,4OGA,False,True,False,monoclonal antibody fab 83-7 fragment - light chain
+1850,4OII,False,True,False,Light Chain of Fab fragment of 22NS1 Antibody
+1851,4OII,False,True,False,Heavy Chain of Fab fragment of 22NS1 Antibody
+1852,4OLU,False,True,False,Antigen binding fragment of heavy chain: Antibody VRC01
+1853,4OLU,False,True,False,Antigen binding fragment of light chain: Antibody VRC01
+1854,4OLV,False,True,False,Antigen binding fragment of heavy chain: Antibody VRC01
+1855,4OLV,False,True,False,Antigen binding fragment of light chain: Antibody VRC01
+1856,4OLW,False,True,False,Antigen binding fragment of heavy chain: Antibody VRC01
+1857,4OLW,False,True,False,Antigen binding fragment of light chain: Antibody VRC01
+1858,4OLX,False,True,False,Antigen binding fragment of heavy chain: Antibody VRC01
+1859,4OLX,False,True,False,Antigen binding fragment of light chain: Antibody VRC01
+1860,4OLY,False,True,False,Antigen binding fragment of heavy chain: Antibody VRC01
+1861,4OLY,False,True,False,Antigen binding fragment of light chain: Antibody VRC01
+1862,4OLZ,False,True,False,Antigen binding fragment of heavy chain: Antibody VRC01
+1863,4OLZ,False,True,False,Antigen binding fragment of light chain: Antibody VRC01
+1864,4OM0,False,True,False,Antigen binding fragment of heavy chain: Antibody VRC01
+1865,4OM0,False,True,False,Antigen binding fragment of light chain: Antibody VRC01
+1866,4OM1,False,True,False,Antigen binding fragment of heavy chain: Antibody VRC01
+1867,4OM1,False,True,False,Antigen binding fragment of light chain: Antibody VRC01
+1868,4ONF,False,True,False,3D6 FAB ANTIBODY HEAVY CHAIN
+1869,4ONF,False,True,False,3D6 FAB ANTIBODY LIGHT CHAIN
+1870,4ONG,False,True,False,3D6 FAB ANTIBODY HEAVY CHAIN
+1871,4ONG,False,True,False,3D6 FAB ANTIBODY LIGHT CHAIN
+1872,4OQT,False,False,True,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 1
+1873,4ORZ,False,True,False,single domain antibody sdAb19
+1874,4OW1,True,False,False,Resuscitation-promoting factor RpfC
+1875,4OZ4,False,True,False,"Fab of monoclonal antibody, heavy chain"
+1876,4OZ4,False,True,False,"Fab of monoclonal antibody, light chain"
+1877,4P3C,False,True,False,Heavy Chain Fab fragment of antibody LEM-2/15
+1878,4P3C,False,True,False,Light Chain Fab fragment of antibody LEM-2/15
+1879,4P3D,False,True,False,Heavy Chain Fab fragment of antibody LEM-2/15
+1880,4P3D,False,True,False,Light Chain Fab fragment of antibody LEM-2/15
+1881,4P48,False,True,False,Antibody scFv 180
+1882,4P49,False,True,False,Antibody scFv B8
+1883,4PGJ,False,True,False,Human heavy chain domain antibody
+1884,4POU,False,True,False,VHH Antibody
+1885,4POZ,False,True,False,light chain of Fab fragment of 10B9 antibody
+1886,4POZ,False,True,False,heavy chain of Fab fragment of 10B9 antibody
+1887,4PP2,False,True,False,light chain of Fab fragment of 10B9 antibody
+1888,4PP2,False,True,False,heavy chain of Fab fragment of 10B9 antibody
+1889,4PPT,False,True,False,Engineered single domain VHH antibody
+1890,4PTT,False,True,False,"Antibody pn132p2C05, light chain"
+1891,4PTT,False,True,False,"Antibody pn132p2C05, heavy chain"
+1892,4PTU,False,True,False,"Antibody pn132p2C05, light chain"
+1893,4PTU,False,True,False,"Antibody pn132p2C05, heavy chain"
+1894,4PY7,False,True,False,antibody 3.1 heavy chain
+1895,4PY7,False,True,False,antibody 3.1 light chain
+1896,4PY8,False,True,False,antibody 3.1 heavy chain
+1897,4PY8,False,True,False,antibody 3.1 light chain
+1898,4Q2Z,False,True,False,Heavy chain of Fab fragment of HIV vaccine-elicited CD4bs-directed antibody
+1899,4Q2Z,False,True,False,Light chain of Fab fragment of HIV vaccine-elicited CD4bs-directed antibody
+1900,4QCI,False,True,False,anti-PDGF-BB antibody -  Light Chain
+1901,4QCI,False,True,False,anti-PDGF-BB antibody - Heavy chain
+1902,4QEX,False,True,False,Antibody Light Chain
+1903,4QEX,False,True,False,Antibody Heavy Chain
+1904,4QF1,False,True,False,Inferred unmutated ancestor (UA) of anti-HIV antibody CH59
+1905,4QKK,True,False,False,DNA (5'-D(*CP*TP*AP*(5FC)P*GP*(5FC)P*GP*(5FC)P*GP*TP*AP*G)-3')
+1906,4QNP,False,True,False,"neutralizing antibody, light chain"
+1907,4QNP,False,True,False,"neutralizing antibody, heavy chain"
+1908,4QT5,False,True,False,"3BD10 mouse monoclonal antibody, light chain"
+1909,4QT5,False,True,False,"3BD10 mouse monoclonal antibody, heavy chain"
+1910,4QTH,False,True,False,"anti-uPAR antibody, heavy chain"
+1911,4QTH,False,True,False,"anti-uPAR antibody, light chain"
+1912,4QTI,False,True,False,"anti-uPAR antibody, heavy chain"
+1913,4QTI,False,True,False,"anti-uPAR antibody, light chain"
+1914,4QWW,False,True,False,Fab410 antibody light chain
+1915,4QWW,False,True,False,Fab410 antibody heavy chain
+1916,4R0L,False,True,False,Antibody 1C6 Heavy chain
+1917,4R0L,False,True,False,Antibody 1C6 Light chain
+1918,4R2D,True,False,False,DNA (5'-D(*AP*GP*CP*GP*TP*GP*GP*GP*(5FC)P*GP*T)-3')
+1919,4R2D,True,False,False,DNA (5'-D(*TP*AP*(5FC)P*GP*CP*CP*CP*AP*CP*GP*C)-3')
+1920,4R2Q,True,False,False,DNA (5'-D(*AP*GP*CP*GP*TP*GP*GP*GP*(5FC)P*GP*T)-3')
+1921,4R2Q,True,False,False,DNA (5'-D(*TP*AP*(5FC)P*GP*CP*CP*CP*AP*CP*GP*C)-3')
+1922,4R4F,False,True,False,Antibody 2.2c LIGHT CHAIN
+1923,4R4F,False,True,False,Antibody 2.2c heavy CHAIN
+1924,4R4H,False,True,False,"Antibody 2.2c, Light chain"
+1925,4R4H,False,True,False,"Antibody 2.2c, Heavy chain"
+1926,4R4N,False,True,False,Antibody 2.2c LIGHT CHAIN
+1927,4R4N,False,True,False,Antibody 2.2c heavy CHAIN
+1928,4R8W,False,True,False,Heavy chain of neutralizing antibody CT149
+1929,4R8W,False,True,False,Light chain of neutralizing antibody CT149
+1930,4R97,False,True,False,platelet factor 4 antibody KKO light chain
+1931,4R97,False,True,False,platelet factor 4 antibody KKO heavy chain
+1932,4R9Y,False,True,False,Platelet factor 4 antibody KKO light chain
+1933,4R9Y,False,True,False,Platelet factor 4 antibody KKO heavy chain
+1934,4RDQ,False,True,False,"Fab antibody fragment, light chain"
+1935,4RDQ,False,True,False,"Fab antibody fragment, heavy chain"
+1936,4RFE,False,True,False,Fab heavy chain of ADCC-potent anti-HIV-1 antibody JR4
+1937,4RFE,False,True,False,Fab light chain of ADCC-potent  anti-HIV-1 antibody JR4
+1938,4RFN,False,True,False,FAB HEAVY CHAIN OF ADCC ANTI-HIV-1 ANTIBODY JR4
+1939,4RFN,False,True,False,FAB LIGHT CHAIN OF ADCC ANTI-HIV-1 ANTIBODY JR4
+1940,4RQQ,False,True,False,Human anti-HIV-1 antibody PGDM1400 light chain
+1941,4RQQ,False,True,False,Human anti-HIV-1 antibody PGDM1400 heavy chain
+1942,4RRP,False,True,False,"Fab antibody, light chain"
+1943,4RRP,False,True,False,"Fab antibody, heavy chain"
+1944,4RWY,False,True,False,Antibody 8ANC131 Heavy chain
+1945,4RWY,False,True,False,Antibody 8ANC131 Light chain
+1946,4S1Q,False,True,False,"Fab of VRC01-lineage antibody,45-VRC01.H03+06.D-001739 heavy chain"
+1947,4S1R,False,True,False,"Fab of VRC01-lineage antibody,45-VRC01.H08.F-117225 heavy chain"
+1948,4S1S,False,True,False,"Fab of VRC01-lineage antibody,45-VRC01.H5.F-185917 heavy chain"
+1949,4TRP,False,True,False,Heavy chain of monoclonal antibody against neuroblastoma associated antigen
+1950,4TRP,False,True,False,Light chain of monoclonal antibody against neuroblastoma associated antigen
+1951,4TUJ,False,True,False,Heavy chain of monoclonal antibody against neuroblastoma associated antigen
+1952,4TUJ,False,True,False,Light chain of monoclonal antibody against neuroblastoma associated antigen
+1953,4TUK,False,True,False,Heavy chain of monoclonal antibody against neuroblastoma associated antigen
+1954,4TUK,False,True,False,Light chain of monoclonal antibody against neuroblastoma associated antigen
+1955,4TUL,False,True,False,Heavy chain of monoclonal antibody against neuroblastoma associated antigen
+1956,4TUL,False,True,False,Light chain of monoclonal antibody against neuroblastoma associated antigen
+1957,4TUO,False,True,False,Heavy chain of monoclonal antibody against neuroblastoma associated antigen
+1958,4TUO,False,True,False,Light chain of monoclonal antibody against neuroblastoma associated antigen
+1959,4TYU,False,True,False,Single Domain Antibody
+1960,4U05,False,True,False,Single Domain Antibody
+1961,4U0R,False,True,False,Monoclonal antibody 9AD4 heavy chain
+1962,4U0R,False,True,False,Monoclonal antibody 9AD4 light chain
+1963,4U1G,False,True,False,QA1 monoclonal antibody heavy chain
+1964,4U1G,False,True,False,QA1 monoclonal antibody light chain
+1965,4U3X,False,True,False,Human VH domain antibody
+1966,4U6H,False,True,False,Heavy chain of murine anti-vaccinia L1 IgG2a antibody M12B9
+1967,4U6H,False,True,False,Light chain of murine anti-vaccinia L1 IgG2a antibody M12B9
+1968,4U7L,False,False,True,Leucine-rich repeats and immunoglobulin-like domains protein 1
+1969,4U7M,False,False,True,Leucine-rich repeats and immunoglobulin-like domains protein 1
+1970,4UAO,False,False,True,immunoglobulin R31C2 light chain
+1971,4UAO,False,False,True,immunoglobulin R31C2 VH and CH1 regions
+1972,4UBD,False,True,False,monoclonal antibody H chain
+1973,4UBD,False,True,False,monoclonal antibody L chain
+1974,4UDF,False,True,False,HUMAN MONOCLONAL ANTIBODY
+1975,4UDF,False,True,False,HUMAN MONOCLONAL ANTIBODY
+1976,4UIF,False,True,False,ANTIGEN-BINDING FRAGMENT OF HUMAN ANTIBODY 2D22 - HEAVY CHAIN
+1977,4UIF,False,True,False,ANTIGEN-BINDING FRAGMENT OF HUMAN ANTIBODY 2D22 - LIGHT CHAIN
+1978,4UIH,False,True,False,ANTIGEN-BINDING FRAGMENT OF HUMAN ANTIBODY 2D22 -HEAVY CHAIN
+1979,4UIH,False,True,False,ANTIGEN-BINDING FRAGMENT OF HUMAN ANTIBODY 2D22 -LIGHT CHAIN
+1980,4UT6,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 B7
+1981,4UT6,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2
+1982,4UT7,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11
+1983,4UT7,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11
+1984,4UT9,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE1 C10
+1985,4UT9,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE1 C10
+1986,4UTA,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE1 C8 HEAVY CHAIN
+1987,4UTA,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE1 C8 LIGHT CHAIN
+1988,4UTB,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11
+1989,4UTB,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11
+1990,4UUJ,False,True,False,ANTIBODY FAB FRAGMENT LIGHT CHAIN
+1991,4UUJ,False,True,False,ANTIBODY FAB FRAGMENT HEAVY CHAIN
+1992,4V1D,False,True,False,"SINGLE CHAIN ANTIBODY FRAGMENT LR, HEAVY CHAIN"
+1993,4V1D,False,True,False,"SINGLE CHAIN ANTIBODY FRAGMENT LR, LIGHT CHAIN"
+1994,4V1D,False,True,False,"SINGLE CHAIN ANTIBODY FRAGMENT RU1, HEAVY CHAIN"
+1995,4V1D,False,True,False,"SINGLE CHAIN ANTIBODY FRAGMENT RU1, LIGHT CHAIN"
+1996,4W4O,True,False,True,High affinity immunoglobulin gamma Fc receptor I
+1997,4W68,False,True,False,Single domain antibody
+1998,4W70,False,True,False,Single Domain Antibody
+1999,4W81,False,True,False,Single Domain Antibody
+2000,4WFE,False,True,False,ANTI-TRAAK ANTIBODY 13E9 FAB FRAGMENT LIGHT CHAIN
+2001,4WFE,False,True,False,ANTI-TRAAK ANTIBODY 13E9 FAB FRAGMENT HEAVY CHAIN
+2002,4WFF,False,True,False,ANTI-TRAAK ANTIBODY 13E9 FAB FRAGMENT LIGHT CHAIN
+2003,4WFF,False,True,False,ANTI-TRAAK ANTIBODY 13E9 FAB FRAGMENT HEAVY CHAIN
+2004,4WFG,False,True,False,ANTI-TRAAK ANTIBODY 13E9 FAB FRAGMENT LIGHT CHAIN
+2005,4WFG,False,True,False,ANTI-TRAAK ANTIBODY 13E9 FAB FRAGMENT HEAVY CHAIN
+2006,4WFH,False,True,False,ANTI-TRAAK ANTIBODY 13E9 FAB FRAGMENT LIGHT CHAIN
+2007,4WFH,False,True,False,ANTI-TRAAK ANTIBODY 13E9 FAB FRAGMENT HEAVY CHAIN
+2008,4WGV,False,True,False,"Camelid antibody fragment, nanobody"
+2009,4WGW,False,True,False,"Camelid antibody fragment, nanobody"
+2010,4WH4,False,False,True,Immunoglobulin G-binding protein G
+2011,4WHT,False,True,False,Heavy chain of the Fab fragment derived from neutralizing antibody 3/11
+2012,4WHT,False,True,False,Light chain of the Fab fragment derived from neutralizing antibody 3/11
+2013,4WHY,False,True,False,Heavy chain of Fab fragment derived from neutralizing antibody 3/11
+2014,4WHY,False,True,False,Light chain of Fab fragment derived from neutralizing antibody 3/11
+2015,4WUU,False,False,True,IMMUNOGLOBULIN HEAVY CHAIN
+2016,4WWI,False,False,True,Immunoglobulin G-binding protein A
+2017,4X4M,True,False,True,High affinity immunoglobulin gamma Fc receptor I
+2018,4XAK,False,True,False,Heavy chain of neutralizing antibody m336
+2019,4XAK,False,True,False,Light chain of neutralizing antibody m336
+2020,4XMK,False,True,False,Light chain of HIV-1 gp120 V3-specific human monoclonal antibody 2424
+2021,4XMK,False,True,False,Heavy chain of HIV-1 gp120 V3-specific human monoclonal antibody 2424
+2022,4XML,False,True,False,Light chain of HIV-1 gp120 V3-specific human monoclonal antibody 2424
+2023,4XML,False,True,False,Heavy chain of HIV-1 gp120 V3-specific human monoclonal antibody 2424
+2024,4XMM,False,True,False,Antibody 57 heavy chain
+2025,4XMM,False,True,False,Antibody 57 light chain
+2026,4XMN,False,True,False,Antibody 87 light chain
+2027,4XMN,False,True,False,Antibody 87 heavy chain
+2028,4XMP,False,True,False,HEAVY CHAIN OF ANTIBODY VRC08
+2029,4XMP,False,True,False,LIGHT CHAIN OF ANTIBODY VRC08
+2030,4XNU,False,True,False,antibody fragment light chain
+2031,4XNU,False,True,False,antibody fragment heavy chain
+2032,4XNX,False,True,False,antibody fragment light chain
+2033,4XNX,False,True,False,Antibody fragment heavy chain
+2034,4XNY,False,True,False,HEAVY CHAIN OF ANTIBODY VRC08C
+2035,4XNY,False,True,False,LIGHT CHAIN OF ANTIBODY VRC08C
+2036,4XNZ,False,True,False,HEAVY CHAIN OF ANTIBODY VRC06B
+2037,4XNZ,False,True,False,LIGHT CHAIN OF ANTIBODY VRC06B
+2038,4XP1,False,True,False,Antibody fragment light chain
+2039,4XP1,False,True,False,antibody fragment heavy chain
+2040,4XP4,False,True,False,"ANTIBODY FRAGMENT HEAVY CHAIN-PROTEIN, 9D5-HEAVY CHAIN"
+2041,4XP4,False,True,False,"ANTIBODY FRAGMENT HEAVY CHAIN-PROTEIN, 9D5-LIGHT CHAIN"
+2042,4XP5,False,True,False,"Antibody fragment heavy chain-protein, 9D5-heavy chain"
+2043,4XP6,False,True,False,"Antibody fragment heavy chain-protein, 9D5-heavy chain"
+2044,4XP6,False,True,False,"Antibody fragment light chain-protein, 9D5-light chain"
+2045,4XP9,False,True,False,"ANTIBODY FRAGMENT HEAVY CHAIN-PROTEIN, 9D5-HEAVY CHAIN"
+2046,4XP9,False,True,False,"ANTIBODY FRAGMENT LIGHT CHAIN-PROTEIN, 9D5-LIGHT CHAIN"
+2047,4XPA,False,True,False,"Antibody fragment heavy chain-protein, 9D5-heavy chain"
+2048,4XPA,False,True,False,"Antibody fragment light chain-protein, 9D5-light chain"
+2049,4XPB,False,True,False,"Antibody fragment heavy chain-protein, 9D5-heavy chain"
+2050,4XPB,False,True,False,"Antibody fragment light chain-protein, 9D5-light chain"
+2051,4XPF,False,True,False,"ANTIBODY FRAGMENT HEAVY CHAIN-PROTEIN, 9D5-HEAVY CHAIN"
+2052,4XPF,False,True,False,"ANTIBODY FRAGMENT LIGHT CHAIN-PROTEIN, 9D5-LIGHT CHAIN"
+2053,4XPG,False,True,False,antibody fragment light chain
+2054,4XPG,False,True,False,antibody fragment heavy chain
+2055,4XPH,False,True,False,Antibody fragment light chain
+2056,4XPH,False,True,False,Antibody fragment heavy chain
+2057,4XPT,False,True,False,antibody fragment light chain
+2058,4XPT,False,True,False,antibody fragment heavy chain
+2059,4XTR,False,True,False,Antibody Heavy chain
+2060,4XTR,False,True,False,Antibody Light chain
+2061,4XVJ,False,True,False,antibody heavy chain variable domain
+2062,4XVJ,False,True,False,antibody light chain variable domain
+2063,4XVU,False,True,False,Antibody heavy chain
+2064,4XVU,False,True,False,Antibody light chain
+2065,4XWO,False,True,False,Antibody heavy chain
+2066,4XWO,False,True,False,Antibody light chain
+2067,4XZU,False,True,False,3E6 antibody Fab heavy chain
+2068,4XZU,False,True,False,3E6 antibody Fab light chain
+2069,4Y4Y,False,False,True,"Immunoglobulin G-binding protein A,Coat protein"
+2070,4Y5Z,False,False,True,"Immunoglobulin G-binding protein A,Coat protein"
+2071,4YBL,False,True,False,A32 antibody Fab heavy chain
+2072,4YBL,False,True,False,A32 antibody light chain
+2073,4YBQ,False,True,False,antibody Fv fragment light chain
+2074,4YBQ,False,True,False,antibody Fv fragment heavy chain
+2075,4YC2,False,True,False,The antibody A32 Fab heavy chain.
+2076,4YC2,False,True,False,The antibody A32 Fab light chain.
+2077,4YDI,False,True,False,HEAVY CHAIN OF ANTIBODY Z258-VRC27.01
+2078,4YDI,False,True,False,LIGHT CHAIN OF ANTIBODY Z258-VRC27.01
+2079,4YDJ,False,True,False,HEAVY CHAIN OF ANTIBODY 44-VRC13.01
+2080,4YDJ,False,True,False,LIGHT CHAIN OF ANTIBODY 44-VRC13.01
+2081,4YDK,False,True,False,HEAVY CHAIN OF ANTIBODY C38-VRC16.01
+2082,4YDK,False,True,False,LIGHT CHAIN OF ANTIBODY C38-VRC16.01
+2083,4YDL,False,True,False,HEAVY CHAIN OF ANTIBODY C38-VRC18.02
+2084,4YDL,False,True,False,LIGHT CHAIN OF ANTIBODY C38-VRC18.02
+2085,4YDV,False,True,False,"HIV ANTIBODY 7B2 LIGHT CHAIN,Ig kappa chain C region"
+2086,4YDV,False,True,False,"HIV ANTIBODY 7B2 HEAVY CHAIN,IgG H chain"
+2087,4YE4,False,True,False,Heavy chain human antibody HJ16
+2088,4YK4,False,True,False,641 I-9 VLCL antibody
+2089,4YK4,False,True,False,641 I-9 VHCH antibody
+2090,4YWG,False,True,False,Light chain of anti-HIV-1 gp120 V1V2 antibody 830A
+2091,4YWG,False,True,False,Heavy chain of anti-HIV-1 gp120 V1V2 antibody 830A
+2092,4YZF,False,False,True,FAB fragment of Immunoglobulin (IgG) molecule
+2093,4YZF,False,False,True,FAB fragment of Immunoglobulin (IgG) molecule
+2094,4Z0B,False,True,False,antibody heavy chain
+2095,4Z0B,False,True,False,antibody light  chain
+2096,4Z0X,False,True,False,Antibody HC26AM light chain variable domain
+2097,4Z0X,False,True,False,Antibody HC26AM heavy chain variable domain
+2098,4Z5R,False,True,False,anti-IFN-a antibody rontalizumab light chain
+2099,4Z5R,False,True,False,anti-IFN-a antibody rontalizumab heavy chain modules VH and CH1 (Fab)
+2100,4Z7N,False,True,False,Monoclonal antibody 10E5 heavy chain
+2101,4Z7N,False,True,False,Monoclonal antibody 10E5 light chain
+2102,4Z7O,False,True,False,Monoclonal antibody 10E5 Fab heavy chain
+2103,4Z7O,False,True,False,Monoclonal antibody 10E5 Fab light chain
+2104,4Z7Q,False,True,False,Monoclonal antibody 10E5 heavy chain
+2105,4Z7Q,False,True,False,Monoclonal antibody 10E5 light chain
+2106,4Z9K,False,True,False,VHH2(F5) antibody
+2107,4ZMD,False,False,True,Immunoglobulin G-binding protein A
+2108,4ZNC,False,False,True,Immunoglobulin G-binding protein A
+2109,4ZNE,True,False,True,High affinity immunoglobulin gamma Fc receptor I
+2110,4ZSO,False,True,False,Antibody Light Chain
+2111,4ZSO,False,True,False,Antibody Heavy Chain
+2112,4ZTO,False,True,False,RABBIT MONOCLONAL ANTIBODY R53 FAB LIGHT CHAIN
+2113,4ZTO,False,True,False,RABBIT MONOCLONAL ANTIBODY R53 FAB HEAVY CHAIN
+2114,4ZTO,False,True,False,Epitope of rabbit monoclonal antibody R53
+2115,4ZTP,False,True,False,Light chain of Fab fragment of rabbit monoclonal antibody R53
+2116,4ZTP,False,True,False,Heavy chain of Fab fragment of rabbit monoclonal antibody R53
+2117,4ZYP,False,True,False,Motavizumab antibody Fab heavy chain
+2118,4ZYP,False,True,False,Motavizumab antibody light chain
+2119,4ZYP,False,True,False,AM14 antibody Fab heavy chain
+2120,4ZYP,False,True,False,AM14 antibody light chain
+2121,5A1Z,False,True,False,ANTIGEN-BINDING FRAGMENT OF HUMAN ANTIBODY 2D22 - HEAVY CHAIN
+2122,5A1Z,False,True,False,ANTIGEN-BINDING FRAGMENT OF HUMAN ANTIBODY 2D22 - LIGHT CHAIN
+2123,5A7X,False,True,False,FAB OF BROADLY NEUTRALIZING ANTIBODY 17B
+2124,5A7X,False,True,False,FAB OF BROADLY NEUTRALIZING ANTIBODY 17B
+2125,5A7X,False,True,False,FAB OF BROADLY NEUTRALIZING ANTIBODY 8ANC195
+2126,5A7X,False,True,False,FAB OF BROADLY NEUTRALIZING ANTIBODY 8ANC195
+2127,5A8H,False,True,False,FAB OF BROADLY NEUTRALIZING ANTIBODY 17B
+2128,5A8H,False,True,False,FAB OF BROADLY NEUTRALIZING ANTIBODY 17B
+2129,5A8H,False,True,False,FAB OF BROADLY NEUTRALIZING ANTIBODY 8ANC195 VARIANT G52K5
+2130,5A8H,False,True,False,FAB OF BROADLY NEUTRALIZING ANTIBODY 8ANC195 VARIANT G52K5
+2131,5ANM,False,False,True,IMMUNOGLOBULIN G
+2132,5ANM,False,False,True,IMMUNOGLOBULIN G
+2133,5AWF,True,False,False,Probable ATP-dependent transporter SufC
+2134,5AWG,True,False,False,Probable ATP-dependent transporter SufC
+2135,5AZ2,False,True,False,anti-human epiregulin antibody 9E5 Fab heavy chain
+2136,5AZ2,False,True,False,anti-human epiregulin antibody 9E5 Fab light chain
+2137,5B38,False,False,True,Killer cell immunoglobulin-like receptor 3DL1
+2138,5B39,False,False,True,Killer cell immunoglobulin-like receptor 3DL1
+2139,5B6F,False,True,True,anti-leukotriene C4 monoclonal antibody immunoglobulin kappa light chain
+2140,5B6F,False,True,True,anti-leukotriene C4 monoclonal antibody immunoglobulin gamma1 heavy chain
+2141,5BJT,True,False,False,IgG receptor FcRn large subunit p51
+2142,5BMG,False,False,True,Immunoglobulin G-binding protein G
+2143,5BMH,False,False,True,Immunoglobulin G-binding protein G
+2144,5BMI,False,False,True,Immunoglobulin G-binding protein G
+2145,5BOZ,False,True,False,VHH single chain antibody E1
+2146,5BW7,True,False,True,Low affinity immunoglobulin gamma Fc region receptor III-A
+2147,5BXF,True,False,False,IgG receptor FcRn large subunit p51
+2148,5BZD,False,True,False,5G8 HIV Antibody light chain
+2149,5BZD,False,True,False,5G8 HIV Antibody heavy chain
+2150,5BZW,False,True,False,2B3 HIV Antibody light chain
+2151,5BZW,False,True,False,2B3 HIV Antibody heavy chain
+2152,5C0S,False,True,False,CR6261 antibody heavy chain
+2153,5C0S,False,True,False,CR6261 antibody light chain
+2154,5C7K,False,True,False,Antibody Fab PGT128 heavy chain
+2155,5C7K,False,True,False,Antibody Fab PGT128 light chain
+2156,5C7K,False,True,False,Antibody Fab 8ANC195 heavy chain
+2157,5C7K,False,True,False,Antibody Fab 8ANC195 light chain
+2158,5C8J,False,True,False,"Antibody fragment, heavy chain"
+2159,5C8J,False,True,False,"Antibody fragment, light chain"
+2160,5CBN,False,False,True,"mbp3-16,Immunoglobulin G-binding protein A"
+2161,5CBO,False,False,True,"mbp3-16,Immunoglobulin G-binding protein A"
+2162,5CCK,False,True,False,Antibody 3BC315 Fab heavy chain
+2163,5CCK,False,True,False,Antibody 3BC315 Fab light chain
+2164,5CEX,False,True,False,Antibody 9H+3L Fab light chain
+2165,5CEX,False,True,False,Antibody 9H+3L Fab heavy chain
+2166,5CEY,False,True,False,Antibody 9H+3L Fab light chain
+2167,5CEY,False,True,False,Antibody 9H+3L Fab heavy chain
+2168,5CHN,False,True,False,Antibody 5M16 Fab Heavy Chain
+2169,5CHN,False,True,False,Antibody 5M16 Fab Light Chain
+2170,5CJ8,False,False,True,Osteoclast-associated immunoglobulin-like receptor
+2171,5CJB,False,False,True,Osteoclast-associated immunoglobulin-like receptor
+2172,5CMA,False,True,False,Antibody ch8H9 Fab light chain
+2173,5CMA,False,True,False,Antibody ch8H9 Fab heavy chain
+2174,5COC,False,False,True,"Immunoglobulin G-binding protein A,Calmodulin"
+2175,5CP3,False,True,False,Light Chain of Antigen-Binding Fragment of Monoclonal Antibody of 4C7
+2176,5CP3,False,True,False,Heavy Chain of Antigen-Binding Fragment of Monoclonal Antibody of 4C7
+2177,5CP7,False,True,False,Light Chain of Antigen-Binding Fragment of Monoclonal Antibody of 4C7
+2178,5CP7,False,True,False,Heavy Chain of Antigen-Binding Fragment of Monoclonal Antibody of 4C7
+2179,5D4K,False,False,True,Polymeric immunoglobulin receptor
+2180,5D6C,False,True,False,4497 antibody IgK (VL and CL)
+2181,5D6C,False,True,False,4497 antibody IgG1 (VH and CH1)
+2182,5D6D,True,False,True,Low affinity immunoglobulin gamma Fc region receptor III-A
+2183,5D93,False,True,False,Heavy Chain of Fab Fragment from a Mouse QSOX1-Specific Antibody
+2184,5D93,False,True,False,Light Chain of Fab Fragment from a Mouse QSOX1-Specific Antibody
+2185,5D96,False,True,False,Light chain of Fab fragment from an antibody targeting mouse and human QSOX1
+2186,5D96,False,True,False,Heavy chain of Fab fragment from an antibody targeting mouse and human QSOX1
+2187,5D9Y,True,False,False,DNA (5'-D(*AP*CP*TP*GP*TP*(5FC)P*GP*AP*AP*GP*CP*T)-3')
+2188,5DD0,False,True,False,ANTI-HIV ANTIBODY DH570 FAB HEAVY CHAIN
+2189,5DD0,False,True,False,ANTI-HIV ANTIBODY DH570 FAB HEAVY LIGHT
+2190,5DD1,False,True,False,ANTI-HIV ANTIBODY DH570 FAB HEAVY CHAIN
+2191,5DD1,False,True,False,ANTI-HIV ANTIBODY DH570 FAB LIGHT CHAIN
+2192,5DD3,False,True,False,ANTI-HIV ANTIBODY DH570.4 FAB HEAVY CHAIN
+2193,5DD3,False,True,False,ANTI-HIV ANTIBODY DH570.4 FAB LIGHT CHAIN
+2194,5DD5,False,True,False,ANTI-HIV ANTIBODY DH570.9 FAB HEAVY CHAIN
+2195,5DD5,False,True,False,ANTI-HIV ANTIBODY DH570.9 FAB HEAVY CHAIN
+2196,5DD6,False,True,False,ANTI-HIV ANTIBODY DH570.mut58 FAB HEAVY CHAIN
+2197,5DD6,False,True,False,ANTI-HIV ANTIBODY DH570.mut58 FAB LIGHT CHAIN
+2198,5DHV,False,True,False,"Anti-Rev Antibody Fab single-chain variable fragment, heavy chain"
+2199,5DHV,False,True,False,"Anti-Rev Antibody Fab single-chain variable fragment, light chain"
+2200,5DHV,False,True,False,"Anti-Rev Antibody Fab single-chain variable fragment, heavy chain"
+2201,5DHX,False,True,False,"Anti-Rev Antibody Fab single-chain variable fragment, light chain,Anti-Rev Antibody Fab single-chain variable fragment, heavy chain"
+2202,5DHY,False,True,False,"Anti-Rev Antibody Fab single-chain variable fragment, heavy chain"
+2203,5DHY,False,True,False,"Anti-Rev Antibody Fab single-chain variable fragment, light chain"
+2204,5DHZ,False,True,False,"Anti-Rev Antibody Fab single-chain variable fragment, heavy chain"
+2205,5DHZ,False,True,False,"Anti-Rev Antibody Fab single-chain variable fragment, light chain"
+2206,5DI8,True,False,False,Fc-III peptide
+2207,5DJ0,True,False,False,Fc-III peptide
+2208,5DJ2,True,False,False,Fc-III peptide
+2209,5DJ6,True,False,False,Fc-III peptide
+2210,5DJ8,True,False,False,Fc-III peptide
+2211,5DJA,True,False,False,Fc-III peptide
+2212,5DJC,True,False,False,Fc-III peptide
+2213,5DJD,True,False,False,Fc-III peptide
+2214,5DJX,True,False,False,Fc-III peptide
+2215,5DJY,True,False,False,Fc-III peptide
+2216,5DJZ,True,False,False,Fc-III peptide
+2217,5DK0,True,False,False,Fc-III peptide
+2218,5DK2,True,False,False,Fc-III peptide
+2219,5DLM,False,True,False,Heavy chain of monoclonal antibody
+2220,5DLM,False,True,False,Light chain of monoclonal antibody
+2221,5DMG,False,True,False,RB86 antibody Fab fragment heavy chain
+2222,5DMG,False,True,False,RB86 antibody Fab fragment light chain
+2223,5DMJ,False,True,False,3H65-5 domain antibody (dAb)
+2224,5DRW,False,True,False,CLL183 BCR antibody heavy chain
+2225,5DRW,False,True,False,CLL183 BCR antibody light chain
+2226,5DRZ,False,True,False,HIV Antibody F240 Light Chain
+2227,5DRZ,False,True,False,HIV Antibody F240 Heavy Chain
+2228,5DT1,False,True,False,Fab Heavy chain of broadly neutralizing antibody VRC26.25
+2229,5DT1,False,True,False,Fab Light chain of broadly neutralizing antibody VRC26.25
+2230,5DUR,False,True,False,Heavy Chain of Antibody 100F4
+2231,5DUR,False,True,False,Light Chain of Antibody 100F4
+2232,5DVL,True,False,False,Fc-III peptide
+2233,5DVM,True,False,False,Fc-III peptide
+2234,5DVN,True,False,False,Fc-III peptide
+2235,5DZN,False,False,True,T-cell immunoglobulin and mucin domain-containing protein 4
+2236,5E1A,False,True,False,antibody Fab fragment heavy chain
+2237,5E1A,False,True,False,antibody Fab fragment light chain
+2238,5E1H,False,True,False,F8(JOB10) VHH antibody
+2239,5E8D,False,True,False,anti-human epiregulin antibody 9E5 Fab heavy chain
+2240,5E8D,False,True,False,anti-human epiregulin antibody 9E5 Fab light chain
+2241,5E94,False,True,False,Antibody Fab fragment light chain
+2242,5E94,False,True,False,Antibody Fab fragment heavy chain
+2243,5EA0,False,True,False,Heavy chain of antibody 7968 Fab fragment
+2244,5EA0,False,True,False,Light chain of antibody 7968 Fab fragment
+2245,5EBL,False,True,False,Antibody Fab Fragment Light Chain
+2246,5EBL,False,True,False,Antibody Fab Fragment Light Chain
+2247,5EBM,False,True,False,Antibody Fab Fragment Light Chain
+2248,5EBM,False,True,False,Antibody Fab Fragment Light Chain
+2249,5EBW,False,True,False,Antibody Fab Fragment Light Chain
+2250,5EBW,False,True,False,Antibody Fab Fragment Light Chain
+2251,5EC1,False,True,False,Antibody Fab Fragment Light Chain
+2252,5EC1,False,True,False,Antibody Fab Fragment Light Chain
+2253,5EC2,False,True,False,Antibody Fab Fragment Light Chain
+2254,5EC2,False,True,False,Antibody Fab Fragment Light Chain
+2255,5EIQ,False,False,True,Osteoclast-associated immunoglobulin-like receptor
+2256,5EIV,False,False,True,Osteoclast-associated immunoglobulin-like receptor
+2257,5EOQ,False,True,False,Anti vaccinia virus A27 antibody Fab 1G6 heavy chain
+2258,5EOQ,False,True,False,Anti vaccinia virus A27 antibody Fab 1G6 light chain
+2259,5EOR,False,True,False,anti vaccinia virus A27 antibody 8E3 heavy chain
+2260,5EOR,False,True,False,anti vaccinia virus A27 antibody 8E3 light chain
+2261,5EPM,False,True,False,Antibody Fab fragment heavy chain
+2262,5EPM,False,True,False,Antibody Fab fragment light chain
+2263,5EWX,False,False,True,"Endolysin,Immunoglobulin G-binding protein A,Endolysin"
+2264,5EZO,True,False,False,PfCyRPA
+2265,5F1S,False,False,True,polymeric Immunoglobulin Receptor
+2266,5F3B,False,True,False,RK35 Chimeric antibody heavy chain
+2267,5F3B,False,True,False,RK35 Chimeric antibody light chain
+2268,5F3H,False,True,False,humanized RK35 antibody heavy chain
+2269,5F3H,False,True,False,humanized RK35 antibody light chain
+2270,5F3J,False,True,False,Antibody 2D10 single chain variable fragment
+2271,5F6H,False,True,False,DH427 Antibody Light Chain
+2272,5F6H,False,True,False,DH427 Antibody Heavy Chain
+2273,5F6I,False,True,False,DH428 Antibody Heavy Chain
+2274,5F6I,False,True,False,DH428 Antibody Light Chain
+2275,5F6J,False,True,False,DH427 Antibody Light Chain
+2276,5F6J,False,True,False,DH427 Antibody Heavy Chain
+2277,5F7F,False,False,True,T-cell immunoglobulin and mucin domain-containing protein 4
+2278,5F7H,False,False,True,T-cell immunoglobulin and mucin domain-containing protein 4
+2279,5F96,False,True,False,HEAVY CHAIN OF ANTIBODY CH235.12
+2280,5F96,False,True,False,LIGHT CHAIN OF ANTIBODY CH235.12
+2281,5F9W,False,True,False,Heavy chain of CH235-lineage antibody CH235
+2282,5F9W,False,True,False,Light chain of CH235-lineage antibody CH235
+2283,5FB8,False,True,False,Anti-IL-16 antibody 14.1 Fab domain Kappa Chain
+2284,5FB8,False,True,False,Anti-IL-16 antibody 14.1 Fab domain Heavy Chain
+2285,5FHA,False,True,False,Antibody 114 Fab heavy chain
+2286,5FHA,False,True,False,Antibody 114 Fab light chain
+2287,5FHB,False,True,False,Antibody 100 Fab heavy chain
+2288,5FHB,False,True,False,Antibody 100 Fab light chain
+2289,5FHC,False,True,False,Antibody 100 Fab heavy chain
+2290,5FHC,False,True,False,Antibody 100 Fab light chain
+2291,5FHC,False,True,False,Antibody 114 Fab light chain
+2292,5FHC,False,True,False,Antibody 114 Fab heavy chain
+2293,5FHX,False,True,False,antibody fragment heavy-chain
+2294,5FHX,False,True,False,Antibody fragment light chain
+2295,5FUU,False,False,True,IMMUNOGLOBULIN G PGT151
+2296,5FUU,False,False,True,IMMUNOGLOBULIN G PGT151
+2297,5FV1,False,True,False,VK DOMAIN ANTIBODY
+2298,5FV2,False,True,False,VH DOMAIN ANTIBODY
+2299,5FYL,False,True,False,35O22 ANTIBODY FAB HEAVY CHAIN
+2300,5FYL,False,True,False,35O22 ANTIBODY FAB LIGHT CHAIN
+2301,5FYL,False,True,False,PGT122 ANTIBODY FAB HEAVY CHAIN
+2302,5FYL,False,True,False,PGT122 ANTIBODY FAB LIGHT CHAIN
+2303,5GJS,False,True,False,light chain of human neutralizing antibody 3E1
+2304,5GJS,False,True,False,heavy chain of human neutralizing antibody 3E1
+2305,5GJT,False,True,False,light chain of human neutralizing antibody 3E1
+2306,5GJT,False,True,False,heavy chain of human neutralizing antibody 3E1
+2307,5GZN,False,True,False,Antibody Heavy chain
+2308,5GZN,False,True,False,Antibody light chain
+2309,5GZO,False,True,False,Antibody heavy chain
+2310,5GZO,False,True,False,Antibody light chain
+2311,5H2B,False,True,False,G196 antibody Heavy chain
+2312,5H2B,False,True,False,G196 antibody Light chain
+2313,5H75,False,False,True,"Mersacidin decarboxylase,Immunoglobulin G-binding protein A"
+2314,5H76,False,False,True,"DARPin,Immunoglobulin G-binding protein A"
+2315,5H77,False,False,True,"cAMP-dependent protein kinase type II-alpha regulatory subunit,Immunoglobulin G-binding protein A"
+2316,5H79,False,False,True,Immunoglobulin G-binding protein A
+2317,5H7A,False,False,True,Immunoglobulin G-binding protein A
+2318,5H7B,False,False,True,Immunoglobulin G-binding protein A
+2319,5H7C,False,False,True,"Immunoglobulin G-binding protein A, DHR14"
+2320,5H7D,False,False,True,"Putrescine aminotransferase,Immunoglobulin G-binding protein A"
+2321,5HDB,False,True,False,Monoclonal antibody 10E5 heavy chain
+2322,5HDB,False,True,False,Monoclonal antibody 10E5 light chain
+2323,5HFK,True,False,False,Disulfide-bond oxidoreductase YfcG
+2324,5HFY,False,False,True,Immunoglobulin G-binding protein G
+2325,5HG2,False,False,True,Immunoglobulin G-binding protein G
+2326,5HGG,False,True,False,"Camelid Derived Antibody Fragment, Nb4"
+2327,5HI1,False,False,True,Immunoglobulin G-binding protein G
+2328,5HJ3,False,True,False,KZ52 Antibody Fragment
+2329,5HJ3,False,True,False,KZ52 Antibody Fragment
+2330,5HM1,False,True,False,lama VHH antibody 2E7
+2331,5HN2,True,False,False,RNA (5'-R(*GP*UP*AP*(OFC)P*GP*UP*AP*C)-3')
+2332,5HNJ,True,False,False,RNA (5'-R(*GP*UP*AP*(OFC)P*GP*UP*AP*C)-3')
+2333,5HNQ,True,False,False,5fC modified RNA
+2334,5I0Z,False,True,False,catalytic DNA antibody
+2335,5I66,False,True,False,"8B6 antibody, heavy chain"
+2336,5I66,False,True,False,"8B6 antibody, light chain"
+2337,5I6X,False,True,False,"8B6 antibody, heavy chain"
+2338,5I6X,False,True,False,"8B6 antibody, light chain"
+2339,5I6Z,False,True,False,"8B6 antibody, heavy chain"
+2340,5I6Z,False,True,False,"8B6 antibody, light chain"
+2341,5I71,False,True,False,"8B6 antibody, heavy chain"
+2342,5I71,False,True,False,"8B6 antibody, light chain"
+2343,5I73,False,True,False,"8B6 antibody, heavy chain"
+2344,5I73,False,True,False,"8B6 antibody, light chain"
+2345,5I74,False,True,False,"8B6 antibody, heavy chain"
+2346,5I74,False,True,False,"8B6 antibody, light chain"
+2347,5I75,False,True,False,"8B6 antibody, heavy chain"
+2348,5I75,False,True,False,"8B6 antibody, light chain"
+2349,5I8O,False,True,False,HMM5 antibody heavy chain
+2350,5I8O,False,True,False,HMM5 antibody light chain
+2351,5IHL,False,True,False,3H56-5 domain antibody (dAb)
+2352,5IIE,False,True,False,antibody DH501 FabH chain
+2353,5IIE,False,True,False,antibody DH501 light chain
+2354,5IMK,False,False,True,V-set and immunoglobulin domain-containing protein 4
+2355,5IML,False,False,True,V-set and immunoglobulin domain-containing protein 4
+2356,5J4Z,True,False,False,COMPLEX I KFYI/NDUFC1
+2357,5J4Z,True,False,False,COMPLEX I B14.5B/NDUFC2
+2358,5J56,False,True,False,VHH single chain antibody V1C7
+2359,5J57,False,True,False,VHH single chain antibody V5E1
+2360,5J7Y,True,False,False,COMPLEX I KFYI/NDUFC1
+2361,5J7Y,True,False,False,COMPLEX I B14.5B/NDUFC2
+2362,5J8K,True,False,False,COMPLEX I KFYI/NDUFC1
+2363,5J8K,True,False,False,COMPLEX I B14.5B/NDUFC2
+2364,5JHL,False,True,False,Antibody Heavy chain
+2365,5JHL,False,True,False,antibody Light chain
+2366,5JS9,False,True,False,broadly neutralizing antibody PGT128 heavy chain
+2367,5JS9,False,True,False,broadly neutralizing antibody PGT128 light chain
+2368,5JS9,False,True,False,broadly neutralizing antibody 8ANC195 heavy chain
+2369,5JS9,False,True,False,broadly neutralizing antibody 8ANC195 light chain
+2370,5JSA,False,True,False,broadly neutralizing antibody PGT128 heavy chain
+2371,5JSA,False,True,False,broadly neutralizing antibody PGT128 light chain
+2372,5JSA,False,True,False,broadly neutralizing antibody 8ANC195 heavy chain
+2373,5JSA,False,True,False,broadly neutralizing antibody 8ANC195 light chain
+2374,5JXV,False,False,True,Immunoglobulin G-binding protein G
+2375,5JYM,False,True,False,Antibody scFv TSP11
+2376,5KAQ,False,True,False,ANTIBODY 31.A.83 FAB  HEAVY CHAIN
+2377,5KAQ,False,True,False,ANTIBODY 31.A.83 FAB LIGHT CHAIN
+2378,5KG9,False,True,False,Antibody RE505-22 Fab heavy chain
+2379,5KG9,False,True,False,Antibody RE505-22 Fab light chain
+2380,5KL4,True,False,False,DNA (5'-D(*AP*GP*CP*GP*TP*GP*GP*GP*(5FC)P*GP*T)-3')
+2381,5KN5,False,True,False,Epiregulin Antibody LY3016859 Fab Heavy Chain
+2382,5KN5,False,True,False,Epiregulin Antibody LY3016859 Fab Light Chain
+2383,5KNM,False,False,True,Leukocyte immunoglobulin-like receptor subfamily B member 1
+2384,5KQV,False,True,False,MONOCLONAL ANTIBODY FAB 83-14 - HEAVY CHAIN
+2385,5KQV,False,True,False,MONOCLONAL ANTIBODY FAB 83-14 - LIGHT CHAIN
+2386,5KVD,False,True,False,ZV-2 Antibody Fab Light Chain
+2387,5KVD,False,True,False,ZV-2 Antibody Fab Heavy Chain
+2388,5KVE,False,True,False,ZV-48 Antibody scFv Light Chain
+2389,5KVE,False,True,False,ZV-48 Antibody scFv Heavy chain
+2390,5KVF,False,True,False,ZV-64 Antibody Fab Light Chain
+2391,5KVF,False,True,False,ZV-64 Antibody Fab Heavy Chain
+2392,5KVG,False,True,False,ZV-67 Antibody Fab Light Chain
+2393,5KVG,False,True,False,ZV-67 Antibody Fab Heavy Chain
+2394,5KVL,False,False,True,Humanized 10G4 anti-Leukotriene C4 Immunoglobulin G (IgG) heavy chain Fab fragment
+2395,5KVL,False,False,True,Humanized 10G4 anti-Leukotriene C4 Immunoglobulin G (IgG) light chain
+2396,5KZP,False,True,False,HCV1-C1 Antibody Fab Heavy Chain
+2397,5KZP,False,True,False,HCV1-C1 Antibody Fab Light Chain
+2398,5L7X,False,True,False,"Mouse Antibody Fab Fragment, IgG1-kappa Heavy Chain"
+2399,5L7X,False,True,False,"Mouse Antibody Fab Fragment, IgG1-kappa Light Chain"
+2400,5L88,False,True,False,"Anti-afamin antibody N14, Fab fragment, heavy chain"
+2401,5L88,False,True,False,"Anti-afamin antibody N14, Fab fragment, light chain"
+2402,5L9D,False,True,False,"MOUSE ANTIBODY FAB FRAGMENT, IGG1-KAPPA HEAVY CHAIN"
+2403,5L9D,False,True,False,"MOUSE ANTIBODY FAB FRAGMENT, IGG1-KAPPA LIGHT CHAIN"
+2404,5LBS,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE1 C8
+2405,5LBS,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE1 C8
+2406,5LCV,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11
+2407,5LCV,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11
+2408,5LDN,False,True,False,antibody
+2409,5LDN,False,True,False,antibody
+2410,5LDW,True,False,False,"NADH dehydrogenase [ubiquinone] 1 subunit C2, NDUFC2,NADH dehydrogenase [ubiquinone] 1 subunit C2,NADH dehydrogenase [ubiquinone] 1 subunit C2, NDUFC2,NADH dehydrogenase [ubiquinone] 1 subunit C2,NADH dehydrogenase [ubiquinone] 1 subunit C2, NDUFC2,NADH dehydrogenase [ubiquinone] 1 subunit C2,NADH dehydrogenase [ubiquinone] 1 subunit C2, NDUFC2"
+2411,5LGH,False,True,False,"MOUSE ANTIBODY FAB FRAGMENT, IGG1-KAPPA HEAVY CHAIN"
+2412,5LGH,False,True,False,"MOUSE ANTIBODY FAB FRAGMENT, IGG1-KAPPA LIGHT CHAIN"
+2413,5LGK,True,False,True,Low affinity immunoglobulin epsilon Fc receptor
+2414,5LHN,False,True,False,Camelid-Derived Antibody Fragment Nb7
+2415,5LHP,False,True,False,Camelid-Derived Antibody Fragment
+2416,5LHQ,False,True,False,Camelid-Derived Antibody Fragment Nb7
+2417,5LHR,False,True,False,Camelid-Derived Antibody Fragment Nb22
+2418,5M94,False,True,False,"CAMELID ANTIBODY FRAGMENT, NANOBODY"
+2419,5M95,False,True,False,"CAMELID ANTIBODY FRAGMENT, NANOBODY"
+2420,5MI0,False,True,False,MONOCLONAL ANTIBODY 9AD4
+2421,5MI0,False,True,False,MONOCLONAL ANTIBODY 9AD4
+2422,5MU0,False,True,False,heavy chain of ACC1 antibody Fab fragment
+2423,5MU0,False,True,False,light chain of ACC1 antibody Fab fragment
+2424,5MV4,False,True,False,"ACC1 antibody Fab fragment, heavy chain"
+2425,5MV4,False,True,False,"ACC1 antibody Fab fragment, light chain"
+2426,5MX3,False,True,False,antibody Fab heavy chain
+2427,5MX3,False,True,False,antibody kappa chain
+2428,5N09,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11 - Heavy chain
+2429,5N09,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11 - Light chain
+2430,5N0A,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11 HEAVY CHAIN
+2431,5N0A,False,True,False,BROADLY NEUTRALIZING HUMAN ANTIBODY EDE2 A11
+2432,5NLU,False,True,False,single domain llama antibody Nb36
+2433,5NPH,False,True,False,Heavy chain of Fab fragment derived from non-neutralizing antibody DAO5
+2434,5NPH,False,True,False,Light chain of Fab fragment derived from non-neutralizing antibody DAO5
+2435,5NPI,False,True,False,Single chain variable fragment of the non-neutralizing antibody DAO5
+2436,5NPJ,False,True,False,Single chain variable fragment of the non-neutralizing antibody DAO5
+2437,5NSC,True,False,False,Fc-III peptide
+2438,5SV3,False,True,False,Anti-Ricin A-chain Single Domain Antibody (sdAb) A3C8
+2439,5SV4,False,True,False,Single Domain Antibody A3C8
+2440,5T29,False,True,False,Antibody 10E8 FAB HEAVY CHAIN
+2441,5T29,False,True,False,Antibody 10E8 FAB LIGHT CHAIN
+2442,5T4Z,False,True,False,antibody DH501 Fab heavy chain
+2443,5T4Z,False,True,False,antibody DH501 Fab light chain
+2444,5T5B,False,True,False,Antibody 10E8 FAB HEAVY CHAIN
+2445,5T5B,False,True,False,Antibody 10E8 FAB LIGHT CHAIN MUTATED
+2446,5T5F,False,True,False,Monoclonal antibody Jar5 heavy chain
+2447,5T5F,False,True,False,Monoclonal antibody Jar5 light chain
+2448,5T5N,False,True,False,"Fab antibody fragment, light chain (10D10)"
+2449,5T5N,False,True,False,"Fab antibody fragment, heavy chain (10D10)"
+2450,5T6L,False,True,False,Antibody 10E8 FAB HEAVY CHAIN
+2451,5T6L,False,True,False,Antibody 10E8 FAB LIGHT CHAIN
+2452,5T6Z,False,False,True,Killer cell immunoglobulin-like receptor 3DL1
+2453,5T70,False,False,True,Killer cell immunoglobulin-like receptor 3DL1
+2454,5T80,False,True,False,Antibody 10E8 FAB HEAVY CHAIN
+2455,5T80,False,True,False,Antibody 10E8 FAB LIGHT CHAIN
+2456,5T85,False,True,False,Antibody 10E8 FAB HEAVY CHAIN
+2457,5T85,False,True,False,Antibody 10E8 FAB LIGHT CHAIN
+2458,5TE4,False,True,False,Heavy  chain of antibody N6
+2459,5TE4,False,True,False,Light chain of antibody N6
+2460,5TFW,False,True,False,Antibody 10E8 FAB HEAVY CHAIN
+2461,5TFW,False,True,False,Antibody 10E8 FAB LIGHT CHAIN MUTANT2
+2462,5TIH,False,True,False,CyRPA antibody Fab Heavy Chain
+2463,5TIH,False,True,False,CyRPA antibody Fab Light Chain
+2464,5TOJ,False,True,False,Single-domain antibody F-VHH-4
+2465,5TOK,False,True,False,Single-domain antibody F-VHH-L66
+2466,5TQQ,False,True,False,"Monoclonal antibody, Fab fragment, light chain"
+2467,5TQQ,False,True,False,"Monoclonal antibody, Fab fragment, heavy chain"
+2468,5TR1,False,True,False,"Monoclonal antibody, Fab fragment, heavy chain"
+2469,5TR1,False,True,False,"Monoclonal antibody, Fab fragment, light chain"
+2470,5TSJ,False,True,False,Human heavy chain domain antibody
+2471,5U4Y,True,False,False,IgG1 fc
+2472,5U4Y,False,False,True,Immunoglobulin G-binding protein A
+2473,5U52,True,False,False,IGG1 FC
+2474,5U66,True,False,False,IgG1 fc derived from CD4-fc fusion
+2475,5UMN,False,True,False,"Antibody C05 VPGSGW mutant, heavy chain"
+2476,5UMN,False,True,False,"Antibody C05, light chain"
+2477,5USF,False,False,True,Immunoglobulin heavy chain variable region
+2478,5UY3,False,True,False,Antibody PGT144 Fab light chain
+2479,5UY3,False,True,False,Antibody PGT144 Fab heavy chain
+2480,5V2A,False,True,False,Light chain (kappa) of H7.167 antibody
+2481,5V2A,False,True,False,Heavy chain of H7.167 antibody
+2482,5V7J,False,True,False,Antibody 3H+109L Fab light chain
+2483,5V7J,False,True,False,Antibody 3H+109L Fab heavy chain
+2484,5V7J,False,True,False,Antibody 35O22 Fab light chain
+2485,5V7J,False,True,False,Antibody 35O22 Fab heavy chain
+2486,5V8L,False,True,False,"3BNC117 antibody, heavy chain"
+2487,5V8L,False,True,False,"PGT145 antibody, heavy chain"
+2488,5V8L,False,True,False,"3BNC117 antibody, light chain"
+2489,5V8L,False,True,False,"PGT145 antibody, light chain"
+2490,5V8M,False,True,False,"antibody 3BNC117, heavy chain"
+2491,5V8M,False,True,False,"antibody 3BNC117, light chain"
+2492,5VCO,False,True,False,LIGHT CHAIN OF FAB FRAGMENT OF 10B9 ANTIBODY
+2493,5VCO,False,True,False,HEAVY CHAIN OF FAB FRAGMENT OF 10B9 ANTIBODY
+2494,5VH5,True,False,False,Infliximab Fc
+2495,5W3E,False,True,False,C5 antibody variable heavy domain
+2496,5W3E,False,True,False,C5 antibody variable light domain
+2497,5W3L,False,True,False,C5 antibody variable heavy domain
+2498,5W3L,False,True,False,C5 antibody variable light domain
+2499,5W3M,False,True,False,C5 antibody variable heavy domain
+2500,5W3M,False,True,False,C5 antibody variable light domain
+2501,5W3O,False,True,False,C5 antibody variable heavy domain
+2502,5W3O,False,True,False,C5 antibody variable light domain
+2503,5WYJ,True,False,False,rRNA-processing protein FCF1
+2504,5WYK,True,False,False,rRNA-processing protein FCF1
+2505,5X3F,False,False,True,"Putrescine aminotransferase,Immunoglobulin G-binding protein A"
+2506,5XBY,False,False,True,"cAMP-dependent protein kinase type II-alpha regulatory subunit,Immunoglobulin G-binding protein A"
+2507,5XEZ,False,True,False,"Antibody, mAb1, heavy chain"
+2508,5XEZ,False,True,False,"Antibody, mAb1, light chain"
+2509,5XF1,False,True,False,Antibody mAb1 Heavy chain
+2510,5XF1,False,True,False,Antibody mAb1 Light chain

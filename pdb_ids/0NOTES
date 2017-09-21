@@ -1,0 +1,14 @@
+1) for getting all_pdb_ids.txt
+went to PDB
+clicked the hyperlink number of how many structures are in there
+    (see right next to their logo on main page)
+Refine Search
+    Structure Features --> Link records (any)
+    Structure Features --> Macromolecule Type
+        Contains Protein: Yes
+        Contains DNA: No
+        Contains RNA: No
+        Contains DNA/RNA Hybrid: No
+        (ignoring cases with DNA for clarity)
+select "list of select PDB IDs" from the Reports dropdown
+copy and pasted IDs to a txt file
